@@ -6,6 +6,7 @@ $X_{train}$ $\rightarrow$ Learner (learning algorithm) $\rightarrow$ f (predicto
 **Modeling:** the question of what types of predictors we should consider
 **Inference:** is about how to compute y given x
 **Learning:** how do you take data and produce a predictor to create an inference
+**Target:** the characteristic that you are training for
 
 #### Example
 "abc@mail.com" $\rightarrow\rightarrow\rightarrow\rightarrow$ \[length>10 : 1, fracOfAlpha : 0.85, contain_@ : 1, endsWith_.com : 1, endsWith_.org : 0]

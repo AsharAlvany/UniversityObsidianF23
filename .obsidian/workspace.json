@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1b4c1a85cd0078",
+        "id": "4b13210109799ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "a3735e3f786aa057",
+            "id": "49715e9c95075ea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Entity-Relationship Model.md",
+                "file": "Discrete Mathematics/Functions and Relations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Entity-Relationship Model.md",
+                "file": "Discrete Mathematics/Functions and Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Entity-Relationship Model.md",
+                "file": "Discrete Mathematics/Functions and Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Entity-Relationship Model.md"
+                "file": "Discrete Mathematics/Functions and Relations.md"
               }
             }
           }
@@ -166,14 +166,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ce2221add56a50c",
+  "active": "97e81b51de5d3e61",
   "lastOpenFiles": [
+    "University Physics II/Sounds.md",
+    "University Physics II/Formulas.md",
+    "Machine Learning/Intro to Machine Learning.md",
+    "University Physics II/Untitled",
+    "Machine Learning/Untitled.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Untitled 1.md",
+    "Screenshots/Pasted image 20230828150053.png",
+    "Screenshots/Pasted image 20230822144116.png.md",
+    "Databases/Entity-Relationship Model.md",
     "Images/Pasted image 20230831175751.png",
     "Images/Pasted image 20230831175230.png",
     "Discrete Mathematics/Finite Automata and Regular Expressions.md",
     "Images/Pasted image 20230831132641.png",
     "Images/Pasted image 20230831131624.png",
-    "University Physics II/Formulas.md",
     "Discrete Mathematics/Graphs.md",
     "Discrete Mathematics/Notation.md",
     "Discrete Mathematics/logic.md",
@@ -186,25 +195,17 @@
     "Images/Pasted image 20230830145503.png",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Training Data.md",
-    "Machine Learning/Intro to Machine Learning.md",
     "Databases/Database Architecture.md",
-    "Databases/Entity-Relationship Model.md",
     "Images/Pasted image 20230829182007.png",
     "Images/Pasted image 20230829180125.png",
     "Images/Pasted image 20230829175511.png",
-    "Images/Pasted image 20230829175500.png",
-    "Images/Pasted image 20230829175144.png",
     "Advanced Algorithms/Functions.md",
     "Discrete Mathematics/Proof by Construction.md",
     "Discrete Mathematics/Proof by Contradiction.md",
     "Discrete Mathematics/De Morgan's Law.md",
     "Advanced Algorithms/Describing Algorithms.md",
     "Advanced Algorithms/Tower of Hanoi.md",
-    "Operating Systems/Concurrency.md",
     "Screenshots",
-    "Operating Systems/Virtualization.md",
-    "Operating Systems/Persistence.md",
-    "University Physics II/Waves.md",
     "Images",
     "Operating Systems",
     "Machine Learning",
@@ -212,7 +213,6 @@
     "Advanced Algorithms",
     "Excalidraw",
     "University Physics II",
-    "Data Structures and Algorithms",
-    "Discrete Mathematics"
+    "Data Structures and Algorithms"
   ]
 }
