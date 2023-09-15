@@ -11,7 +11,7 @@ $$s(x,t) = s_{max}\cos(kx\mp \omega t + \phi)$$
 - **Solid rod or bar**:$$v=\sqrt{\frac{Y}{\rho}}$$
 - **Ideal Gas:**$$v=\sqrt{\frac{\gamma RT_K}{M}}$$
 	- Speed of sound in air at sea level can be approximated as$$v=331\frac{m}{s}\sqrt{\frac{T_K}{273  K}}$$
-**Wave Intensity** $$I = \frac{(\Delta p _{max})^2}{2\rho v}$$
+**Wave Intensity** $$I = \frac{(\Delta p _{max})^2}{2\rho v}$$$$I=\frac{P}{A}$$
 **Sound Intensity Level (decibels)** $$\beta(dB) = 10\log_{10}(\frac{I}{I_0})$$
 	where $I_0 = 10^{-12}$
 **Interference** when two or more waves overlap in the same region of space
@@ -21,7 +21,7 @@ $$s(x,t) = s_{max}\cos(kx\mp \omega t + \phi)$$
 $$\lambda_n = \frac{4}{n}L \ \ | \ \ n = 1,3,5,...$$
 **Resonant Frequency of a tube closed at one end**
 $$f_n=n\frac{v}{4L} \ \ | \ \ n = 1,3,5,...$$
-**Resonant Wavelength of a tube open at both ends
+**Resonant Wavelength of a tube open at both ends**
 $$\lambda_n = \frac{2}{n}L \ \ | \ \ n = 1,2,3,...$$
 **Resonant Frequency of a tube open at both ends**
 $$f_n=n\frac{v}{2L} \ \ | \ \ n = 1,2,3,...$$

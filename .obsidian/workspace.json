@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b13210109799ae5",
+        "id": "ca05dde77f33dfbf",
         "type": "tabs",
         "children": [
           {
-            "id": "49715e9c95075ea3",
+            "id": "9e50a81ae72c9b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics/Functions and Relations.md",
+                "file": "Machine Learning/Gradient Descent With Multiple Variables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics/Functions and Relations.md",
+                "file": "Machine Learning/Gradient Descent With Multiple Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics/Functions and Relations.md",
+                "file": "Machine Learning/Gradient Descent With Multiple Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Mathematics/Functions and Relations.md"
+                "file": "Machine Learning/Gradient Descent With Multiple Variables.md"
+              }
+            }
+          },
+          {
+            "id": "3952eaaf484f3766",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          },
+          {
+            "id": "7867a69c1e3ed239",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -152,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
+    "width": 268.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,45 +183,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97e81b51de5d3e61",
+  "active": "9e50a81ae72c9b93",
   "lastOpenFiles": [
-    "University Physics II/Sounds.md",
-    "University Physics II/Formulas.md",
     "Machine Learning/Intro to Machine Learning.md",
-    "University Physics II/Untitled",
-    "Machine Learning/Untitled.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Untitled 1.md",
-    "Screenshots/Pasted image 20230828150053.png",
-    "Screenshots/Pasted image 20230822144116.png.md",
+    "Databases/Sample ER Diagram.md",
+    "Excalidraw/Drawing 2023-09-05 17.37.47.excalidraw.md",
+    "Databases/Relational Schema.md",
     "Databases/Entity-Relationship Model.md",
-    "Images/Pasted image 20230831175751.png",
-    "Images/Pasted image 20230831175230.png",
-    "Discrete Mathematics/Finite Automata and Regular Expressions.md",
-    "Images/Pasted image 20230831132641.png",
-    "Images/Pasted image 20230831131624.png",
-    "Discrete Mathematics/Graphs.md",
-    "Discrete Mathematics/Notation.md",
-    "Discrete Mathematics/logic.md",
-    "Advanced Algorithms/Divide, Conquer, and Combine.md",
-    "Advanced Algorithms/Sorting Algorithms.md",
-    "Advanced Algorithms/Merge Sort.md",
-    "Advanced Algorithms/Pseudocode Practice.md",
-    "Operating Systems/Booting.md",
-    "Images/Pasted image 20230830145918.png",
-    "Images/Pasted image 20230830145503.png",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Training Data.md",
     "Databases/Database Architecture.md",
-    "Images/Pasted image 20230829182007.png",
-    "Images/Pasted image 20230829180125.png",
-    "Images/Pasted image 20230829175511.png",
-    "Advanced Algorithms/Functions.md",
-    "Discrete Mathematics/Proof by Construction.md",
-    "Discrete Mathematics/Proof by Contradiction.md",
-    "Discrete Mathematics/De Morgan's Law.md",
-    "Advanced Algorithms/Describing Algorithms.md",
+    "Databases/ER-to-Relational Mapping Algorithm.md",
+    "Images/Pasted image 20230914175116.png",
+    "Images/Pasted image 20230914174800.png",
+    "Images/Pasted image 20230914174642.png",
+    "Images/Pasted image 20230914174511.png",
+    "Images/Pasted image 20230914174428.png",
+    "Images/Pasted image 20230914173858.png",
+    "Images/Pasted image 20230914173657.png",
+    "Images/Pasted image 20230914173632.png",
+    "Advanced Algorithms/Multi digit multiplication.md",
+    "Discrete Mathematics/Properties of Reg Sets.md",
+    "Images/Pasted image 20230914140310.png",
+    "Discrete Mathematics/Finite Automata and Regular Expressions.md",
+    "Discrete Mathematics/Proposition.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Excalidraw/Drawing 2023-09-14 13.17.38.excalidraw.md",
+    "Images/Pasted image 20230914131705.png",
+    "Excalidraw/Drawing 2023-09-13 10.34.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-14 10.07.29.excalidraw.md",
+    "Advanced Algorithms/Recurrence Tree Method.md",
+    "Excalidraw/Drawing 2023-09-14 10.49.50.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-14 11.05.01.excalidraw.md",
+    "Untitled 1.md",
+    "Operating Systems/Virtual Memory.md",
+    "Machine Learning/Gradient Descent With Multiple Variables.md",
+    "Advanced Algorithms/Substitution Method.md",
+    "Advanced Algorithms/Solving Recurrence Relations.md",
     "Advanced Algorithms/Tower of Hanoi.md",
+    "Advanced Algorithms/Describing Algorithms.md",
+    "Theta Tau",
+    "University Physics II/Untitled",
     "Screenshots",
     "Images",
     "Operating Systems",
@@ -212,7 +230,6 @@
     "Databases",
     "Advanced Algorithms",
     "Excalidraw",
-    "University Physics II",
-    "Data Structures and Algorithms"
+    "University Physics II"
   ]
 }

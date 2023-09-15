@@ -11,7 +11,7 @@ A **function/mapping** takes an input and produces an output.
 * if f is one-to-one and onto
 if a function's range is {0, 1} then that function is a predicate/property
 ___
-**Reflexive** a relation is reflexive if any element is related to itself $\forall a \epsilon A : aRa$
+	**Reflexive** a relation is reflexive if any eleament is related to itself $\forall a \epsilon A : aRa$
 **Irreflexive** when any element is NOT related to itself $\forall a \epsilon A : a \not R a$
 **Symmetry** $\forall a, b \epsilon A : aRb \Rightarrow bRa$
 **Antisymmetry** $\forall a,b \epsilon A: aRb \land bRa \Rightarrow a = b$

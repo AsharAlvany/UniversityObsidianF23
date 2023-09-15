@@ -64,3 +64,4 @@ Derived attributes: The value has been calculated by other attributes
 * Not a n-ary relationship...they do not interact with each-other in this relationship
 * Yet they all link to another entity through a common relationship
 ![[Pasted image 20230831175751.png]]
+#### Dictionary
