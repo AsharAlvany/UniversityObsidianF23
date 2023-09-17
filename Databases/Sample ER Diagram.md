@@ -1,4 +1,4 @@
-i![[Drawing 2023-09-05 17.37.47.excalidraw]]
+![[Drawing 2023-09-05 17.37.47.excalidraw]]
 Audience
 - Age - Int
 - Region - Int

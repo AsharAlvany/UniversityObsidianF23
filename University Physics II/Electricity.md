@@ -17,4 +17,5 @@ The magnitude of the electric force between two charges
 $$F_{12}=k\frac{|q_1||q_2|}{r^2}$$ where k =  $8.99 \cdot 10^9$ (coulomb's constant) q are the charges, in Coulomb's and r is the distance
 **Electric Field**
 $$E=\frac{F_0}{q_0}$$
+Electric fields are always pointed towards the negative charge and away from the positive electron
 ![[Pasted image 20230909121415.png]]
