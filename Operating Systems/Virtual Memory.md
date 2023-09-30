@@ -19,7 +19,7 @@ The main technique that allows virtual memory is **Paging**
 * Register **CR3** points towards the **Page Directory**
 * We access a page table by a 32-bit linear (or virtual) address ![[Pasted image 20230911145524.png]]![[Pasted image 20230911145614.png]]
 * The page number is split into an upper 10 bits that contain the page directory that points to a specific table and then the index of the page directory points to a page table and then the lower 10 bits of the page number points to the index within the page table then the table points to the physical memory location (before adding the offset from the final 12 bits from the original 32 bit virtual address)![[Pasted image 20230911150027.png]]
-* **Summary:** First 5 bits give you the virtual page number, and last 3 bits give you the offset. Mapping of virtual page number and append the offset is the physical address![[Pasted image 20230911150438.png]]
+* **Summary:** First 5 bits give you the virtual page number, and last 3 bits give you the offset (to get the directory index shift the first 5 bits 10 to the right (0x08048 >> 10) to get resulting page directory entry). Mapping of virtual page number and append the offset is the physical address![[Pasted image 20230911150438.png]]
 * To enable paging, the flag needs to be raised through CR0 and the page directory address (physical) needs to be stored in CR3
 * Without optimization the lookup time (from virtual memory to physical address) is 601 cycles
 * Through the use of CPU cache (Translation Lookaside Buffer (TLB)) we can reduce this time down to 4 cycles, if there is a TLB hit
@@ -42,3 +42,11 @@ Why? To accomplish different things at the same physical address
 **Page Directory** - 4KB, 1024 entries, 4 byte entry
 ![[Pasted image 20230913152356.png]]
 kern is SHARED among the processes but each process could run different application programs
+![[Pasted image 20230918144401.png]]
+	CR3 register points to the page directory and each entry within the directory is pointing to a page table 
+
+*How are physical memory pages allocated?*
+PageInfo is a function that populates an array called pages that stores all the pages as elements into the array. Given 128MB memory then there will be 32,768 pages
+*How to find a physical page given a PageInfo index?*
+index = current_pointer - array_pointer
+index << 12 (PGSHIFT)

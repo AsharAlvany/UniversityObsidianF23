@@ -6,3 +6,4 @@ f(n) = o(g(n)) :  a $\lt$ b : means that g(n) GROWS FASTER
 f(n) = $\omega$(g(n)) : a $\gt$ b : means that f(n) GROWS FASTER
 f(n) = O(g(n)) : a $\leq$ b : f is NO WORSE THAN g
 f(n) = $\Omega$(g(n)) : a $\geq$ b : g is NO WORSE THAN f
+![[Drawing 2023-09-28 10.09.04.excalidraw]]
