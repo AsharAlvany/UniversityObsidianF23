@@ -21,6 +21,8 @@ Project
 PRODUCT
 PROJECTr
 PK
+Parallel
+Permittivity
 Lema
 Last
 Lookaside
@@ -77,6 +79,10 @@ iret
 include
 indicates
 indicating
+insulator
+inner
+individual
+increase
 used
 under
 user
@@ -97,6 +103,7 @@ updated
 uniform
 us
 understand
+unit
 to
 this
 the
@@ -157,6 +164,9 @@ total
 their
 tm
 ti
+ther
+third
+thus
 find
 fragmentation
 from
@@ -247,6 +257,7 @@ left
 local
 least
 lots
+less
 regular
 right
 resulting
@@ -309,6 +320,9 @@ restored
 registers
 role
 relationship
+ratio
+radii
+radius
 or
 of
 other
@@ -341,6 +355,7 @@ onto
 owning
 option
 overlapping
+outer
 not
 negation
 need
@@ -439,6 +454,8 @@ assigning
 acts
 approach
 ary
+added
+across
 process
 program
 physical
@@ -501,6 +518,12 @@ place
 participation
 participating
 plus
+pair
+parallel
+plates
+placing
+plate
+present
 The
 There
 Three
@@ -576,6 +599,8 @@ entities
 entity
 expensive
 easier
+equivalent
+expressed
 Regular
 Register
 Relational
@@ -676,6 +701,10 @@ subclass
 superclass
 specify
 surrogate
+separated
+small
+spherical
+shells
 closed
 can
 contiguous
@@ -751,6 +780,17 @@ category
 customary
 creating
 correspond
+conductors
+capacitor
+charged
+conductor
+capacitance
+conducting
+comparison
+cocenctric
+coaxial
+cylindrical
+cylinder
 given
 global
 give
@@ -866,6 +906,10 @@ domains
 disjoint
 drawbacks
 discriminating
+dimensions
+dielectric
+decrease
+density
 know
 kern
 key
@@ -952,6 +996,8 @@ voluntarily
 visualize
 very
 various
+voltage
+vacuum
 Have
 How
 Handler
@@ -987,6 +1033,7 @@ Subclass
 Si
 Single
 Sm
+Series
 KB
 Key
 Knowledge
@@ -1051,6 +1098,8 @@ Circle
 Choose
 Create
 Categories
+Capacitor
+Coulomb
 Directory
 DIRECTORY
 Dependency
@@ -1071,6 +1120,7 @@ Derivation
 DIFFERENCE
 DIVISION
 Dividing
+Density
 We
 Without
 Why
@@ -1096,6 +1146,7 @@ Free
 FASTER
 Foreign
 FROM
+Farad
 you
 your
 yields
