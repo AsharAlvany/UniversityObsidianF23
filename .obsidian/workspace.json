@@ -11,9 +11,12 @@
             "id": "9fb53309dee956b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md"
+                "file": "Operating Systems/Booting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pumping le",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.50043487548828,
-    "collapsed": true
+    "width": 253.50043487548828
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
+                "file": "Operating Systems/Booting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
+                "file": "Operating Systems/Booting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md"
+                "file": "Operating Systems/Booting.md"
               }
             }
           },
@@ -184,6 +186,7 @@
   },
   "active": "9fb53309dee956b2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
     "Discrete Mathematics/Properties of Reg Sets.md",
     "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
     "Advanced Algorithms/Asymptotic.md",
@@ -219,7 +222,6 @@
     "Machine Learning/Logistic Regression.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Exam 1 Materials.md",
-    "Advanced Algorithms/Substitution Method.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
