@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Master",
+                "query": "pumping le",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,11 +63,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 253.50043487548828
+    "width": 253.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md"
               }
             }
           },
@@ -182,6 +184,8 @@
   },
   "active": "9fb53309dee956b2",
   "lastOpenFiles": [
+    "Discrete Mathematics/Properties of Reg Sets.md",
+    "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
     "Advanced Algorithms/Asymptotic.md",
     "Advanced Algorithms/Master Method.md",
     "University Physics II/Capacitance.md",
@@ -196,7 +200,6 @@
     "Images/Pasted image 20230928173320.png",
     "Discrete Mathematics/Context Free Grammars.md",
     "Images/Pasted image 20230928135249.png",
-    "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
     "Operating Systems/User-Kernel Context Switch.md",
     "Images/Pasted image 20230927152834.png",
     "Images/Pasted image 20230927151626.png",
@@ -217,7 +220,6 @@
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Exam 1 Materials.md",
     "Advanced Algorithms/Substitution Method.md",
-    "Databases/Normal Forms.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",

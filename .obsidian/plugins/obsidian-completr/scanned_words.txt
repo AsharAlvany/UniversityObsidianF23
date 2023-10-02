@@ -196,6 +196,7 @@ fault
 frontier
 followed
 foreign
+files
 whether
 waste
 within
@@ -601,6 +602,7 @@ expensive
 easier
 equivalent
 expressed
+ed
 Regular
 Register
 Relational
@@ -791,6 +793,7 @@ cocenctric
 coaxial
 cylindrical
 cylinder
+cc
 given
 global
 give
@@ -910,6 +913,7 @@ dimensions
 dielectric
 decrease
 density
+ddcf
 know
 kern
 key
@@ -964,6 +968,7 @@ EXAMPLE
 EFLAGS
 Execution
 Entity
+Embedded
 Manage
 Mapping
 MB
