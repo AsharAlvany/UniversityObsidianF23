@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91f69d19feafbd1e",
+        "id": "2e19940ee1479f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb53309dee956b2",
+            "id": "e9505f6a9ccafaca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Algorithms/Dynamic Algorithm.md",
+                "file": "Discrete Mathematics/Properties of Reg Sets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pumping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Algorithms/Dynamic Algorithm.md",
+                "file": "Discrete Mathematics/Properties of Reg Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Algorithms/Dynamic Algorithm.md",
+                "file": "Discrete Mathematics/Properties of Reg Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Algorithms/Dynamic Algorithm.md"
+                "file": "Discrete Mathematics/Properties of Reg Sets.md"
               }
             }
           },
@@ -184,44 +185,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fb53309dee956b2",
+  "active": "e9505f6a9ccafaca",
   "lastOpenFiles": [
+    "Discrete Mathematics/Normal Forms.md",
+    "Databases/Database Architecture.md",
+    "Databases/Normal Forms.md",
+    "Excalidraw/Drawing 2023-09-13 10.34.26.excalidraw.md",
+    "Advanced Algorithms/Recurrence Tree Method.md",
+    "Advanced Algorithms/Solving Recurrence Relations.md",
+    "Advanced Algorithms/Functions.md",
+    "Advanced Algorithms/Multi digit multiplication.md",
+    "Advanced Algorithms/Sorting Algorithms.md",
+    "Advanced Algorithms/Merge Sort.md",
+    "Advanced Algorithms/Divide, Conquer, and Combine.md",
+    "Advanced Algorithms/Tower of Hanoi.md",
+    "Advanced Algorithms/Describing Algorithms.md",
+    "Advanced Algorithms/Pseudocode Practice.md",
+    "Advanced Algorithms/Fast Multiply.md",
+    "Advanced Algorithms/Exponentiation.md",
+    "Advanced Algorithms/Master Method.md",
+    "Advanced Algorithms/Asymptotic.md",
+    "Advanced Algorithms/Dynamic Algorithm.md",
     "Images/Pasted image 20231002195832.png",
     "Operating Systems/Booting.md",
     "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
     "Discrete Mathematics/Properties of Reg Sets.md",
     "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
-    "Advanced Algorithms/Asymptotic.md",
-    "Advanced Algorithms/Master Method.md",
     "University Physics II/Capacitance.md",
     "Images/Pasted image 20230929223556.png",
     "Operating Systems/Registers.md",
     "Databases/Relational Algebra.md",
-    "Databases/ER-to-Relational Mapping Algorithm.md",
-    "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
-    "Databases/ER-to-Relationship Model.md",
-    "Databases/Basic SQL.md",
     "Images/Pasted image 20230928173354.png",
     "Images/Pasted image 20230928173320.png",
-    "Discrete Mathematics/Context Free Grammars.md",
     "Images/Pasted image 20230928135249.png",
-    "Operating Systems/User-Kernel Context Switch.md",
     "Images/Pasted image 20230927152834.png",
     "Images/Pasted image 20230927151626.png",
     "Images/Pasted image 20230927151600.png",
     "Images/Pasted image 20230926133900.png",
     "Images/Pasted image 20230926132326.png",
-    "Images/Pasted image 20230926132051.png",
-    "Discrete Mathematics/Regular Expressions.md",
-    "Excalidraw/Drawing 2023-09-13 10.34.26.excalidraw.md",
-    "Advanced Algorithms/Recurrence Tree Method.md",
-    "Excalidraw/Drawing 2023-09-14 10.07.29.excalidraw.md",
-    "University Physics II/Electric Potential.md",
-    "Machine Learning/Gradient Descent With Multiple Variables.md",
-    "Machine Learning/Intro to Machine Learning.md",
-    "Machine Learning/Training Data.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Logistic Regression.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
