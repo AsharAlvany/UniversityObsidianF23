@@ -277,6 +277,8 @@ loader
 line
 ljmp
 long
+lot
+look
 regular
 right
 resulting
@@ -344,6 +346,9 @@ radii
 radius
 read
 raises
+recompute
+repeat
+repeated
 or
 of
 other
@@ -482,6 +487,7 @@ across
 aa
 applies
 assigned
+answers
 process
 program
 physical
@@ -664,6 +670,8 @@ REFERENCE
 ROM
 Read
 Real
+RECURSION
+Recursion
 sets
 set
 system
@@ -751,6 +759,8 @@ sector
 segment
 selector
 stay
+steps
+seen
 closed
 can
 contiguous
@@ -844,6 +854,8 @@ calculate
 check
 control
 clipped
+computes
+calls
 given
 global
 give
@@ -973,6 +985,8 @@ device
 disk
 descriptors
 disabled
+don
+dynamic
 know
 kern
 key
@@ -1016,6 +1030,7 @@ bytes
 backward
 bounds
 bootloader
+best
 Efficiency
 Entry
 ENTRY
@@ -1064,6 +1079,7 @@ MHz
 Memory
 Mode
 MBR
+Memoization
 virtual
 values
 variable
@@ -1240,6 +1256,7 @@ FASTER
 Foreign
 FROM
 Farad
+Fibonacci
 you
 your
 yields
@@ -1288,6 +1305,7 @@ Attrs
 Attr
 Access
 Address
+AVOID
 Internal
 In
 It
@@ -1322,6 +1340,7 @@ xffff
 jobs
 jumps
 jump
+just
 JOIN
 JOS
 QEMU

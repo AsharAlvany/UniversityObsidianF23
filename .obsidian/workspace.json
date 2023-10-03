@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Booting.md",
+                "file": "Advanced Algorithms/Dynamic Algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.50043487548828
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Booting.md",
+                "file": "Advanced Algorithms/Dynamic Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Booting.md",
+                "file": "Advanced Algorithms/Dynamic Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Booting.md"
+                "file": "Advanced Algorithms/Dynamic Algorithm.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "9fb53309dee956b2",
   "lastOpenFiles": [
+    "Images/Pasted image 20231002195832.png",
+    "Operating Systems/Booting.md",
     "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
     "Discrete Mathematics/Properties of Reg Sets.md",
     "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
@@ -220,8 +222,6 @@
     "Machine Learning/Training Data.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning/Logistic Regression.md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Exam 1 Materials.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
