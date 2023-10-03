@@ -32,3 +32,13 @@ SELECT Pnumber, Dnum, Lname, Address, Bdate FROM PROJECT, DEPARTMENT, EMPLOYEE W
 - SELECT-FROM-AS-WHERE
 	- To rename data-tables
 If the where keyword is not used then the resulting effect is the CROSS PROUCT
+![[Pasted image 20231003175927.png]]
+**NULL**
+- Unknown value
+- Unavailable or withhold
+- Not applicable attribute
+Truth table of NULL
+- True OR (Anything) is TRUE
+- False AND (Anything) is FLASE
+- Unknown AND True is Unknown
+- Unknown OR False is Unknown

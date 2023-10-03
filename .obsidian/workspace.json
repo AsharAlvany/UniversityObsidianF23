@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics/Properties of Reg Sets.md",
+                "file": "Databases/Basic SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics/Properties of Reg Sets.md",
+                "file": "Databases/Basic SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics/Properties of Reg Sets.md",
+                "file": "Databases/Basic SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Mathematics/Properties of Reg Sets.md"
+                "file": "Databases/Basic SQL.md"
               }
             }
           },
@@ -167,12 +165,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +184,8 @@
   },
   "active": "e9505f6a9ccafaca",
   "lastOpenFiles": [
+    "Images/Pasted image 20231003175927.png",
+    "Discrete Mathematics/Properties of Reg Sets.md",
     "Discrete Mathematics/Normal Forms.md",
     "Databases/Database Architecture.md",
     "Databases/Normal Forms.md",
@@ -209,12 +208,10 @@
     "Images/Pasted image 20231002195832.png",
     "Operating Systems/Booting.md",
     "Excalidraw/Drawing 2023-09-19 13.05.12.excalidraw.md",
-    "Discrete Mathematics/Properties of Reg Sets.md",
     "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
     "University Physics II/Capacitance.md",
     "Images/Pasted image 20230929223556.png",
     "Operating Systems/Registers.md",
-    "Databases/Relational Algebra.md",
     "Images/Pasted image 20230928173354.png",
     "Images/Pasted image 20230928173320.png",
     "Images/Pasted image 20230928135249.png",

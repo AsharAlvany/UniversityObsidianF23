@@ -30,6 +30,7 @@ PROGRAMS
 Polylogarithmically
 Pseudocode
 Pre
+PROUCT
 Lema
 Last
 Lookaside
@@ -129,6 +130,7 @@ unit
 utility
 universal
 users
+update
 to
 this
 the
@@ -200,6 +202,7 @@ transitively
 th
 teacher
 together
+triffered
 find
 fragmentation
 from
@@ -398,6 +401,10 @@ record
 results
 require
 reconfigured
+referred
+reject
+referential
+rename
 or
 of
 other
@@ -549,6 +556,11 @@ apply
 arrays
 affords
 asking
+alter
+add
+alternate
+action
+altering
 process
 program
 physical
@@ -662,6 +674,7 @@ TYPE
 THAN
 Types
 Third
+Terminology
 expression
 entry
 enable
@@ -722,6 +735,7 @@ efficient
 element
 easy
 end
+effect
 Regular
 Register
 Relational
@@ -858,6 +872,7 @@ smallest
 simplest
 savings
 systems
+structure
 closed
 can
 contiguous
@@ -961,6 +976,9 @@ conceptual
 concerned
 controlling
 changed
+catalog
+clause
+command
 given
 global
 give
@@ -1112,6 +1130,8 @@ dependency
 diagram
 drives
 definition
+databases
+drop
 know
 kern
 key
@@ -1121,6 +1141,7 @@ keys
 keyboard
 keep
 keeping
+keyword
 be
 between
 by
@@ -1239,6 +1260,7 @@ various
 voltage
 vacuum
 views
+violation
 Have
 How
 Handler
@@ -1287,6 +1309,8 @@ Sort
 Selection
 Shell
 Splitting
+Specifies
+SET
 KB
 Key
 Knowledge
@@ -1328,6 +1352,8 @@ Union
 Upper
 Uses
 Updating
+Unique
+Useful
 Virtual
 Vector
 Validation
@@ -1369,6 +1395,11 @@ Codd
 Closer
 Connected
 Conceptual
+Catalog
+CANDIDATE
+CASCADE
+Constraint
+CROSS
 Directory
 DIRECTORY
 Dependency
@@ -1396,6 +1427,9 @@ Do
 Divide
 Database
 Desired
+DBMS
+Default
+DEFAULT
 We
 Without
 Why
@@ -1406,6 +1440,7 @@ What
 WORSE
 Weak
 Write
+WHERE
 First
 Fragmentation
 Functional
@@ -1454,6 +1489,7 @@ Bogo
 BC
 Boyce
 BCNF
+BDMS
 One
 Overfitting
 Out
@@ -1484,6 +1520,9 @@ Address
 AVOID
 Analyzing
 Algo
+Altering
+Attach
+AS
 Internal
 In
 It
@@ -1515,6 +1554,7 @@ NULL
 No
 Numbers
 Notation
+Name
 quadratic
 question
 quantum
