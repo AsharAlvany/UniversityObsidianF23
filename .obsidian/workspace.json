@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab0894818b377f3",
+        "id": "97c1e7fec8cc4dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "e86ad51998b55bc7",
+            "id": "136d29741785e7b4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md"
+                "file": "Operating Systems/System Calls and Page Faults.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -36,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
+                "file": "Operating Systems/System Calls and Page Faults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
+                "file": "Operating Systems/System Calls and Page Faults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md"
+                "file": "Operating Systems/System Calls and Page Faults.md"
               }
             }
           },
@@ -181,8 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e86ad51998b55bc7",
+  "active": "136d29741785e7b4",
   "lastOpenFiles": [
+    "Images/Pasted image 20231004145654.png",
+    "Images/Pasted image 20231004144639.png",
+    "Images/Pasted image 20231004143714.png",
+    "Operating Systems/User-Kernel Context Switch.md",
+    "Operating Systems/System Calls and Page Faults.md",
+    "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
     "Databases/ER-to-Relationship Model.md",
     "Databases/Relational Algebra.md",
     "Databases/ER-to-Relational Mapping Algorithm.md",
@@ -206,10 +215,6 @@
     "Advanced Algorithms/Tower of Hanoi.md",
     "Advanced Algorithms/Describing Algorithms.md",
     "Advanced Algorithms/Pseudocode Practice.md",
-    "Advanced Algorithms/Fast Multiply.md",
-    "Advanced Algorithms/Exponentiation.md",
-    "Advanced Algorithms/Master Method.md",
-    "Advanced Algorithms/Asymptotic.md",
     "Images/Pasted image 20231002195832.png",
     "Images/Pasted image 20230929223556.png",
     "Images/Pasted image 20230928173354.png",
@@ -217,8 +222,6 @@
     "Images/Pasted image 20230928135249.png",
     "Images/Pasted image 20230927152834.png",
     "Images/Pasted image 20230927151626.png",
-    "Images/Pasted image 20230927151600.png",
-    "Images/Pasted image 20230926133900.png",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
