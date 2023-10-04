@@ -108,6 +108,12 @@ itself
 insert
 integer
 incrementing
+item
+items
+identifies
+ids
+indivisible
+integrity
 used
 under
 user
@@ -133,6 +139,9 @@ utility
 universal
 users
 update
+uniquely
+unknown
+usage
 to
 this
 the
@@ -205,6 +214,7 @@ th
 teacher
 together
 triffered
+theory
 find
 fragmentation
 from
@@ -242,6 +252,11 @@ functional
 fail
 frame
 formats
+formal
+foundation
+foriegn
+facilities
+few
 whether
 waste
 within
@@ -408,6 +423,11 @@ referred
 reject
 referential
 rename
+respected
+referencing
+rules
+references
+referenced
 or
 of
 other
@@ -444,6 +464,7 @@ outer
 old
 obj
 outlined
+ordered
 not
 negation
 need
@@ -472,6 +493,8 @@ nature
 neighbor
 nothing
 non
+numbers
+null
 and
 are
 applications
@@ -564,6 +587,9 @@ add
 alternate
 action
 altering
+angled
+atomic
+arrow
 process
 program
 physical
@@ -649,6 +675,11 @@ per
 part
 prime
 pairs
+possible
+product
+power
+propagate
+pulls
 The
 There
 Three
@@ -678,6 +709,10 @@ THAN
 Types
 Third
 Terminology
+Tuple
+They
+That
+TIP
 expression
 entry
 enable
@@ -739,6 +774,11 @@ element
 easy
 end
 effect
+enclosed
+expressive
+enforced
+exist
+existing
 Regular
 Register
 Relational
@@ -768,6 +808,10 @@ Recursion
 Recurrence
 Radix
 Requirements
+Relation
+Referential
+RESTRICT
+Represent
 sets
 set
 system
@@ -876,6 +920,11 @@ simplest
 savings
 systems
 structure
+strength
+subsets
+sequential
+semantic
+specified
 closed
 can
 contiguous
@@ -982,6 +1031,12 @@ changed
 catalog
 clause
 command
+concept
+comes
+consistent
+column
+considered
+cardinality
 given
 global
 give
@@ -1049,6 +1104,9 @@ merging
 merged
 makes
 most
+management
+max
+minimal
 Goals
 Given
 Gradient
@@ -1135,6 +1193,11 @@ drives
 definition
 databases
 drop
+distinct
+designed
+domain
+deletion
+drawing
 know
 kern
 key
@@ -1190,6 +1253,8 @@ below
 breaking
 bringing
 broken
+brackets
+beyond
 Efficiency
 Entry
 ENTRY
@@ -1219,6 +1284,8 @@ ELF
 Exponentials
 Exponential
 English
+Explicit
+ER
 Manage
 Mapping
 MB
@@ -1247,6 +1314,7 @@ MERGE
 Multiplication
 Model
 Mid
+MODIFY
 virtual
 values
 variable
@@ -1265,6 +1333,7 @@ voltage
 vacuum
 views
 violation
+valid
 Have
 How
 Handler
@@ -1315,6 +1384,9 @@ Shell
 Splitting
 Specifies
 SET
+Surrogate
+Superkey
+SK
 KB
 Key
 Knowledge
@@ -1322,6 +1394,7 @@ Kernel
 Kleene
 Keep
 KNN
+Keys
 zero
 hexadecimal
 hit
@@ -1347,6 +1420,7 @@ had
 halfway
 holds
 handles
+hold
 Use
 Unsupervised
 User
@@ -1359,6 +1433,7 @@ Uses
 Updating
 Unique
 Useful
+Usually
 Virtual
 Vector
 Validation
@@ -1406,6 +1481,8 @@ CASCADE
 Constraint
 CROSS
 Concepts
+Cartesian
+Constraints
 Directory
 DIRECTORY
 Dependency
@@ -1436,6 +1513,9 @@ Desired
 DBMS
 Default
 DEFAULT
+Denoted
+Domains
+DELETE
 We
 Without
 Why
@@ -1529,6 +1609,10 @@ Algo
 Altering
 Attach
 AS
+Artificial
+Attribute
+Atomic
+Application
 Internal
 In
 It
@@ -1549,6 +1633,11 @@ Insertion
 Ideas
 Instance
 Independence
+Inherit
+Implicit
+Integrity
+Is
+INSERT
 Normal
 NF
 Note
@@ -1561,6 +1650,7 @@ No
 Numbers
 Notation
 Name
+Null
 quadratic
 question
 quantum
