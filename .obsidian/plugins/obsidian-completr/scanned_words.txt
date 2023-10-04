@@ -31,6 +31,8 @@ Polylogarithmically
 Pseudocode
 Pre
 PROUCT
+Python
+PCA
 Lema
 Last
 Lookaside
@@ -239,6 +241,7 @@ fast
 functional
 fail
 frame
+formats
 whether
 waste
 within
@@ -1142,6 +1145,7 @@ keyboard
 keep
 keeping
 keyword
+kinds
 be
 between
 by
@@ -1317,6 +1321,7 @@ Knowledge
 Kernel
 Kleene
 Keep
+KNN
 zero
 hexadecimal
 hit
@@ -1400,6 +1405,7 @@ CANDIDATE
 CASCADE
 Constraint
 CROSS
+Concepts
 Directory
 DIRECTORY
 Dependency
