@@ -114,6 +114,7 @@ identifies
 ids
 indivisible
 integrity
+intercept
 used
 under
 user
@@ -142,6 +143,7 @@ update
 uniquely
 unknown
 usage
+unlimited
 to
 this
 the
@@ -215,6 +217,8 @@ teacher
 together
 triffered
 theory
+translation
+trying
 find
 fragmentation
 from
@@ -257,6 +261,8 @@ foundation
 foriegn
 facilities
 few
+fails
+faulting
 whether
 waste
 within
@@ -289,6 +295,7 @@ whose
 would
 whole
 whenever
+write
 language
 loaded
 linear
@@ -338,6 +345,7 @@ ll
 linked
 logical
 layer
+longer
 regular
 right
 resulting
@@ -428,6 +436,7 @@ referencing
 rules
 references
 referenced
+remaining
 or
 of
 other
@@ -590,6 +599,10 @@ altering
 angled
 atomic
 arrow
+arbitrary
+applicable
+arguments
+allocate
 process
 program
 physical
@@ -680,6 +693,8 @@ product
 power
 propagate
 pulls
+privileges
+private
 The
 There
 Three
@@ -779,6 +794,8 @@ expressive
 enforced
 exist
 existing
+executed
+err
 Regular
 Register
 Relational
@@ -812,6 +829,7 @@ Relation
 Referential
 RESTRICT
 Represent
+Reference
 sets
 set
 system
@@ -925,6 +943,8 @@ subsets
 sequential
 semantic
 specified
+separation
+secure
 closed
 can
 contiguous
@@ -1037,6 +1057,7 @@ consistent
 column
 considered
 cardinality
+copy
 given
 global
 give
@@ -1054,6 +1075,7 @@ go
 grammar
 grow
 geometric
+gate
 methods
 memory
 main
@@ -1107,6 +1129,7 @@ most
 management
 max
 minimal
+malicious
 Goals
 Given
 Gradient
@@ -1198,6 +1221,7 @@ designed
 domain
 deletion
 drawing
+documented
 know
 kern
 key
@@ -1286,6 +1310,7 @@ Exponential
 English
 Explicit
 ER
+Executes
 Manage
 Mapping
 MB
@@ -1387,6 +1412,9 @@ SET
 Surrogate
 Superkey
 SK
+Share
+Saves
+Swapping
 KB
 Key
 Knowledge
@@ -1421,6 +1449,7 @@ halfway
 holds
 handles
 hold
+happen
 Use
 Unsupervised
 User
@@ -1483,6 +1512,7 @@ CROSS
 Concepts
 Cartesian
 Constraints
+Copy
 Directory
 DIRECTORY
 Dependency
@@ -1516,6 +1546,7 @@ DEFAULT
 Denoted
 Domains
 DELETE
+Design
 We
 Without
 Why
@@ -1576,6 +1607,7 @@ BC
 Boyce
 BCNF
 BDMS
+Because
 One
 Overfitting
 Out
@@ -1588,6 +1620,8 @@ Overlapping
 Output
 Otherwise
 Only
+Occurs
+Other
 Another
 Attributes
 AI
@@ -1613,6 +1647,9 @@ Artificial
 Attribute
 Atomic
 Application
+Any
+Allocating
+Allocate
 Internal
 In
 It
@@ -1638,6 +1675,7 @@ Implicit
 Integrity
 Is
 INSERT
+Invalid
 Normal
 NF
 Note
