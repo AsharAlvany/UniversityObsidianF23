@@ -42,3 +42,10 @@ Truth table of NULL
 - False AND (Anything) is FLASE
 - Unknown AND True is Unknown
 - Unknown OR False is Unknown
+**Join**
+![[Pasted image 20231005173541.png]]
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |

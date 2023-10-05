@@ -11,12 +11,9 @@
             "id": "136d29741785e7b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "University Physics II/Electric Potential.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md"
               }
             }
           },
@@ -83,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -111,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Physics II/Electric Potential.md",
+                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Physics II/Electric Potential.md",
+                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Physics II/Electric Potential.md"
+                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md"
               }
             }
           },
@@ -199,8 +195,11 @@
   },
   "active": "136d29741785e7b4",
   "lastOpenFiles": [
-    "University Physics II/Electricity.md",
+    "Databases/ER-to-Relationship Model.md",
+    "Databases/Basic SQL.md",
+    "Images/Pasted image 20231005173541.png",
     "University Physics II/Electric Potential.md",
+    "University Physics II/Electricity.md",
     "Advanced Algorithms/Longest common subsequence.md",
     "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
     "Advanced Algorithms/Edit Distance.md",
@@ -213,13 +212,11 @@
     "Images/Pasted image 20231004143714.png",
     "Operating Systems/User-Kernel Context Switch.md",
     "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
-    "Databases/ER-to-Relationship Model.md",
     "Databases/Relational Algebra.md",
     "Databases/ER-to-Relational Mapping Algorithm.md",
     "Databases/Relational Schema.md",
     "Machine Learning/KNN.md",
     "Machine Learning/Exam 1 Materials.md",
-    "Databases/Basic SQL.md",
     "Images/Pasted image 20231003175927.png",
     "Discrete Mathematics/Properties of Reg Sets.md",
     "Discrete Mathematics/Normal Forms.md",
@@ -230,11 +227,9 @@
     "Advanced Algorithms/Solving Recurrence Relations.md",
     "Advanced Algorithms/Functions.md",
     "Advanced Algorithms/Multi digit multiplication.md",
-    "Advanced Algorithms/Sorting Algorithms.md",
     "Images/Pasted image 20231002195832.png",
     "Images/Pasted image 20230929223556.png",
     "Images/Pasted image 20230928173354.png",
-    "Images/Pasted image 20230928173320.png",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
