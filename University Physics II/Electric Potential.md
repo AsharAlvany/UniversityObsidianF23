@@ -16,7 +16,7 @@ $$U=kq_0\sum_i\frac{q_i}{r_i}$$
 	where $r_i$ is the distance from the charge $q_i$ to charge $q_0$
 
 Electric Potential is defined as:
-$$V=\frac{U}{q_0}$$
+$$V=\frac{U}{q_0} = \frac{-W_E}{q_0}$$
 	The SI symbol is the volt V = J/C
 
 ![[Pasted image 20230923131711.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Algorithms/Longest common subsequence.md",
+                "file": "University Physics II/Electric Potential.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,30 +21,19 @@
             }
           },
           {
-            "id": "c5b568477840bb1a",
+            "id": "88fde9f7344818e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Algorithms/Edit Distance.md",
+                "file": "University Physics II/Electricity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "1f392f6544666e02",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
+                "file": "University Physics II/Electric Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
+                "file": "University Physics II/Electric Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md"
+                "file": "University Physics II/Electric Potential.md"
               }
             }
           },
@@ -208,11 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f392f6544666e02",
+  "active": "136d29741785e7b4",
   "lastOpenFiles": [
-    "Advanced Algorithms/Edit Distance.md",
-    "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
+    "University Physics II/Electricity.md",
+    "University Physics II/Electric Potential.md",
     "Advanced Algorithms/Longest common subsequence.md",
+    "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
+    "Advanced Algorithms/Edit Distance.md",
     "Images/Pasted image 20231005104042.png",
     "Excalidraw/Drawing 2023-10-05 10.16.14.excalidraw.md",
     "Images/Pasted Image 20231005101806_499.png",
@@ -240,8 +231,6 @@
     "Advanced Algorithms/Functions.md",
     "Advanced Algorithms/Multi digit multiplication.md",
     "Advanced Algorithms/Sorting Algorithms.md",
-    "Advanced Algorithms/Merge Sort.md",
-    "Advanced Algorithms/Divide, Conquer, and Combine.md",
     "Images/Pasted image 20231002195832.png",
     "Images/Pasted image 20230929223556.png",
     "Images/Pasted image 20230928173354.png",
