@@ -11,9 +11,12 @@
             "id": "136d29741785e7b4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md"
+                "file": "University Physics II/Electric Potential.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -80,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
+                "file": "University Physics II/Electric Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
+                "file": "University Physics II/Electric Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md"
+                "file": "University Physics II/Electric Potential.md"
               }
             }
           },
@@ -195,11 +199,12 @@
   },
   "active": "136d29741785e7b4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
+    "University Physics II/Electric Potential.md",
+    "University Physics II/Electricity.md",
     "Databases/ER-to-Relationship Model.md",
     "Databases/Basic SQL.md",
     "Images/Pasted image 20231005173541.png",
-    "University Physics II/Electric Potential.md",
-    "University Physics II/Electricity.md",
     "Advanced Algorithms/Longest common subsequence.md",
     "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
     "Advanced Algorithms/Edit Distance.md",
@@ -211,7 +216,6 @@
     "Images/Pasted image 20231004144639.png",
     "Images/Pasted image 20231004143714.png",
     "Operating Systems/User-Kernel Context Switch.md",
-    "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
     "Databases/Relational Algebra.md",
     "Databases/ER-to-Relational Mapping Algorithm.md",
     "Databases/Relational Schema.md",

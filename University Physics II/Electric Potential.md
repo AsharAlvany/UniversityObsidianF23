@@ -31,3 +31,6 @@ Electron Volt is the change in potential electric energy experienced by an elect
 $$1 eV = 1.602 \cdot10^{-19} J$$
 An Equipotential Surface is a three dimensional surface on which the electric potential V is the same at every point. Equipotential Surfaces and Electric Field Lines are always mutually perpendicular.
  ![[Pasted image 20230923132328.png]]
+ΔE equals the work $𝑊_{NC}$ done on the system by the nonconservative applied force
+ΔU equals the work $𝑊_{C}$ done on the system by the conservative applied force
+	ΔK equals the total work $\Sigma 𝑊$ done on the system by the sum of all applied forces
