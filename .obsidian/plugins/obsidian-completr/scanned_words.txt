@@ -514,6 +514,7 @@ non
 numbers
 null
 negative
+nonconservative
 and
 are
 applications
@@ -614,6 +615,7 @@ applicable
 arguments
 allocate
 away
+applied
 process
 program
 physical
@@ -814,6 +816,7 @@ existing
 executed
 err
 electrons
+equals
 Regular
 Register
 Relational
@@ -1077,6 +1080,7 @@ considered
 cardinality
 copy
 coulomb
+conservative
 given
 global
 give

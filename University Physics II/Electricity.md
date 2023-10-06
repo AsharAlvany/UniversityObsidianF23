@@ -4,7 +4,7 @@ Four Fundamental Forces
 - Electromagnetic Force
 - Strong Nuclear Force
 The magnitude of charge of the electron or proton is a natural unit of charge, called the fundamental charge e. All observable charge is quantized using this unit: 
-$$e = 1.6022 \cdot 10^{-19}$$
+	$$e = 1.6022 \cdot 10^{-19}$$
 **Electron Mass**
 $$m_e=9.109\cdot10^{-31}kg$$
 **Proton Mass**

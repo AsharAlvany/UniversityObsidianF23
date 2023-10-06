@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pumping",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,9 +200,9 @@
   },
   "active": "136d29741785e7b4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
-    "University Physics II/Electric Potential.md",
     "University Physics II/Electricity.md",
+    "University Physics II/Electric Potential.md",
+    "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
     "Databases/ER-to-Relationship Model.md",
     "Databases/Basic SQL.md",
     "Images/Pasted image 20231005173541.png",
