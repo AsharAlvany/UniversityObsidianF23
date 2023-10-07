@@ -19,7 +19,7 @@ Electric Potential is defined as:
 $$V=\frac{U}{q_0} = \frac{-W_E}{q_0}$$
 	The SI symbol is the volt V = J/C
 
-	![[Pasted image 20230923131711.png]]
+![[Pasted image 20230923131711.png]]
 
 Electric Potential for Continuous Distribution of Charge
 $$V=k\int\frac{dq}{r}$$
