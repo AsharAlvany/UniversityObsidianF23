@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Physics II/Current and Resistance.md",
+                "file": "University Physics II/Capacitance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Physics II/Current and Resistance.md",
+                "file": "University Physics II/Capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Physics II/Current and Resistance.md",
+                "file": "University Physics II/Capacitance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Physics II/Current and Resistance.md"
+                "file": "University Physics II/Capacitance.md"
               }
             }
           },
@@ -198,12 +198,12 @@
   },
   "active": "136d29741785e7b4",
   "lastOpenFiles": [
+    "University Physics II/Electric Potential.md",
+    "University Physics II/Electricity.md",
+    "University Physics II/Current and Resistance.md",
     "Images/Pasted image 20231006222005.png",
     "Images/Pasted image 20231006220031.png",
     "Images/Pasted image 20231006220017.png",
-    "University Physics II/Electric Potential.md",
-    "University Physics II/Current and Resistance.md",
-    "University Physics II/Electricity.md",
     "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
     "Databases/ER-to-Relationship Model.md",
     "Databases/Basic SQL.md",
@@ -233,7 +233,6 @@
     "Advanced Algorithms/Recurrence Tree Method.md",
     "Advanced Algorithms/Solving Recurrence Relations.md",
     "Advanced Algorithms/Functions.md",
-    "Images/Pasted image 20231002195832.png",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",

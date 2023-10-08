@@ -1,9 +1,9 @@
 **Capacitor** is any pair of conductors that are separated by an insulator
-When a capacitor is charged with +Q in one conductor and -Q in another, ther is a potential difference between the conductors. The ratio Q/V is called the **capacitance** of the capacitor
+When a capacitor is charged with +Q in one conductor and -Q in another, there is a potential difference between the conductors. The ratio Q/V is called the **capacitance** of the capacitor
 $$C=\frac{Q}{V_{ab}} = \epsilon_0\frac{A}{d} = 4\pi\epsilon_0\frac{R_1R_2}{R_2-R_1} = \frac{2\pi\epsilon_0L}{Ln(\frac{r_b}{r_a})}$$
 	Where the first equation is the general form, the second is when the two parallel conducting plates of area A are separated by a distance d that is small in comparison with their dimensions, the third is a spherical capacitor of two cocenctric conducting shells of radii $R_1$ (inner) and $R_2$ (outer), and the last is the capacitance of two coaxial cylindrical conductors of length L the inner cylinder of radius $r_a$ and the outer cylinder $r_b$  
 **Farad** is the SI unit of capacitance which is equal to one Coulomb/Volt
-![[Pasted image 20230929223556.png]]
+	![[Pasted image 20230929223556.png]]
 **Series**
 The charge is the same, voltage adds, and the equivalent capacitance is less than the individual capacitance
 $$Q_T=Q_1=Q_2=...=Q_n \ | \ V_T=V_1+V_2+...+V_n \ | \ \frac{1}{C_T} = \frac{1}{C_1}+\frac{1}{C_2}+...+\frac{1}{C_n} $$

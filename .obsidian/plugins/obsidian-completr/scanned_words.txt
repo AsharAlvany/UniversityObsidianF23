@@ -269,6 +269,7 @@ faulting
 fundamental
 force
 fields
+flow
 whether
 waste
 within
@@ -444,6 +445,11 @@ rules
 references
 referenced
 remaining
+region
+reciprocal
+resistivity
+resistance
+resistor
 or
 of
 other
@@ -483,6 +489,8 @@ outlined
 ordered
 observable
 opposite
+opf
+os
 not
 negation
 need
@@ -711,6 +719,10 @@ private
 proton
 pointed
 positive
+particles
+particle
+producing
+particular
 The
 There
 Three
@@ -817,6 +829,7 @@ executed
 err
 electrons
 equals
+extracted
 Regular
 Register
 Relational
@@ -851,6 +864,7 @@ Referential
 RESTRICT
 Represent
 Reference
+Resistivity
 sets
 set
 system
@@ -966,6 +980,7 @@ semantic
 specified
 separation
 secure
+sectional
 closed
 can
 contiguous
@@ -1081,6 +1096,11 @@ cardinality
 copy
 coulomb
 conservative
+causes
+cross
+concentration
+conductivity
+circuit
 given
 global
 give
@@ -1153,6 +1173,9 @@ management
 max
 minimal
 malicious
+motion
+material
+metals
 Goals
 Given
 Gradient
@@ -1246,6 +1269,8 @@ domain
 deletion
 drawing
 documented
+drift
+delivered
 know
 kern
 key
@@ -1385,6 +1410,7 @@ vacuum
 views
 violation
 valid
+velocity
 Have
 How
 Handler
@@ -1542,6 +1568,7 @@ Concepts
 Cartesian
 Constraints
 Copy
+Current
 Directory
 DIRECTORY
 Dependency
@@ -1658,6 +1685,7 @@ Only
 Occurs
 Other
 OR
+Ohmic
 Another
 Attributes
 AI
@@ -1688,6 +1716,7 @@ Allocating
 Allocate
 Anything
 AND
+Ampere
 Internal
 In
 It
