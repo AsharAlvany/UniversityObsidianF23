@@ -34,3 +34,4 @@ Other examples of using Page Faults
 	- Create a private copy later when the first write access happens
 	- Saves memory
 - Memory Swapping
+User faults have to be recovered, but kernel faults should cause a panic and dump the trap frame

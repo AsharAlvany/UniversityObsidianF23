@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Physics II/Capacitance.md",
+                "file": "Operating Systems/System Calls and Page Faults.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Physics II/Capacitance.md",
+                "file": "Operating Systems/System Calls and Page Faults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Physics II/Capacitance.md",
+                "file": "Operating Systems/System Calls and Page Faults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Physics II/Capacitance.md"
+                "file": "Operating Systems/System Calls and Page Faults.md"
               }
             }
           },
@@ -198,6 +198,9 @@
   },
   "active": "136d29741785e7b4",
   "lastOpenFiles": [
+    "Operating Systems/User-Kernel Context Switch.md",
+    "Operating Systems/System Calls and Page Faults.md",
+    "University Physics II/Capacitance.md",
     "University Physics II/Electric Potential.md",
     "University Physics II/Electricity.md",
     "University Physics II/Current and Resistance.md",
@@ -214,11 +217,9 @@
     "Images/Pasted image 20231005104042.png",
     "Excalidraw/Drawing 2023-10-05 10.16.14.excalidraw.md",
     "Images/Pasted Image 20231005101806_499.png",
-    "Operating Systems/System Calls and Page Faults.md",
     "Images/Pasted image 20231004145654.png",
     "Images/Pasted image 20231004144639.png",
     "Images/Pasted image 20231004143714.png",
-    "Operating Systems/User-Kernel Context Switch.md",
     "Databases/Relational Algebra.md",
     "Databases/ER-to-Relational Mapping Algorithm.md",
     "Databases/Relational Schema.md",
