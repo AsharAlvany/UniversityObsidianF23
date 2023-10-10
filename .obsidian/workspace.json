@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Algorithms/Greedy Algorithm.md",
+                "file": "Discrete Mathematics/Normal Forms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Algorithms/Greedy Algorithm.md",
+                "file": "Discrete Mathematics/Normal Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Algorithms/Greedy Algorithm.md",
+                "file": "Discrete Mathematics/Normal Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Algorithms/Greedy Algorithm.md"
+                "file": "Discrete Mathematics/Normal Forms.md"
               }
             }
           },
@@ -186,8 +185,9 @@
   },
   "active": "88fde9f7344818e1",
   "lastOpenFiles": [
-    "Advanced Algorithms/Dynamic Algorithm.md",
+    "Images/Pasted image 20231010131948.png",
     "Advanced Algorithms/Greedy Algorithm.md",
+    "Advanced Algorithms/Dynamic Algorithm.md",
     "University Physics II/Electricity.md",
     "University Physics II/Current and Resistance.md",
     "University Physics II/Capacitance.md",
@@ -221,7 +221,6 @@
     "Databases/Database Architecture.md",
     "Databases/Normal Forms.md",
     "Excalidraw/Drawing 2023-09-13 10.34.26.excalidraw.md",
-    "Advanced Algorithms/Recurrence Tree Method.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
