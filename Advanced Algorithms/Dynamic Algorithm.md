@@ -6,3 +6,5 @@ compute but don't recompute. Recursion computes a lot of the same steps many tim
 
 4 Step Process:
 ![[Pasted image 20231002195832.png]]
+Dynamic Algorithm's are not always the answer, for example, Merge Sort is a recursive algorithm where memoization would fail because every subproblem is different
+- MUST be overlapping and independent subproblems

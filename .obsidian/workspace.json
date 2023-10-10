@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "136d29741785e7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University Physics II/Current and Resistance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88fde9f7344818e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Physics II/Electricity.md",
+                "file": "Advanced Algorithms/Greedy Algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Physics II/Current and Resistance.md",
+                "file": "Advanced Algorithms/Greedy Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Physics II/Current and Resistance.md",
+                "file": "Advanced Algorithms/Greedy Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Physics II/Current and Resistance.md"
+                "file": "Advanced Algorithms/Greedy Algorithm.md"
               }
             }
           },
@@ -196,14 +184,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "136d29741785e7b4",
+  "active": "88fde9f7344818e1",
   "lastOpenFiles": [
-    "University Physics II/Capacitance.md",
+    "Advanced Algorithms/Dynamic Algorithm.md",
+    "Advanced Algorithms/Greedy Algorithm.md",
     "University Physics II/Electricity.md",
+    "University Physics II/Current and Resistance.md",
+    "University Physics II/Capacitance.md",
     "Operating Systems/System Calls and Page Faults.md",
     "Operating Systems/User-Kernel Context Switch.md",
     "University Physics II/Electric Potential.md",
-    "University Physics II/Current and Resistance.md",
     "Images/Pasted image 20231006222005.png",
     "Images/Pasted image 20231006220031.png",
     "Images/Pasted image 20231006220017.png",
@@ -232,8 +222,6 @@
     "Databases/Normal Forms.md",
     "Excalidraw/Drawing 2023-09-13 10.34.26.excalidraw.md",
     "Advanced Algorithms/Recurrence Tree Method.md",
-    "Advanced Algorithms/Solving Recurrence Relations.md",
-    "Advanced Algorithms/Functions.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
