@@ -35,6 +35,7 @@ Python
 PCA
 Proton
 Protons
+Paragraph
 Lema
 Last
 Lookaside
@@ -759,6 +760,7 @@ TIP
 Truth
 True
 TRUE
+Title
 expression
 entry
 enable
@@ -1419,6 +1421,7 @@ Handling
 Harmonic
 Heap
 High
+Header
 Split
 Summary
 SHARED
@@ -1468,6 +1471,7 @@ Share
 Saves
 Swapping
 Strong
+Syntax
 KB
 Key
 Knowledge
@@ -1603,6 +1607,7 @@ Denoted
 Domains
 DELETE
 Design
+Description
 We
 Without
 Why
