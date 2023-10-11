@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Basic SQL.md",
+                "file": "Machine Learning/Exam 1 Materials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Basic SQL.md",
+                "file": "Machine Learning/Exam 1 Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Basic SQL.md",
+                "file": "Machine Learning/Exam 1 Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Basic SQL.md"
+                "file": "Machine Learning/Exam 1 Materials.md"
               }
             }
           },
@@ -186,6 +185,8 @@
   },
   "active": "88fde9f7344818e1",
   "lastOpenFiles": [
+    "Machine Learning/KNN.md",
+    "Databases/Basic SQL.md",
     "Images/Pasted image 20231010175905.png",
     "Discrete Mathematics/Normal Forms.md",
     "Images/Pasted image 20231010131948.png",
@@ -202,7 +203,6 @@
     "Images/Pasted image 20231006220017.png",
     "Excalidraw/Drawing 2023-09-28 17.51.34.excalidraw.md",
     "Databases/ER-to-Relationship Model.md",
-    "Databases/Basic SQL.md",
     "Images/Pasted image 20231005173541.png",
     "Advanced Algorithms/Longest common subsequence.md",
     "Excalidraw/Drawing 2023-10-05 10.58.03.excalidraw.md",
@@ -212,11 +212,9 @@
     "Images/Pasted Image 20231005101806_499.png",
     "Images/Pasted image 20231004145654.png",
     "Images/Pasted image 20231004144639.png",
-    "Images/Pasted image 20231004143714.png",
     "Databases/Relational Algebra.md",
     "Databases/ER-to-Relational Mapping Algorithm.md",
     "Databases/Relational Schema.md",
-    "Machine Learning/KNN.md",
     "Machine Learning/Exam 1 Materials.md",
     "Discrete Mathematics/Properties of Reg Sets.md",
     "Databases/Database Architecture.md",

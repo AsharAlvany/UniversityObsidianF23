@@ -36,6 +36,7 @@ PCA
 Proton
 Protons
 Paragraph
+Professor
 Lema
 Last
 Lookaside
@@ -271,6 +272,9 @@ fundamental
 force
 fields
 flow
+female
+fall
+floor
 whether
 waste
 within
@@ -451,6 +455,7 @@ reciprocal
 resistivity
 resistance
 resistor
+reports
 or
 of
 other
@@ -524,6 +529,7 @@ numbers
 null
 negative
 nonconservative
+nested
 and
 are
 applications
@@ -625,6 +631,9 @@ arguments
 allocate
 away
 applied
+advisor
+aggregate
+average
 process
 program
 physical
@@ -724,6 +733,9 @@ particles
 particle
 producing
 particular
+professors
+passed
+put
 The
 There
 Three
@@ -867,6 +879,7 @@ RESTRICT
 Represent
 Reference
 Resistivity
+Reports
 sets
 set
 system
@@ -983,6 +996,10 @@ specified
 separation
 secure
 sectional
+student
+salaries
+salary
+sex
 closed
 can
 contiguous
@@ -1103,6 +1120,11 @@ cross
 concentration
 conductivity
 circuit
+counts
+colleges
+college
+combinations
+ceiling
 given
 global
 give
@@ -1178,6 +1200,10 @@ malicious
 motion
 material
 metals
+mark
+males
+maximum
+minimum
 Goals
 Given
 Gradient
@@ -1193,6 +1219,8 @@ GB
 Global
 Geometric
 Gravitational
+GROUP
+Groups
 do
 digits
 directory
@@ -1273,6 +1301,7 @@ drawing
 documented
 drift
 delivered
+descending
 know
 kern
 key
@@ -1363,6 +1392,7 @@ Explicit
 ER
 Executes
 Electromagnetic
+EXIST
 Manage
 Mapping
 MB
@@ -1393,6 +1423,8 @@ Model
 Mid
 MODIFY
 Mass
+MAX
+MIN
 virtual
 values
 variable
@@ -1422,6 +1454,7 @@ Harmonic
 Heap
 High
 Header
+HAVING
 Split
 Summary
 SHARED
@@ -1472,6 +1505,8 @@ Saves
 Swapping
 Strong
 Syntax
+SQL
+SUM
 KB
 Key
 Knowledge
@@ -1522,6 +1557,7 @@ Useful
 Usually
 Unknown
 Unavailable
+UNIQUE
 Virtual
 Vector
 Validation
@@ -1573,6 +1609,7 @@ Cartesian
 Constraints
 Copy
 Current
+COUNT
 Directory
 DIRECTORY
 Dependency
@@ -1646,6 +1683,7 @@ Forces
 Force
 False
 FLASE
+Functions
 you
 your
 yields
@@ -1675,6 +1713,7 @@ Boyce
 BCNF
 BDMS
 Because
+BY
 One
 Overfitting
 Out
@@ -1722,6 +1761,8 @@ Allocate
 Anything
 AND
 Ampere
+Aggregate
+AVG
 Internal
 In
 It
@@ -1770,6 +1811,7 @@ quite
 quick
 queries
 quantized
+query
 xk
 xffff
 jobs
