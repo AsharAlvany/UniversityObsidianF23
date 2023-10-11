@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97c1e7fec8cc4dc2",
+        "id": "fcc4889bda9ac9dd",
         "type": "tabs",
         "children": [
           {
-            "id": "88fde9f7344818e1",
+            "id": "2b8a94fa8a732308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Exam 1 Materials.md",
+                "file": "Operating Systems/Multi-Threading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Exam 1 Materials.md",
+                "file": "Operating Systems/Multi-Threading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Exam 1 Materials.md",
+                "file": "Operating Systems/Multi-Threading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Exam 1 Materials.md"
+                "file": "Operating Systems/Multi-Threading.md"
               }
             }
           },
@@ -183,8 +184,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88fde9f7344818e1",
+  "active": "2b8a94fa8a732308",
   "lastOpenFiles": [
+    "Images/Pasted image 20231011152150.png",
+    "Images/Pasted image 20231011150504.png",
+    "Images/Pasted image 20231011150404.png",
+    "Operating Systems/Multi-Threading.md",
+    "Machine Learning/Exam 1 Materials.md",
     "Machine Learning/KNN.md",
     "Databases/Basic SQL.md",
     "Images/Pasted image 20231010175905.png",
@@ -210,16 +216,12 @@
     "Images/Pasted image 20231005104042.png",
     "Excalidraw/Drawing 2023-10-05 10.16.14.excalidraw.md",
     "Images/Pasted Image 20231005101806_499.png",
-    "Images/Pasted image 20231004145654.png",
-    "Images/Pasted image 20231004144639.png",
     "Databases/Relational Algebra.md",
     "Databases/ER-to-Relational Mapping Algorithm.md",
     "Databases/Relational Schema.md",
-    "Machine Learning/Exam 1 Materials.md",
     "Discrete Mathematics/Properties of Reg Sets.md",
     "Databases/Database Architecture.md",
     "Databases/Normal Forms.md",
-    "Excalidraw/Drawing 2023-09-13 10.34.26.excalidraw.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
