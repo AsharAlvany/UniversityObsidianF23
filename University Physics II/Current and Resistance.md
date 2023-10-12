@@ -2,7 +2,7 @@ An electric field in a conductor causes charges to flow creating a *current*
 A current *I* is any motion of charge from one region to another
 Current is defined as $I = \frac{dQ}{dt}$
 The SI unit for current is the Ampere $1A = 1C/s$
-**Current Density** is the current per unit cross-sectional area *J* and is given by $$J = \frac{I}{A} = n|q|v_d$$
+**Current Density** is the current per unit cross-sectional area *J* and is given by $$J = \frac{I}{A}| I=nev_dA$$
 	where $v_d$ is the drift velocity of the charged particles, n is the concentration of moving charged particles, and q is the charge per particle
 **Resistivity** is the ratio of the electric field in the material to the current density it causes $\rho$ is the symbol and the unit is $\Omega \cdot$ m. The *conductivity* is the reciprocal of the resistivity
 $$\rho = \frac{E}{J}$$
