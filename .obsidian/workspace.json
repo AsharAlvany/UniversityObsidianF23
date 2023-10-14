@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Algorithms/Graph Algorithms.md",
+                "file": "Machine Learning/Decision Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Algorithms/Graph Algorithms.md",
+                "file": "Machine Learning/Decision Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Algorithms/Graph Algorithms.md",
+                "file": "Machine Learning/Decision Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Algorithms/Graph Algorithms.md"
+                "file": "Machine Learning/Decision Tree.md"
               }
             }
           },
@@ -199,8 +198,10 @@
   },
   "active": "b625d30a11b81e0a",
   "lastOpenFiles": [
-    "Discrete Mathematics/Pushdown Automata.md",
+    "Machine Learning/KNN.md",
+    "Machine Learning/Decision Tree.md",
     "Advanced Algorithms/Graph Algorithms.md",
+    "Discrete Mathematics/Pushdown Automata.md",
     "Discrete Mathematics/Normal Forms.md",
     "Images/Pasted image 20231012133219.png",
     "Images/Pasted image 20231012133118.png",
@@ -212,7 +213,6 @@
     "Images/Pasted image 20231011150504.png",
     "Images/Pasted image 20231011150404.png",
     "Machine Learning/Exam 1 Materials.md",
-    "Machine Learning/KNN.md",
     "Databases/Basic SQL.md",
     "Images/Pasted image 20231010175905.png",
     "Images/Pasted image 20231010131948.png",
@@ -234,7 +234,6 @@
     "Databases/ER-to-Relational Mapping Algorithm.md",
     "Databases/Relational Schema.md",
     "Discrete Mathematics/Properties of Reg Sets.md",
-    "Databases/Database Architecture.md",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",

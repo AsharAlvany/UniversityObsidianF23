@@ -127,6 +127,7 @@ isolated
 inconsistent
 intervene
 instructions
+impurity
 used
 under
 user
@@ -669,6 +670,8 @@ achieve
 additional
 acquire
 arrived
+adjacent
+able
 process
 program
 physical
@@ -775,6 +778,7 @@ produced
 parallelism
 previously
 properly
+pick
 The
 There
 Three
@@ -890,6 +894,8 @@ eg
 exclusion
 executions
 else
+entropy
+equall
 Regular
 Register
 Relational
@@ -1199,6 +1205,8 @@ critical
 clear
 collecting
 collected
+come
+calculates
 given
 global
 give
@@ -1217,6 +1225,10 @@ grammar
 grow
 geometric
 gate
+graph
+good
+gain
+gives
 methods
 memory
 main
@@ -1283,6 +1295,7 @@ mappings
 mutual
 multi
 maximize
+measuring
 Goals
 Given
 Gradient
@@ -1301,6 +1314,7 @@ Gravitational
 GROUP
 Groups
 Get
+Gain
 do
 digits
 directory
@@ -1385,6 +1399,8 @@ descending
 decreasing
 design
 dir
+distribution
+discrete
 know
 kern
 key
@@ -1753,6 +1769,7 @@ Domains
 DELETE
 Design
 Description
+Dichotomize
 We
 Without
 Why
@@ -1872,6 +1889,7 @@ Ampere
 Aggregate
 AVG
 Assign
+Adjacency
 Internal
 In
 It
@@ -1899,6 +1917,9 @@ Is
 INSERT
 Invalid
 IPC
+Information
+ID
+Iterative
 Normal
 NF
 Note
