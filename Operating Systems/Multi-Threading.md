@@ -1,4 +1,4 @@
-CPU speed capped by frequency/power - although the size of transistors are continuously decreasing, the amount of heat and power that is produced is still increasing which means that the power that we can squeeze out of one chip is limited by the heat that is produced
+`CPU speed capped by frequency/power - although the size of transistors are continuously decreasing, the amount of heat and power that is produced is still increasing which means that the power that we can squeeze out of one chip is limited by the heat that is produced
 **Concurrency** - a method of increasing the performance of an application by running multiple functions as separate jobs at the same time using threads and processes
 The following are two options of implementing concurrency
 - **Processes** - run multiple functions concurrently as separate instances (have their own memory and their own computation) (eg. webserver, web browsers)
@@ -35,3 +35,10 @@ The following are two options of implementing concurrency
 		4. Run the critical section
 		5. Unlock and allow other executions to run their critical sections
 		![[Pasted image 20231011152150.png]]
+**Lock/Unlock**
+*How to create a lock for MUTEX?*
+- **Spinlock** - waits in a loop while checking if the critical section is empty and sets a lock variable (`lock` where 1 is locked (someone is already in a critical section) and 0 is not). A `lock()` function will receive the `lock` variable and wait until the lock variable is equal to 0 then `unlock()` will open the lock
+- **Bad lock** - loads the lock variable before testing. Two separate instructions to do the loading and storing of the lock variable which means that the bad lock is susceptible to a race condition
+- **Atomic Test-and-Set (xchg_lock)** - we need a way to test `lock == 0` and set `lock = 1` at the same time, which is not possible using software so that means we need some sort of physical hardware support for this method to be viable. Use atomic `xchg` instruction to load and store values atomically. There is no gap for a race condition so outputs are what they are expected to be... however there is a **cache contention**. xchg will attempt to update the same `lock` variable. When the `lock` variable is updated, the variable will be changed in the L1 cache of that specific CPU, but not the other CPU's L1 cache's. The solution to this is to use the L2 shared cache, which means slower memory readings. Slower, but correct. Lots of cache misses.
+- **Test and Test-and-Test (cmpxchg_lock)** - compate the value in memory with eax -> if matched, exchange value in memory with update-value. Otherwise do not perform the exchange. Must use the lock prefix for thread synchronization. `xchg(lock, 1)` - lock = 1; returned old value of the lock. `cmpxchg(lck, 0 ,1)`. The Caveat cmpxchg is not an atmoic operation.
+	![[Pasted image 20231016145301.png]]

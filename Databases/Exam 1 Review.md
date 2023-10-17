@@ -1,0 +1,29 @@
+- Review the Relational Schema Model algorithm (create a note sheet)
+	- Dictionary
+	- Make sure to include all the options for each step (Relationships, Step 8)
+- Review some of the intricacies of ER Diagram Model (create a note sheet)
+	- Dictionary
+- Review the Normal Forms (create a note sheet)
+	- One
+	- Two
+	- Three
+	- Boyce-Codd
+	- Four
+	- Five
+	- Join Dependency
+- Relational Algebra
+	- SELECT
+	- PROJECT
+	- JOIN - Cartesian product followed by a select
+	- RENAME
+	- UNION (type compatible)
+	- INTERSECTION (type compatible)
+	- DIFFERENCE (type compatible)
+	- CARTESIAN PRODUCT
+- The Notes:
+	- Double Sided
+	- 1-inch square with my name and the date on the upper right hand corner
+	- 1-inch square for the staple (upper left, front of the exams)
+	- 1-inch unique piece (image, signature, etc.)
+- Questions:
+	- For the schema diagram model, will we be given a ER Diagram, ER Dictionary, schema dictionary, ..?
