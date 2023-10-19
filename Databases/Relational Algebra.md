@@ -10,7 +10,7 @@ Unary Relational Operations
 - UNION $\cup$
 	- Union operations may only be performed on sets that are "type compatible" which means that all the data types of the first table must match the data types of the second table
 - INTERSECTION $\cap$
-	- Union operations may only be performed on sets that are "type compatible" which means that all the data types of the first table must match the data types of the second table
+	- Intersections operations may only be performed on sets that are "type compatible" which means that all the data types of the first table must match the data types of the second table
 - DIFFERENCE $-$
 	- The result of R – S, is a relation that includes all tuples that are in R but not in S (MUST ALSO BE TYPE COMPATIBLE)
 - CARTESIAN PRODUCT $X$

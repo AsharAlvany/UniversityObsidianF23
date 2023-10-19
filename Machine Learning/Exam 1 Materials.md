@@ -4,4 +4,3 @@
 - Decision Trees all kinds
 - KNN algorithm
 - PCA
-- 
