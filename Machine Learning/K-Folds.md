@@ -1,0 +1,1 @@
+K-Folds Give every sub component to be a part of the learning process and take an average (different from Random Forest Trees where the outcome is the popular vote) 
