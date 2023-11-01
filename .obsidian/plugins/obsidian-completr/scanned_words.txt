@@ -54,6 +54,7 @@ Policy
 Proof
 Place
 Provide
+Pause
 Lema
 Last
 Lookaside
@@ -305,6 +306,8 @@ transform
 timeline
 teams
 trylock
+turnaround
+tail
 find
 fragmentation
 from
@@ -377,6 +380,7 @@ free
 future
 forcibly
 factorization
+fixed
 whether
 waste
 within
@@ -426,6 +430,8 @@ working
 willing
 writing
 written
+worse
+whichever
 language
 loaded
 linear
@@ -618,6 +624,8 @@ representatives
 requirements
 replace
 removed
+response
+reaching
 or
 of
 other
@@ -672,6 +680,7 @@ outstanding
 organizational
 organizations
 once
+outcome
 not
 negation
 need
@@ -856,6 +865,9 @@ advisory
 abide
 activities
 accompanying
+arrive
+arrives
+arrival
 process
 program
 physical
@@ -988,6 +1000,7 @@ published
 procedures
 primitives
 perfect
+popular
 The
 There
 Three
@@ -1198,6 +1211,9 @@ RY
 RAM
 Removable
 Richardson
+Random
+Round
+Robin
 sets
 set
 system
@@ -1375,6 +1391,9 @@ says
 satisfying
 strictly
 squares
+scheduling
+shorter
+slice
 closed
 can
 contiguous
@@ -1546,6 +1565,7 @@ codes
 currently
 consecutive
 canot
+component
 given
 global
 give
@@ -1686,6 +1706,7 @@ GR
 Gi
 Go
 Giving
+Give
 do
 digits
 directory
@@ -1907,6 +1928,8 @@ Equivalence
 Excl
 EEPROM
 Ethical
+Evaluation
+Effect
 Manage
 Mapping
 MB
@@ -1944,6 +1967,7 @@ MUTEX
 MU
 Many
 Magnetic
+Metrics
 virtual
 values
 variable
@@ -1976,6 +2000,7 @@ virtualization
 volunteers
 vwx
 vx
+vote
 Have
 How
 Handler
@@ -2072,6 +2097,7 @@ Staff
 Student
 Solutions
 Since
+Similar
 KB
 Key
 Knowledge
@@ -2228,6 +2254,8 @@ CFLs
 CFL
 CF
 Consider
+Convoy
+Calculate
 Directory
 DIRECTORY
 Dependency
@@ -2299,6 +2327,7 @@ WaM
 WHY
 WHAT
 Written
+Workload
 First
 Fragmentation
 Functional
@@ -2336,6 +2365,9 @@ Firewall
 From
 Fraternity
 Financial
+Folds
+Forest
+FIFO
 you
 your
 yields
@@ -2449,6 +2481,7 @@ Assurance
 Alumni
 Association
 Agree
+Assumptions
 Internal
 In
 It
@@ -2559,6 +2592,7 @@ XX
 XI
 YQ
 Yes
+You
 ZC
 ZR
 Zw
