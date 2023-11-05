@@ -4,42 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "ceafb58339b685bc",
+        "id": "7bf39bfb235bc8d1",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5cb3f756569bc9",
+            "id": "0eb4ae68b48d5796",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/KMeans.md",
+                "file": "University Physics II/Magnetic Forces and Fields.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6849b50a7c0605ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Physics II/Sources of Magnetic Fields.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65da7ffcc3653c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Physics II/Electromagnetic Induction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8195ef5442e29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Physics II/Inductance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "98afb8fad33d5e06",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c232243d6bce8c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/KNeighbors.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/KMeans.md",
+                "file": "University Physics II/Inductance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/KMeans.md",
+                "file": "University Physics II/Inductance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/KMeans.md"
+                "file": "University Physics II/Inductance.md"
               }
             }
           },
@@ -177,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,44 +217,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b5cb3f756569bc9",
+  "active": "4e8195ef5442e29b",
   "lastOpenFiles": [
+    "Images/Pasted image 20231104210320.png",
+    "Images/Pasted image 20231104210133.png",
+    "Images/Pasted image 20231104210118.png",
+    "Images/Pasted image 20231104205050.png",
+    "Images/Pasted image 20231104205036.png",
+    "University Physics II/Electromagnetic Induction.md",
+    "University Physics II/Inductance.md",
+    "University Physics II/Magnetic Forces and Fields.md",
+    "University Physics II/Sources of Magnetic Fields.md",
+    "University Physics II/Waves.md",
+    "Advanced Algorithms/Edit Distance.md",
+    "Advanced Algorithms/Rod Cutting.md",
+    "Advanced Algorithms/Depth First Search.md",
+    "Excalidraw/Drawing 2023-11-02 10.27.32.excalidraw.md",
+    "Advanced Algorithms/Matrix Chain Multiplication.md",
+    "Advanced Algorithms/Greedy Algorithm.md",
+    "Advanced Algorithms/Dynamic Algorithm.md",
+    "Excalidraw/Drawing 2023-11-02 10.03.28.excalidraw.md",
+    "Advanced Algorithms/Longest common subsequence.md",
+    "Advanced Algorithms/Minimum Spanning Trees.md",
+    "Advanced Algorithms/Prim's Algorithm.md",
+    "Advanced Algorithms/Single Source Shortest Path.md",
+    "Databases/Relational Schema.md",
+    "Databases/Database Architecture.md",
+    "Advanced Algorithms/Kruskal.md",
+    "Images/Pasted image 20231101225648.png",
+    "Excalidraw/Drawing 2023-11-01 18.45.48.excalidraw.md",
+    "Images/Pasted Image 20231101184604_072.png",
     "Machine Learning/KNeighbors.md",
     "Machine Learning/KMeans.md",
     "Operating Systems/Concurrency Bugs and Deadlock.md",
     "Operating Systems/Scheduling.md",
-    "Machine Learning/K-Folds.md",
-    "Discrete Mathematics/Pushdown Automata.md",
-    "Databases/Basic SQL.md",
-    "Discrete Mathematics/Properties of CFLs.md",
-    "Theta Tau/SOC Management.md",
-    "Theta Tau/Section II.md",
-    "Operating Systems/Virtualization.md",
-    "Operating Systems/Virtual Memory.md",
-    "Databases/Data Storage.md",
-    "Databases/Database Security.md",
-    "Advanced Algorithms/Minimum Spanning Trees.md",
-    "Advanced Algorithms/Single Source Shortest Path.md",
     "Images/Pasted image 20231024103552.png",
     "Images/Pasted image 20231024103534.png",
     "Images/Pasted image 20231024103405.png",
-    "Advanced Algorithms/Graph Algorithms.md",
-    "Operating Systems/Multi-Threading.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-10-19 13.39.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-19 13.02.04.excalidraw.md",
     "Images/Pasted Image 20231019131021_898.png",
-    "Excalidraw/Drawing 2023-10-19 11.03.42.excalidraw.md",
-    "Images/Pasted Image 20231019110412_915.png",
-    "Excalidraw/Drawing 2023-10-19 10.46.50.excalidraw.md",
-    "Images/Pasted Image 20231019104836_060.png",
-    "Images/Pasted image 20231019101259.png",
-    "Images/Pasted image 20231019101127.png",
-    "Machine Learning/Decision Tree.md",
-    "Machine Learning/Intro to Machine Learning.md",
-    "Machine Learning/Machine Learning.md",
-    "Images/Pasted image 20231016145301.png",
-    "Images/Pasted image 20231015171558.png",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",
