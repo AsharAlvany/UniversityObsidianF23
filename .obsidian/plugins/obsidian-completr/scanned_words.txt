@@ -195,6 +195,8 @@ instrument
 inward
 integral
 induced
+inductance
+inductor
 used
 under
 user
@@ -416,6 +418,7 @@ fingers
 found
 flux
 farday
+flowing
 whether
 waste
 within
@@ -475,6 +478,7 @@ wishes
 walk
 wire
 weber
+wires
 language
 loaded
 linear
@@ -798,6 +802,7 @@ node
 nodes
 national
 nationwide
+neighboring
 and
 are
 applications
@@ -1725,6 +1730,7 @@ carrying
 curl
 coil
 changing
+coils
 given
 global
 give
@@ -2074,6 +2080,7 @@ bc
 becomes
 bf
 badge
+bar
 Efficiency
 Entry
 ENTRY
@@ -2168,6 +2175,7 @@ Medium
 Maximum
 Motion
 Magnetism
+Motional
 virtual
 values
 variable
@@ -2204,6 +2212,8 @@ vote
 vertex
 vertical
 vibrating
+vice
+versa
 Have
 How
 Handler
@@ -2311,6 +2321,8 @@ Simple
 Stretched
 String
 Savart
+Same
+Self
 KB
 Key
 Knowledge
@@ -2373,6 +2385,7 @@ her
 he
 harmonic
 helix
+henry
 Use
 Unsupervised
 User
@@ -2774,6 +2787,7 @@ Intensity
 Inverse
 Inductive
 Induced
+Inductance
 Normal
 NF
 Note
