@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf39bfb235bc8d1",
+        "id": "a2417ff7e28bf29b",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb4ae68b48d5796",
+            "id": "a532c1b39b7b9979",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Physics II/Magnetic Forces and Fields.md",
+                "file": "Operating Systems/File Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "6849b50a7c0605ff",
+            "id": "fff3eff5564c121e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Physics II/Sources of Magnetic Fields.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65da7ffcc3653c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University Physics II/Electromagnetic Induction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e8195ef5442e29b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University Physics II/Inductance.md",
+                "file": "Operating Systems/Crash Consistency.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,37 +107,12 @@
             }
           },
           {
-            "id": "a424845c82f00f83",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "University Physics II/Inductance.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fe5858387be3e772",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
             "id": "8d9d4b0beb382dfa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Physics II/Inductance.md",
+                "file": "Operating Systems/Crash Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Physics II/Inductance.md"
+                "file": "Operating Systems/Crash Consistency.md"
               }
             }
           },
@@ -197,9 +145,34 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "fd5578de4dd09a3a",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "55c943e13711df02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems/Crash Consistency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,12 +190,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e8195ef5442e29b",
+  "active": "fff3eff5564c121e",
   "lastOpenFiles": [
-    "University Physics II/Electromagnetic Induction.md",
-    "University Physics II/Sources of Magnetic Fields.md",
-    "University Physics II/Inductance.md",
+    "Operating Systems/File Systems.md",
+    "Operating Systems/Crash Consistency.md",
+    "Databases/Basic SQL.md",
+    "Databases/Query Processing.md",
+    "Images/Pasted image 20231107180816.png",
+    "Databases/Database Security.md",
+    "Discrete Mathematics/Turing Machines.md",
+    "Operating Systems/Scheduling.md",
+    "Operating Systems/User-Kernel Context Switch.md",
     "University Physics II/Magnetic Forces and Fields.md",
+    "University Physics II/Electromagnetic Induction.md",
+    "University Physics II/Inductance.md",
+    "University Physics II/Sources of Magnetic Fields.md",
     "Images/Pasted image 20231104210320.png",
     "Images/Pasted image 20231104210133.png",
     "Images/Pasted image 20231104210118.png",
@@ -242,18 +224,10 @@
     "Advanced Algorithms/Prim's Algorithm.md",
     "Advanced Algorithms/Single Source Shortest Path.md",
     "Databases/Relational Schema.md",
-    "Databases/Database Architecture.md",
-    "Advanced Algorithms/Kruskal.md",
     "Images/Pasted image 20231101225648.png",
-    "Excalidraw/Drawing 2023-11-01 18.45.48.excalidraw.md",
     "Images/Pasted Image 20231101184604_072.png",
-    "Machine Learning/KNeighbors.md",
-    "Machine Learning/KMeans.md",
-    "Operating Systems/Concurrency Bugs and Deadlock.md",
-    "Operating Systems/Scheduling.md",
     "Images/Pasted image 20231024103552.png",
     "Images/Pasted image 20231024103534.png",
-    "Images/Pasted image 20231024103405.png",
     "Untitled",
     "Theta Tau",
     "University Physics II/Untitled",

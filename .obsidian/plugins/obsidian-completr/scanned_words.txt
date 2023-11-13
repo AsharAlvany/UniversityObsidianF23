@@ -95,6 +95,8 @@ Life
 List
 Longitudinal
 Lenz
+Location
+Loop
 is
 intersection
 internal
@@ -197,6 +199,7 @@ integral
 induced
 inductance
 inductor
+inode
 used
 under
 user
@@ -236,6 +239,7 @@ unauthorized
 uvwxy
 undergoes
 upon
+unsigned
 to
 this
 the
@@ -338,6 +342,9 @@ tangent
 thumb
 torque
 thin
+teh
+typically
+tokens
 find
 fragmentation
 from
@@ -419,6 +426,9 @@ found
 flux
 farday
 flowing
+file
+finding
+fetch
 whether
 waste
 within
@@ -479,6 +489,7 @@ walk
 wire
 weber
 wires
+who
 language
 loaded
 linear
@@ -554,6 +565,8 @@ law
 lines
 loops
 lav
+little
+locate
 regular
 right
 resulting
@@ -689,6 +702,8 @@ reversed
 represented
 repel
 remain
+readable
+reading
 or
 of
 other
@@ -752,6 +767,7 @@ originally
 outstretched
 orientation
 opposes
+overhead
 not
 negation
 need
@@ -954,6 +970,8 @@ assume
 attract
 alternator
 acting
+abstraction
+accesses
 process
 program
 physical
@@ -1102,6 +1120,8 @@ permeability
 palm
 polarity
 produces
+pointers
+parser
 The
 There
 Three
@@ -1160,6 +1180,7 @@ Travels
 Transverse
 Time
 Tesla
+Traverse
 expression
 entry
 enable
@@ -1280,6 +1301,10 @@ estimate
 echo
 estimates
 experience
+executing
+except
+external
+equivalences
 Regular
 Register
 Relational
@@ -1333,6 +1358,7 @@ Round
 Robin
 Return
 Reflection
+Retrieve
 sets
 set
 system
@@ -1534,6 +1560,9 @@ straight
 states
 secondary
 shape
+security
+superblock
+scanner
 closed
 can
 contiguous
@@ -1731,6 +1760,11 @@ curl
 coil
 changing
 coils
+controls
+contiguously
+calculation
+compaction
+cheapest
 given
 global
 give
@@ -1859,6 +1893,10 @@ musical
 magnetic
 moment
 magnet
+monitoring
+meta
+mounting
+measured
 Goals
 Given
 Gradient
@@ -1891,6 +1929,7 @@ Greedy
 Girl
 Gauss
 Generator
+Going
 do
 digits
 directory
@@ -2081,6 +2120,10 @@ becomes
 bf
 badge
 bar
+blocks
+big
+bitmap
+begin
 Efficiency
 Entry
 ENTRY
@@ -2176,6 +2219,7 @@ Maximum
 Motion
 Magnetism
 Motional
+Maps
 virtual
 values
 variable
@@ -2323,6 +2367,12 @@ String
 Savart
 Same
 Self
+Sequence
+Size
+Search
+Subsequent
+Small
+Superblock
 KB
 Key
 Knowledge
@@ -2623,6 +2673,9 @@ Frequency
 Fixed
 Flux
 Faraday
+Find
+Fetch
+Follow
 you
 your
 yields
@@ -2665,6 +2718,7 @@ BL
 Bellman
 Be
 Biot
+Block
 One
 Overfitting
 Out
@@ -2690,6 +2744,7 @@ Organization
 Organizations
 Optimize
 Opposites
+Overhead
 Another
 Attributes
 AI
@@ -2744,6 +2799,8 @@ Assumptions
 Amplitude
 Averaged
 AC
+Allocation
+Assume
 Internal
 In
 It
@@ -2788,6 +2845,9 @@ Inverse
 Inductive
 Induced
 Inductance
+Identifier
+Inode
+Indexed
 Normal
 NF
 Note
@@ -2809,6 +2869,7 @@ NC
 Node
 NetID
 National
+Nested
 quadratic
 question
 quantum
@@ -2824,6 +2885,7 @@ qi
 quH
 qh
 queue
+quantitative
 xk
 xffff
 xchg
@@ -2849,11 +2911,14 @@ JOS
 Join
 Jk
 Jj
+JC
 QEMU
 Quick
 Questions
 Qa
 QX
+Queries
+Query
 Xh
 XX
 XI
