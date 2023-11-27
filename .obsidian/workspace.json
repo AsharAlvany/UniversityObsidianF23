@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a2417ff7e28bf29b",
+        "id": "cda79119c318317d",
         "type": "tabs",
         "children": [
           {
-            "id": "a532c1b39b7b9979",
+            "id": "9ed5520517e2fd3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/File Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fff3eff5564c121e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Crash Consistency.md",
+                "file": "Personal/Cloud Concepts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kruska",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Crash Consistency.md",
+                "file": "Personal/Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Crash Consistency.md"
+                "file": "Personal/Cloud Concepts.md"
               }
             }
           },
@@ -160,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Crash Consistency.md",
+                "file": "Personal/Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +155,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "101589679a55002b",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
             }
           }
         ],
@@ -190,46 +184,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fff3eff5564c121e",
+  "active": "9ed5520517e2fd3c",
   "lastOpenFiles": [
+    "Advanced Algorithms/Kruskal.md",
+    "Excalidraw/Drawing 2023-11-01 18.45.48.excalidraw.md",
+    "Advanced Algorithms/Minimum Spanning Trees.md",
+    "Databases/Query Processing.md",
+    "Operating Systems/User-Kernel Context Switch.md",
+    "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
+    "Operating Systems/System Calls and Page Faults.md",
+    "Operating Systems/Multi-Threading.md",
+    "Machine Learning/Machine Learning.md",
     "Operating Systems/File Systems.md",
+    "Operating Systems/Concurrency Bugs and Deadlock.md",
+    "Databases/ACID.md",
+    "Discrete Mathematics/The Church Turing Thesis.md",
+    "Databases/Database Security.md",
+    "Discrete Mathematics/The Diagonalization Method.md",
+    "Discrete Mathematics/Discrete Mathematics.md",
+    "Advanced Algorithms/Maximum Flow.md",
+    "Excalidraw/Drawing 2023-11-14 10.26.30.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Images/Pasted Image 20231114102715_974.png",
     "Operating Systems/Crash Consistency.md",
     "Databases/Basic SQL.md",
-    "Databases/Query Processing.md",
     "Images/Pasted image 20231107180816.png",
-    "Databases/Database Security.md",
     "Discrete Mathematics/Turing Machines.md",
     "Operating Systems/Scheduling.md",
-    "Operating Systems/User-Kernel Context Switch.md",
     "University Physics II/Magnetic Forces and Fields.md",
     "University Physics II/Electromagnetic Induction.md",
     "University Physics II/Inductance.md",
-    "University Physics II/Sources of Magnetic Fields.md",
     "Images/Pasted image 20231104210320.png",
     "Images/Pasted image 20231104210133.png",
     "Images/Pasted image 20231104210118.png",
     "Images/Pasted image 20231104205050.png",
     "Images/Pasted image 20231104205036.png",
-    "University Physics II/Waves.md",
-    "Advanced Algorithms/Edit Distance.md",
-    "Advanced Algorithms/Rod Cutting.md",
-    "Advanced Algorithms/Depth First Search.md",
-    "Excalidraw/Drawing 2023-11-02 10.27.32.excalidraw.md",
-    "Advanced Algorithms/Matrix Chain Multiplication.md",
-    "Advanced Algorithms/Greedy Algorithm.md",
-    "Advanced Algorithms/Dynamic Algorithm.md",
-    "Excalidraw/Drawing 2023-11-02 10.03.28.excalidraw.md",
-    "Advanced Algorithms/Longest common subsequence.md",
-    "Advanced Algorithms/Minimum Spanning Trees.md",
-    "Advanced Algorithms/Prim's Algorithm.md",
-    "Advanced Algorithms/Single Source Shortest Path.md",
-    "Databases/Relational Schema.md",
     "Images/Pasted image 20231101225648.png",
     "Images/Pasted Image 20231101184604_072.png",
     "Images/Pasted image 20231024103552.png",
-    "Images/Pasted image 20231024103534.png",
     "Untitled",
-    "Theta Tau",
+    "Personal",
     "University Physics II/Untitled",
     "Screenshots",
     "Images",

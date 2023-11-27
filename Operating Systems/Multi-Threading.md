@@ -28,7 +28,7 @@ The following are two options of implementing concurrency
 	- The problem with mutual exclusion is that if it used too often then the purpose of multi threading is nullified. Ensure that the critical section is as short as possible to maximize benefit of having concurrency
 	- Enabling MUTEX:
 		- cli is the clear interrupt bit that makes sure that the CPU will never interrupt until it runs the sti, set interrupt bit.
-		1. Check if here;s any other execution in the critical section
+		1. Check if there's any other execution in the critical section
 		2. If not, acquire the lock
 		3. If not, acquire the lock
 			- Other cannot get into the critical section while it is in use
