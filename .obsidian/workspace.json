@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cda79119c318317d",
+        "id": "afe1263036dd4eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed5520517e2fd3c",
+            "id": "7d868b5b5455773e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Cloud Concepts.md",
+                "file": "Advanced Algorithms/Computational Complexity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Cloud Concepts.md",
+                "file": "Advanced Algorithms/Computational Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Cloud Concepts.md"
+                "file": "Advanced Algorithms/Computational Complexity.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Cloud Concepts.md",
+                "file": "Advanced Algorithms/Computational Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ed5520517e2fd3c",
+  "active": "7d868b5b5455773e",
   "lastOpenFiles": [
+    "Advanced Algorithms/Computational Complexity.md",
+    "Personal/Cloud Concepts.md",
     "Advanced Algorithms/Kruskal.md",
     "Excalidraw/Drawing 2023-11-01 18.45.48.excalidraw.md",
     "Advanced Algorithms/Minimum Spanning Trees.md",
@@ -212,8 +213,6 @@
     "Discrete Mathematics/Turing Machines.md",
     "Operating Systems/Scheduling.md",
     "University Physics II/Magnetic Forces and Fields.md",
-    "University Physics II/Electromagnetic Induction.md",
-    "University Physics II/Inductance.md",
     "Images/Pasted image 20231104210320.png",
     "Images/Pasted image 20231104210133.png",
     "Images/Pasted image 20231104210118.png",
