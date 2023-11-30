@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afe1263036dd4eb5",
+        "id": "8b900d8247cd2c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "7d868b5b5455773e",
+            "id": "627fac5e85058af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Algorithms/Computational Complexity.md",
+                "file": "University Physics II/Alternating Current Circuits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kruska",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Algorithms/Computational Complexity.md",
+                "file": "University Physics II/Alternating Current Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Algorithms/Computational Complexity.md"
+                "file": "University Physics II/Alternating Current Circuits.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Algorithms/Computational Complexity.md",
+                "file": "University Physics II/Alternating Current Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +184,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d868b5b5455773e",
+  "active": "627fac5e85058af5",
   "lastOpenFiles": [
+    "Images/Pasted image 20231130004348.png",
+    "Images/Pasted image 20231130003308.png",
+    "Images/Pasted image 20231130003227.png",
+    "Images/Pasted image 20231130003023.png",
+    "Images/Pasted image 20231130001932.png",
+    "Images/Pasted image 20231130001723.png",
+    "Images/Pasted image 20231130001620.png",
+    "Images/Pasted image 20231129234450.png",
+    "Images/Pasted image 20231129234319.png",
+    "Images/Pasted image 20231129234227.png",
+    "Excalidraw/Drawing 2023-11-14 10.26.30.excalidraw.md",
+    "University Physics II/Alternating Current Circuits.md",
+    "Advanced Algorithms/Maximum Flow.md",
+    "Advanced Algorithms/Depth First Search.md",
+    "Discrete Mathematics/Normal Forms.md",
+    "Machine Learning/Machine Learning.md",
     "Advanced Algorithms/Computational Complexity.md",
     "Personal/Cloud Concepts.md",
     "Advanced Algorithms/Kruskal.md",
@@ -195,7 +212,6 @@
     "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
     "Operating Systems/System Calls and Page Faults.md",
     "Operating Systems/Multi-Threading.md",
-    "Machine Learning/Machine Learning.md",
     "Operating Systems/File Systems.md",
     "Operating Systems/Concurrency Bugs and Deadlock.md",
     "Databases/ACID.md",
@@ -203,24 +219,9 @@
     "Databases/Database Security.md",
     "Discrete Mathematics/The Diagonalization Method.md",
     "Discrete Mathematics/Discrete Mathematics.md",
-    "Advanced Algorithms/Maximum Flow.md",
-    "Excalidraw/Drawing 2023-11-14 10.26.30.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Images/Pasted Image 20231114102715_974.png",
     "Operating Systems/Crash Consistency.md",
-    "Databases/Basic SQL.md",
-    "Images/Pasted image 20231107180816.png",
-    "Discrete Mathematics/Turing Machines.md",
-    "Operating Systems/Scheduling.md",
-    "University Physics II/Magnetic Forces and Fields.md",
-    "Images/Pasted image 20231104210320.png",
-    "Images/Pasted image 20231104210133.png",
-    "Images/Pasted image 20231104210118.png",
-    "Images/Pasted image 20231104205050.png",
-    "Images/Pasted image 20231104205036.png",
-    "Images/Pasted image 20231101225648.png",
-    "Images/Pasted Image 20231101184604_072.png",
-    "Images/Pasted image 20231024103552.png",
     "Untitled",
     "Personal",
     "University Physics II/Untitled",

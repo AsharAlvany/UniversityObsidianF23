@@ -65,6 +65,7 @@ Platform
 Private
 Public
 Pay
+Productions
 Lema
 Last
 Lookaside
@@ -260,6 +261,7 @@ unsigned
 usable
 unaffected
 upkeep
+unnecessary
 to
 this
 the
@@ -1186,6 +1188,7 @@ providers
 prefer
 products
 pricing
+production
 The
 There
 Three
@@ -1378,6 +1381,7 @@ extent
 environments
 expenses
 expenditure
+exponential
 Regular
 Register
 Relational
@@ -1653,6 +1657,9 @@ scalability
 spending
 signing
 simply
+solved
+solvable
+supplies
 closed
 can
 contiguous
@@ -1871,6 +1878,7 @@ computing
 clouds
 connected
 convention
+chains
 given
 global
 give
@@ -2303,6 +2311,7 @@ Exercises
 Equation
 Even
 Expenditure
+Exp
 Manage
 Mapping
 MB
@@ -2389,6 +2398,7 @@ vertical
 vibrating
 vice
 versa
+varying
 Have
 How
 Handler
@@ -2507,6 +2517,7 @@ Small
 Superblock
 Shared
 Software
+Source
 KB
 Key
 Knowledge
@@ -2690,6 +2701,9 @@ Consumer
 Comes
 Control
 Capital
+Chain
+Chonisky
+CNF
 Directory
 DIRECTORY
 Dependency
@@ -3031,6 +3045,7 @@ Node
 NetID
 National
 Nested
+NP
 quadratic
 question
 quantum
