@@ -36,6 +36,7 @@ Capacitor
 - the average power is zero
 ___
 For an arbitrary combination of resistors, inductors, and capacitors, the average **power** is positive, and is given by
+$$P = \frac{V^2_{RMS}}{R}$$
 ![[Pasted image 20231130001620.png]]
 The average **power** associated with a circuit element in any AC circuit is given by
 ![[Pasted image 20231130001723.png]]
