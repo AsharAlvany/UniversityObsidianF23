@@ -13,4 +13,8 @@ $$E_{max} = cB_{max}$$
 Poynting Vector - $$S = \frac{1}{\mu_0}E\cdot B$$
 	Where mu is the magnetic constant ($1.25\cdot10^{-6}$)
 The intensity of the electromagnetic wave is the average value of the Poynting vector
+Intensity can also be expressed as the following
+$$I = \frac{P}{A}$$
 $$I = S_{av} = \frac{E_{max}B_{max}}{2\mu_0} = \frac{E_{max}^2}{2\mu_0c} = \frac{1}{2}\sqrt{\frac{\epsilon_0}{\mu_0}}E_{max}^2 = \frac{1}2 \epsilon_0cE_{max}^2$$
+Energy derived from flux:
+$$U=IA\Delta t$$

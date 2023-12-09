@@ -68,6 +68,8 @@ Pay
 Productions
 Phasors
 Power
+Poynting
+Polarization
 Lema
 Last
 Lookaside
@@ -109,6 +111,7 @@ Loop
 Logging
 Locks
 Laws
+Light
 is
 intersection
 internal
@@ -225,6 +228,9 @@ integration
 instantaneous
 impedance
 inductors
+imaginary
+incidence
+incident
 used
 under
 user
@@ -383,6 +389,10 @@ technologies
 tangible
 transformer
 turns
+transmitted
+typescript
+tools
+team
 find
 fragmentation
 from
@@ -472,6 +482,7 @@ fffafef
 ff
 finite
 formulas
+focal
 whether
 waste
 within
@@ -537,6 +548,7 @@ writes
 wants
 workloads
 www
+white
 language
 loaded
 linear
@@ -619,6 +631,10 @@ lags
 lag
 lead
 locking
+larger
+lens
+legacy
+led
 regular
 right
 resulting
@@ -767,6 +783,9 @@ resistors
 reaches
 resonance
 ratioof
+reflected
+reflection
+rovers
 or
 of
 other
@@ -839,6 +858,9 @@ operating
 offsite
 operational
 ohms
+oscillations
+object
+owned
 not
 negation
 need
@@ -890,6 +912,7 @@ nodes
 national
 nationwide
 neighboring
+nights
 and
 are
 applications
@@ -1052,6 +1075,8 @@ accordingly
 abundance
 ac
 amplitudes
+appointments
+app
 process
 program
 physical
@@ -1216,6 +1241,9 @@ pricing
 production
 phasor
 projection
+polarization
+patient
+person
 The
 There
 Three
@@ -1279,6 +1307,7 @@ Transaction
 Turing
 Type
 Transform
+Tracing
 expression
 entry
 enable
@@ -1411,6 +1440,8 @@ expenses
 expenditure
 exponential
 escape
+everything
+epics
 Regular
 Register
 Relational
@@ -1474,6 +1505,9 @@ RLC
 Resistor
 Resonance
 Relinquish
+Refraction
+Ray
+Relocation
 sets
 set
 system
@@ -1697,6 +1731,9 @@ supplies
 sharpness
 see
 shrink
+specular
+specialty
+sorts
 closed
 can
 contiguous
@@ -1924,6 +1961,15 @@ contract
 cd
 conjunctive
 capacity
+completely
+colors
+conventional
+converging
+covers
+care
+company
+campuses
+cultures
 given
 global
 give
@@ -2064,6 +2110,14 @@ maintained
 manage
 money
 met
+mu
+materials
+mirror
+magnification
+medical
+mobile
+mushrooms
+managers
 Goals
 Given
 Gradient
@@ -2225,6 +2279,10 @@ demand
 dc
 dissipated
 diagonal
+definite
+derived
+dynamics
+developer
 know
 kern
 key
@@ -2361,6 +2419,8 @@ Even
 Expenditure
 Exp
 Enforces
+EM
+Employee
 Manage
 Mapping
 MB
@@ -2410,6 +2470,10 @@ Models
 Multi
 Migrating
 Maxwell
+Mirror
+Melding
+MUMP
+Madison
 virtual
 values
 variable
@@ -2469,6 +2533,8 @@ Huffman
 Hz
 Hypothesis
 Hybrid
+Healthcare
+HyperSpace
 Split
 Summary
 SHARED
@@ -2570,6 +2636,10 @@ Superblock
 Shared
 Software
 Source
+Sumits
+Swift
+SO
+Scrum
 KB
 Key
 Knowledge
@@ -2585,6 +2655,7 @@ KtU
 Kruskall
 KNeighbors
 Knapsack
+Kanban
 zero
 zS
 zs
@@ -2634,6 +2705,9 @@ harmonic
 helix
 henry
 hosts
+healthcare
+home
+hospice
 Use
 Unsupervised
 User
@@ -2757,6 +2831,12 @@ Chain
 Chonisky
 CNF
 Construct
+Critical
+Cache
+Crazy
+Comfort
+COOL
+CEO
 Directory
 DIRECTORY
 Dependency
@@ -2819,6 +2899,9 @@ Displacement
 During
 Discrete
 Durability
+Dispersion
+Dorothy
+Developer
 We
 Without
 Why
@@ -2842,6 +2925,7 @@ Wavelength
 While
 With
 Which
+Wisconsin
 First
 Fragmentation
 Functional
@@ -2893,6 +2977,8 @@ Follow
 FS
 FSCK
 Fulkerson
+FAULKNER
+Full
 you
 your
 yields
@@ -2965,6 +3051,7 @@ Opposites
 Overhead
 Operational
 Ohm
+Objective
 Another
 Attributes
 AI
@@ -3029,6 +3116,7 @@ Azure
 Arc
 Amplitudes
 Acquisition
+Agile
 Internal
 In
 It
@@ -3081,6 +3169,8 @@ Isolation
 Infrastructure
 IT
 Inductor
+Integrated
+Including
 Normal
 NF
 Note
@@ -3105,6 +3195,7 @@ National
 Nested
 NP
 Nondeterministic
+Non
 quadratic
 question
 quantum
@@ -3144,6 +3235,7 @@ jF
 joined
 job
 journal
+joins
 JOIN
 JOS
 Join
@@ -3151,6 +3243,7 @@ Jk
 Jj
 JC
 Journaling
+JUDY
 QEMU
 Quick
 Questions
@@ -3167,3 +3260,4 @@ You
 ZC
 ZR
 Zw
+Zach
