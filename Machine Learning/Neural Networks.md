@@ -1,4 +1,4 @@
-ANN (Artificial Neural Network)
+ ANN (Artificial Neural Network)
 - Architecture: an input layer, one or more hidden layers, and an output layer.
 - Functionality: suited for regression and classification problems. Image and speech recognition, natural language processing, and more
 - Training: involves adjusting the weights based on the error between the predicted output and the actual ouput using techniques such as back propagation

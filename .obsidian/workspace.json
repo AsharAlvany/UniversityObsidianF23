@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3a4ae5eec30515",
+        "id": "b676197f6e4fc305",
         "type": "tabs",
         "children": [
           {
-            "id": "3f92be5c17712d93",
+            "id": "37fdfa37e5c5aba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Neural Networks.md",
+                "file": "History/Assignment 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Neural Networks.md",
+                "file": "History/Assignment 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Neural Networks.md"
+                "file": "History/Assignment 5.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Neural Networks.md",
+                "file": "History/Assignment 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +137,16 @@
             "state": {
               "type": "google-calendar-view-day",
               "state": {}
+            }
+          },
+          {
+            "id": "b73cf98ea17a9595",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -158,9 +168,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f92be5c17712d93",
+  "active": "37fdfa37e5c5aba1",
   "lastOpenFiles": [
+    "History/Assignment 4.md",
+    "History/Assignment 5.md",
+    "History/Assignment 3.md",
+    "History/Assignment 2.md",
+    "History/Assignment 1.md",
+    "History",
     "Machine Learning/Neural Networks.md",
+    "Machine Learning/K-Folds.md",
+    "Machine Learning/Exam 2 Notes.md",
+    "Machine Learning/KMeans.md",
+    "Machine Learning/KNeighbors.md",
+    "Machine Learning/Exam 1 Materials.md",
+    "Images/Pasted image 20231212173200.png",
+    "Images/Pasted image 20231212154715.png",
+    "Advanced Algorithms/Final Exam Notes.md",
     "Personal/EPIC Interview.md",
     "Personal/Cloud Concepts.md",
     "Databases/ACID.md",
@@ -180,23 +204,9 @@
     "Images/Pasted image 20231130003227.png",
     "Images/Pasted image 20231130003023.png",
     "Images/Pasted image 20231130001932.png",
-    "Images/Pasted image 20231130001723.png",
-    "Images/Pasted image 20231130001620.png",
     "Excalidraw/Drawing 2023-11-14 10.26.30.excalidraw.md",
     "Advanced Algorithms/Depth First Search.md",
     "Discrete Mathematics/Normal Forms.md",
-    "Machine Learning/Machine Learning.md",
-    "Advanced Algorithms/Kruskal.md",
-    "Excalidraw/Drawing 2023-11-01 18.45.48.excalidraw.md",
-    "Advanced Algorithms/Minimum Spanning Trees.md",
-    "Databases/Query Processing.md",
-    "Operating Systems/User-Kernel Context Switch.md",
-    "Excalidraw/Drawing 2023-09-28 10.09.04.excalidraw.md",
-    "Operating Systems/System Calls and Page Faults.md",
-    "Operating Systems/Multi-Threading.md",
-    "Operating Systems/File Systems.md",
-    "Operating Systems/Concurrency Bugs and Deadlock.md",
-    "Untitled",
     "Personal",
     "University Physics II/Untitled",
     "Screenshots",

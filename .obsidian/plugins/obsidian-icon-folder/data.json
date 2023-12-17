@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCounterstrike",
       "FarImage",
       "FarImages",
       "SiFuturelearn",
-      "SiArchlinux",
-      "IbEqual"
+      "SiArchlinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,6 @@
   "Machine Learning": "SiFuturelearn",
   "Discrete Mathematics": "IbRectangleSmallWithBlocks1",
   "Screenshots": "FarImages",
-  "Images": "FarImage"
+  "Images": "FarImage",
+  "History": "SiCounterstrike"
 }
