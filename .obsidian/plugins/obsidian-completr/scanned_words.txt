@@ -257,6 +257,7 @@ intelligence
 immigrants
 interests
 impeachment
+impression
 used
 under
 user
@@ -303,6 +304,8 @@ upkeep
 unnecessary
 unlocked
 unspoken
+unbiased
+unwillingness
 to
 this
 the
@@ -433,6 +436,8 @@ tech
 troops
 trickle
 tell
+turning
+tensions
 find
 fragmentation
 from
@@ -536,6 +541,7 @@ funding
 funds
 furious
 fight
+fair
 whether
 waste
 within
@@ -607,6 +613,8 @@ weapons
 wealthy
 world
 war
+woman
+willingness
 language
 loaded
 linear
@@ -698,6 +706,7 @@ life
 low
 land
 leader
+lack
 regular
 right
 resulting
@@ -942,6 +951,7 @@ opposed
 opinion
 overthrow
 oil
+optimistically
 not
 negation
 need
@@ -1177,6 +1187,9 @@ aggressive
 angry
 anti
 allied
+american
+afforded
+albeit
 process
 program
 physical
@@ -1359,6 +1372,9 @@ planned
 privatize
 pursue
 pursues
+police
+prioritization
+protect
 The
 There
 Three
@@ -1907,6 +1923,9 @@ spend
 sell
 spotlight
 safe
+succinctly
+stated
+showed
 closed
 can
 contiguous
@@ -2164,6 +2183,10 @@ congregates
 communism
 communist
 color
+communities
+climax
+courts
+capable
 given
 global
 give
@@ -2339,6 +2362,8 @@ marry
 moral
 manifesto
 mind
+murdering
+man
 Goals
 Given
 Gradient
@@ -2526,6 +2551,7 @@ disabilities
 dead
 drugs
 deserve
+decision
 know
 kern
 key
@@ -2621,6 +2647,9 @@ blew
 bluff
 brutally
 beaten
+black
+brutality
+became
 Efficiency
 Entry
 ENTRY
@@ -2745,6 +2774,7 @@ Motivation
 Move
 March
 Marriage
+My
 virtual
 values
 variable
@@ -2937,6 +2967,7 @@ SDI
 Soviets
 Stonewall
 Sex
+Simpson
 KB
 Key
 Knowledge
@@ -3019,6 +3050,8 @@ his
 haiti
 helped
 hostages
+high
+horrific
 Use
 Unsupervised
 User
@@ -3417,6 +3450,7 @@ Object
 Oblige
 Obama
 Open
+OJ
 Another
 Attributes
 AI
@@ -3498,6 +3532,7 @@ Axis
 Americans
 ATF
 AIDS
+Although
 Internal
 In
 It
@@ -3631,6 +3666,8 @@ journal
 joins
 jr
 justice
+jury
+judge
 JOIN
 JOS
 Join
