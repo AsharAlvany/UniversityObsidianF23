@@ -1,0 +1,28 @@
+- Women were seen as essential to the workforce during the Second World War
+- Pillow Talk (1959)
+	- Fabulous life, but she should be pitied because she does not have a husband
+	- Attitude of where a women should be
+	- No girl wanted to be a "spinceter"
+- Paternalistic and looking down on women
+- Docile, catch a husband, hours on hair
+- Kinsey Scale
+	- On average people are not truly completely homo or hetero
+- Masters and Johnson
+	- Measure statistics of people having sex (heart rate, breathing, etc)
+- William Levit
+	- Built a bunch of homes for people coming back from the war
+	- Pre-built all very similar homes
+	- Suburban way of life
+	- 17,000 homes without a single African-African resident
+	- Redlining - considered a person of color a financial risk
+- New health and medicine
+- The Organization Man
+	- We are losing individuality as we try to conform
+- Youth Culture
+	- Teenager became a common language
+	- Promoted individuality
+	- Rock 'n' Roll
+	- Black artists
+- The Beat Generation
+	- Anti-establishment community
+	- Group of writers interested in changing consciousness and defying conventional writing

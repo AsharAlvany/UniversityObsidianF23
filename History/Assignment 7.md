@@ -1,0 +1,32 @@
+- Oral contraceptive
+	- Initially offered to married women
+	- "War of the sexes"
+- Second Wave of the U.S. Women's Movement
+	- "The Feminine Mystique" Betty Friedan in 1963
+	- Work and Social Discrimination
+	- Pressured to get married
+- JFK
+	- Created the Green Berets to (unsuccessfully) stop the communist movements in Laos and Vietnam
+	- Cuban Revolution
+	- JFK tried to overthrow Fidel Castro; did not work; JFK was transparent
+	- Castro allies with SU, closest we come to thermo-nuclear war
+- Ho Chi Minh
+	- Leader in North Vietnam
+	- Fought for independence from the French
+	- Ignored request for helping North Vietnam, which made them turn to Communist China
+- South Vietnam protested against the Vietnam War
+- Gulf of Tonkin
+	- Somebody fired on an American ship
+	- Sparked the Vietnam War
+- Operation Rolling Thunder
+- Tet Offensive
+	- Massive attack by the North Vietnamese that did large amounts of damage to many American camps
+- Agent Orange is used to destroy foliage
+- Napalm is dropped from planes, low accuracy, affects many innocent people
+- My Lai Massacre
+	- Killed all women and children in a village
+- Jane Fonda
+	- Hanoi Jane
+	- Traitor to America by betraying ill-treated POW
+- Fall of Saigon
+	- Lost the war

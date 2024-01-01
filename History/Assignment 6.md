@@ -1,0 +1,32 @@
+Martin Luther King Jr.
+- Born in 1921,
+- Moved quickly through school
+- Theological studies, married in 1953
+- Phd
+- Took influence from Gandhi
+- Worked as a minister at a church in Montgomery, Alabama
+- Boycott the system (Public transportation)
+- Christian way of protest "love thy enemy"
+- Bombed his house
+- "He who lives by the sword dies by the sword"
+- Bus segregation is now illegal - first triumph
+- SCLC
+- Arrested for not cooperating with oppressive 
+- Student sit-in (Student Non-violent Committee)
+- First James Meredith student of Uni Missou
+- Birmingham, Alabama - most segregated city that was their target
+- Protester were nonviolent but the police were openly using violence this showed America the extent of segregation
+- After witnessing the atrocities of Birmingham, JFK publicly announced his plan to push a bill through congress to desegregate the states
+- Washington March - "We shall overcome"
+- Violence against the colored community continued
+- JFK killed
+- MLK was assaulted by blacks that viewed that the movement should not be peaceful
+- Voting Rights were won by LBJ -> now move towards poverty, education, and jobs
+- MLK spoke out against the Vietnam War, early stand, lots began to jump to his side within a year
+- MLK was shot and murdered
+- Riots broke out
+- "Nonviolence is a sword that cuts without wounding"
+- Backpack
+- Carabiner
+- Room Decor
+- Tron

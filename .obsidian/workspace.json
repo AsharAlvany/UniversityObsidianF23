@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b676197f6e4fc305",
+        "id": "1e663e7f6eee432e",
         "type": "tabs",
         "children": [
           {
-            "id": "37fdfa37e5c5aba1",
+            "id": "b50c6c84f9c54491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Assignment 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transactions",
+                "query": "ampere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Assignment 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History/Assignment 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Assignment 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,12 +136,22 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "03c6ba2a0f23045c",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,45 +169,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37fdfa37e5c5aba1",
+  "active": "b50c6c84f9c54491",
   "lastOpenFiles": [
-    "History/Assignment 4.md",
+    "History/Assignment 11.md",
+    "History/Assignment 13.md",
+    "History/Assignment 10.md",
+    "History/Extra Credit 3.md",
+    "History/Discussion Board 3.md",
+    "History/Assignment 12.md",
+    "University Physics II/Sources of Magnetic Fields.md",
+    "History/Assignment 9.md",
+    "History/Extra Cred 1.md",
     "History/Assignment 5.md",
+    "History/Assignment 6.md",
+    "History/Assignment 7.md",
+    "History/Extra Cred 2.md",
+    "Databases/Basic SQL.md",
+    "Discrete Mathematics/Properties of CFLs.md",
+    "Discrete Mathematics/Pushdown Automata.md",
+    "Discrete Mathematics/Normal Forms.md",
+    "Discrete Mathematics/Properties of Reg Sets.md",
+    "Discrete Mathematics/The Church Turing Thesis.md",
+    "Discrete Mathematics/The Diagonalization Method.md",
+    "History/Assignment 8.md",
+    "History/Assignment 4.md",
     "History/Assignment 3.md",
     "History/Assignment 2.md",
     "History/Assignment 1.md",
     "History",
     "Machine Learning/Neural Networks.md",
-    "Machine Learning/K-Folds.md",
-    "Machine Learning/Exam 2 Notes.md",
-    "Machine Learning/KMeans.md",
-    "Machine Learning/KNeighbors.md",
-    "Machine Learning/Exam 1 Materials.md",
     "Images/Pasted image 20231212173200.png",
     "Images/Pasted image 20231212154715.png",
-    "Advanced Algorithms/Final Exam Notes.md",
-    "Personal/EPIC Interview.md",
-    "Personal/Cloud Concepts.md",
-    "Databases/ACID.md",
-    "Advanced Algorithms/Computational Complexity.md",
-    "University Physics II/Electromagnetic Waves.md",
-    "University Physics II/The Nature of Light.md",
-    "University Physics II/Geometric Optics and Image Formation.md",
-    "University Physics II/Alternating Current Circuits.md",
     "Images/Pasted image 20231203175028.png",
     "Images/Pasted image 20231202125425.png",
-    "Advanced Algorithms/Homework.md",
     "Images/Pasted image 20231201002527.png",
-    "Databases/Concurrency.md",
-    "Advanced Algorithms/Maximum Flow.md",
     "Images/Pasted image 20231130004348.png",
     "Images/Pasted image 20231130003308.png",
     "Images/Pasted image 20231130003227.png",
     "Images/Pasted image 20231130003023.png",
     "Images/Pasted image 20231130001932.png",
-    "Excalidraw/Drawing 2023-11-14 10.26.30.excalidraw.md",
-    "Advanced Algorithms/Depth First Search.md",
-    "Discrete Mathematics/Normal Forms.md",
     "Personal",
     "University Physics II/Untitled",
     "Screenshots",
