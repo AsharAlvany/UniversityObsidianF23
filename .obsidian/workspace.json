@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b50c6c84f9c54491",
+            "id": "900dda7cb75161b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/Assignment 15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ampere",
+                "query": "abacus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Assignment 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Assignment 15.md"
+              }
             }
           },
           {
@@ -112,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Assignment 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,14 +178,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b50c6c84f9c54491",
+  "active": "97e81b51de5d3e61",
   "lastOpenFiles": [
-    "History/Assignment 11.md",
+    "History/Assignment 14.md",
+    "History/Assignment 15.md",
+    "History/Assignment 12.md",
     "History/Assignment 13.md",
+    "History/Assignment 11.md",
     "History/Assignment 10.md",
     "History/Extra Credit 3.md",
     "History/Discussion Board 3.md",
-    "History/Assignment 12.md",
     "University Physics II/Sources of Magnetic Fields.md",
     "History/Assignment 9.md",
     "History/Extra Cred 1.md",
@@ -195,9 +206,7 @@
     "History/Assignment 4.md",
     "History/Assignment 3.md",
     "History/Assignment 2.md",
-    "History/Assignment 1.md",
     "History",
-    "Machine Learning/Neural Networks.md",
     "Images/Pasted image 20231212173200.png",
     "Images/Pasted image 20231212154715.png",
     "Images/Pasted image 20231203175028.png",
