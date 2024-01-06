@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ea4c8bcc7f3c1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Assignment 16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a40c4736faa2a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Assignment 17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Assignment 15.md",
+                "file": "History/Assignment 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Assignment 15.md"
+                "file": "History/Assignment 17.md"
               }
             }
           },
@@ -120,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Assignment 15.md",
+                "file": "History/Assignment 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97e81b51de5d3e61",
+  "active": "a40c4736faa2a3ed",
   "lastOpenFiles": [
-    "History/Assignment 14.md",
+    "History/Assignment 16.md",
+    "History/Assignment 17.md",
     "History/Assignment 15.md",
+    "History/Assignment 14.md",
     "History/Assignment 12.md",
     "History/Assignment 13.md",
     "History/Assignment 11.md",
@@ -204,8 +233,6 @@
     "Discrete Mathematics/The Diagonalization Method.md",
     "History/Assignment 8.md",
     "History/Assignment 4.md",
-    "History/Assignment 3.md",
-    "History/Assignment 2.md",
     "History",
     "Images/Pasted image 20231212173200.png",
     "Images/Pasted image 20231212154715.png",
