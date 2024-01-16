@@ -8,46 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "900dda7cb75161b6",
+            "id": "c57af1dbf6fbf26d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Assignment 15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ea4c8bcc7f3c1c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Assignment 16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a40c4736faa2a3ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Assignment 17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abacus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -125,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Assignment 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Assignment 17.md"
+                "file": "Previous Classes/Advanced Algorithms/Sorting Algorithms.md"
               }
             }
           },
@@ -147,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Assignment 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,53 +170,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a40c4736faa2a3ed",
+  "active": "97e81b51de5d3e61",
   "lastOpenFiles": [
-    "History/Assignment 16.md",
-    "History/Assignment 17.md",
-    "History/Assignment 15.md",
-    "History/Assignment 14.md",
-    "History/Assignment 12.md",
-    "History/Assignment 13.md",
-    "History/Assignment 11.md",
-    "History/Assignment 10.md",
-    "History/Extra Credit 3.md",
-    "History/Discussion Board 3.md",
-    "University Physics II/Sources of Magnetic Fields.md",
-    "History/Assignment 9.md",
-    "History/Extra Cred 1.md",
-    "History/Assignment 5.md",
-    "History/Assignment 6.md",
-    "History/Assignment 7.md",
-    "History/Extra Cred 2.md",
-    "Databases/Basic SQL.md",
-    "Discrete Mathematics/Properties of CFLs.md",
-    "Discrete Mathematics/Pushdown Automata.md",
-    "Discrete Mathematics/Normal Forms.md",
-    "Discrete Mathematics/Properties of Reg Sets.md",
-    "Discrete Mathematics/The Church Turing Thesis.md",
-    "Discrete Mathematics/The Diagonalization Method.md",
-    "History/Assignment 8.md",
-    "History/Assignment 4.md",
-    "History",
-    "Images/Pasted image 20231212173200.png",
-    "Images/Pasted image 20231212154715.png",
-    "Images/Pasted image 20231203175028.png",
-    "Images/Pasted image 20231202125425.png",
-    "Images/Pasted image 20231201002527.png",
-    "Images/Pasted image 20231130004348.png",
-    "Images/Pasted image 20231130003308.png",
-    "Images/Pasted image 20231130003227.png",
-    "Images/Pasted image 20231130003023.png",
-    "Images/Pasted image 20231130001932.png",
+    "Previous Classes",
+    "Previous Classes/Advanced Algorithms/Merge Sort.md",
+    "Previous Classes/Advanced Algorithms/Functions.md",
+    "Previous Classes/Advanced Algorithms/Solving Recurrence Relations.md",
+    "Previous Classes/Advanced Algorithms/Master Method.md",
+    "Previous Classes/Advanced Algorithms/Recurrence Tree Method.md",
+    "Previous Classes/Advanced Algorithms/Dynamic Algorithm.md",
+    "Previous Classes/Advanced Algorithms/Greedy Algorithm.md",
+    "Previous Classes/Advanced Algorithms/Matrix Chain Multiplication.md",
+    "Previous Classes/Advanced Algorithms/Graph Algorithms.md",
+    "Previous Classes/Advanced Algorithms/Minimum Spanning Trees.md",
+    "Previous Classes/Advanced Algorithms/Single Source Shortest Path.md",
+    "Previous Classes/Advanced Algorithms/Prim's Algorithm.md",
+    "Previous Classes/Advanced Algorithms/Rod Cutting.md",
+    "Previous Classes/Advanced Algorithms/Edit Distance.md",
+    "Previous Classes/Advanced Algorithms/Depth First Search.md",
+    "Previous Classes/Advanced Algorithms/Maximum Flow.md",
+    "Previous Classes/Advanced Algorithms/Homework.md",
+    "Previous Classes/Advanced Algorithms/Computational Complexity.md",
+    "Previous Classes/Advanced Algorithms/Kruskal.md",
+    "Previous Classes/History/Assignment 13.md",
+    "Previous Classes/History/Assignment 15.md",
+    "Previous Classes/History/Assignment 12.md",
+    "Previous Classes/History/Assignment 14.md",
+    "Previous Classes/History/Assignment 16.md",
+    "Previous Classes/History/Assignment 17.md",
+    "Previous Classes/History",
+    "Previous Classes/Images/Pasted image 20231212173200.png",
+    "Previous Classes/Images/Pasted image 20231212154715.png",
+    "Previous Classes/Images/Pasted image 20231203175028.png",
+    "Previous Classes/Images/Pasted image 20231202125425.png",
+    "Previous Classes/Images/Pasted image 20231201002527.png",
+    "Previous Classes/Images/Pasted image 20231130004348.png",
+    "Previous Classes/Images/Pasted image 20231130003308.png",
+    "Previous Classes/Images/Pasted image 20231130003227.png",
+    "Previous Classes/Images/Pasted image 20231130003023.png",
+    "Previous Classes/Images/Pasted image 20231130001932.png",
     "Personal",
     "University Physics II/Untitled",
     "Screenshots",
-    "Images",
-    "Operating Systems",
-    "Machine Learning",
-    "Databases",
-    "Advanced Algorithms",
+    "Previous Classes/Images",
+    "Previous Classes/Operating Systems",
+    "Previous Classes/Machine Learning",
+    "Previous Classes/Databases",
+    "Previous Classes/Advanced Algorithms",
     "Excalidraw"
   ]
 }

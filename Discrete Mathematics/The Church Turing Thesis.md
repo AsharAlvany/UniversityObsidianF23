@@ -1,1 +1,0 @@
-The class of intuitively computable functions is equal to the class of Turing machine computable functions

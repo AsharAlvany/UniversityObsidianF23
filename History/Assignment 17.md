@@ -1,8 +1,0 @@
-- The West was responsible for key American characteristics: individualism, political democracy, and economic mobility
-- The Western frontier represented a chance to start over and be rich
-- Railroads made connecting the new Western frontier possible which promoted settling
-- States almost went bankrupt attempting to fund the railroads
-- Destroy the American Indians way of life and take away more and more of their land
-- Americans went back on promises made to the American Indians such as reservations, independence, and peace
-- "Kill the Indian, save the man"
-- Family farms turn into agricultural businesses because of international competition. Changed the focus from subsistence to national supply

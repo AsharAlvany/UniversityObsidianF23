@@ -1,1 +1,0 @@
-Discrete mathematics is a branch of mathematics that utilizes [[logic]] and [[proofs]] to measure a finite number of objects.  
