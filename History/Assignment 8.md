@@ -1,0 +1,70 @@
+Cold War
+- 1945-1991
+- US vs Soviets
+- No direct military action between the sides
+- Both sides possess nuclear powers, which can ensue mass death
+- Ideological vs Capitalism
+- Capitalism - can be dehumanizing, comes at the expense of hard labor
+- Socialism - everyone equal
+- Communism - for the good of the leader, take away poverty and make everyone equal,
+- Primitive Communism - how humans first lived together
+- Feudalism - kings and monarchs
+- FDR
+	- Good diplomat
+	- Passes away
+- Truman
+	- Takes over from FDR
+	- Not a good diplomat
+	- Attack Japan with atomic bombs
+	- Integrated people of color into the military
+	- Integrated the Marshall Plan
+- Joseph Stalin
+	- Grew up in poverty
+	- Increased the amount of food production
+	- Push to industrialization
+	- 1949 gained nuclear power
+	- Stalin raised from village status to nuclear superpower under his sole reign
+- The Long Telegram
+	- 8000 word telegram
+	- Russians are determined to destroy the American way of life
+	- Educate the public against communism
+	- Soviets can be beaten and must be stopped
+- Iron Curtain
+	- The physical boundary diving Europe into two separate areas throughout the Cold War
+	- Communist countries are very secretive and "hush-hush"
+- Truman Doctrine
+	- Support the people of the countries that are under the subjugation of other countries (USSR on Greece and Turkey because USSR was going to use them to get more oil out of Iran)
+	- Avoid countries from falling to communism
+- Marshall Plan "European Recovery Program"
+	- Give aid to countries that needed help recovering from the Second World War
+	- Help to constrict the spread of Communism
+	- $12.5 billion of US aid to Western Europe extended to Eastern Europe and USSR but they refused
+- Containment
+	- Could not get rid of Communism
+	- US would contain communism where is already existed
+- Berlin Blockade
+	- He cut off road and rail connection to West Berlin
+	- The US helped the East Europe that were starving because of the blockade
+- The National Security Act
+	- Established the National Security Council and Central Intelligence Agency
+- The Red Scare
+	- During the first world war
+	- The House of Un-Americann Activities Committee
+	- Modern Salem Witch Trials
+	- "Cancel Culture"
+- McCarthyism
+	- Charged 250 communists in the State Department
+	- Attacked women's roles in the workspace
+	- Made wild charges against of communism infiltrating the Army, which destroyed him
+- Edward R Murrow
+	- Calls out McCarthy for his fear mongering tactics
+	- Famous 2-minute speech is the beginning of the end of McCarthy
+- Korean War
+	- Forgotten War
+-  Dwight D Eisenhower
+	- WW1 rose through the ranks
+	- Operation Overlord - "D-Day"
+	- Eisenhower worked towards equal education
+	- Founded NASA
+	- Warned about big businesses and a corporate America (Military-Industrial Complex)
+	- ;

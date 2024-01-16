@@ -1,0 +1,1 @@
+Supervised. Calculate distance of new point to every other dataset, put distance in order of closest, from those top k values, whichever option is the most popular, that is the category of the new data point.

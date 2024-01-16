@@ -1,0 +1,4 @@
+George H Bush - competitive, cold war, gulf war Suddam Hussein, foreign policy to ally with the UN to overthrow Saddam Hussein as a group, strong standing against taxes but raised them because he needed to, centrist, "compassionate" Republican, strong foreign affairs, Americans with Disabilities Act - no discrimination against individuals with disabilities, Saddam Hussein was removed from the oil reserves in Kuwait but not from power in Iraq
+David Koresh - Davidian Religious Group, marry all the female congregates, stockpiling weapons, ATF and Koresh had a 50 day standoff, 80 people dead, moral/purpose: the government is aggressive angry with the government
+Ted Kaezynski - Sent explosive bombs through the US mail, anti-tech manifesto, blew up 3 people
+Bill Clinton - Open mind, rock n roll, impeachment, Lewinsky scandal, DOM NAFTA, Government Shutdown, survives impeachment vote, send troops to haiti and somalia, Balkan Wars

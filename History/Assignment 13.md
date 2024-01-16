@@ -1,0 +1,40 @@
+- 1914: War Begins in Europe
+	- Franz Ferdinand is killed by a Bosnian agent that had help from Serbia
+	- Serbia asks Russia for help, Germany joins Austria, and Europe took sides
+- 1915: Sinking of *Lusitania*
+	- Boat sank in 20 minutes
+	- 128 people die
+	- US stays neutral
+	- Sunk by torpedo from a German submarine
+- 1916: Wilson is reelected
+- 1917: US formally in the war
+	- Zimmerman Telegram: Germans try to convince Mexico to join Germany through code
+	- Submarine technology takes off
+	- Aerial combat takes off
+	- Chemical warfare as a biological weapon
+	- Trench Warfare - machine guns, artillery, hand grenade, flame thrower
+	- Plastic Surgery
+- The Battle of Verdun
+	- February - December 1816
+	- Shell Shock
+- 1918: War Ends
+- Woodrow Wilson
+	- The Federal Reserve System
+	- Eight-hour work day
+	- Workmen's compensation
+	- "The world must be made safe for Democracy"
+	- League of Nations
+		- Suffers a stroke
+		- May have stopped the Second World War
+		- US did not join
+- The Treaty of Versailles
+	- Germany is forced to pay the costs of everything leads to Germany's Great Depression
+	- Wilson' Fourteen Points
+---
+- Germany continuously kept picking on America, spend her resources on defeating Germany
+- Crusade for Germany
+	- America military was not established for military combat
+	- Established the draft
+	- Suffrage for women (1920)
+	- African Americans migrated to the North for the availability of work
+	- 

@@ -1,0 +1,6 @@
+- Basic Python Concepts
+- Linear Regression all formats
+- Logistic Regression all formats
+- Decision Trees all kinds
+- KNN algorithm
+- PCA
