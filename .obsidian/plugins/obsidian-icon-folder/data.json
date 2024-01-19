@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbChip",
+      "FarHandPeace",
+      "IbRectangleWithBlocks",
       "SiCounterstrike",
-      "FarImage",
-      "FarImages",
-      "SiFuturelearn",
-      "SiArchlinux"
+      "FarImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,14 +22,10 @@
     },
     "iconInTabsEnabled": false
   },
-  "University Physics II": "SiGrav",
   "Excalidraw": "IbPencil",
-  "Advanced Algorithms": "IbEqual",
-  "Databases": "IbDatabse",
-  "Operating Systems": "SiArchlinux",
-  "Machine Learning": "SiFuturelearn",
-  "Discrete Mathematics": "IbRectangleSmallWithBlocks1",
   "Screenshots": "FarImages",
-  "Images": "FarImage",
-  "History": "SiCounterstrike"
+  "Previous Classes/University Physics II": "SiGrav",
+  "Blockchain": "IbRectangleWithBlocks",
+  "Human Lang Tech": "FarHandPeace",
+  "Digital Logic": "IbChip"
 }

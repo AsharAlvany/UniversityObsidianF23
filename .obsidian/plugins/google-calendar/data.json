@@ -16,7 +16,12 @@
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
   "defaultCalendar": "ashzee10000@gmail.com",
-  "calendarBlackList": [],
+  "calendarBlackList": [
+    [
+      "hialekhyaa@gmail.com",
+      "hialekhyaa@gmail.com"
+    ]
+  ],
   "insertTemplates": [],
   "useDefaultTemplate": false,
   "defaultTemplate": "",
