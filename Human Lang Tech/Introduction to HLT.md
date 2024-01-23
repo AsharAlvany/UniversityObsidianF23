@@ -31,3 +31,9 @@
 	- Discourse Knowledge - how the meaning of words and sentences is effected by the proceeding sentences; pronoun resolution
 	- World Knowledge - the vast amount of knowledge necessary to understand texts.
 	- Language Generation - have the machine generate coherent text or speech
+- NLP Difficulties
+	- <u>Syntactic ambiguity</u> - when a word has more than one part of speech
+	- <u>Semantic ambiguity</u> - when a word has more than one possible meaning
+	- <u>Structural ambiguity</u> - when a sentence has more than one possible parse structure
+		![[Pasted image 20240122150311.png]]
+	

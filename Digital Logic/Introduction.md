@@ -29,3 +29,14 @@
 - Lossless digitization is not possible
 - Number Representation
 - Positional Number System (examples decimal, octal, binary, etc.)
+- To convert from decimal to another positional system divide the decimal number by the positional system identifier (binary: 2, octal: 8) until you have 0, storing the remainder in a list (left-to-right, then flip), to get the 
+### Binary, octal, and hexadecimal conversion
+- The maximum that a hexadecimal digit can be represented by is three binary bits because 8 (octal) is a power of 2 (binary) ($2^3 = 8$) 
+	- $(011 101 011 111 101 011 101)_2 = (3537535)_8$
+	- Because I split the binary into segments of length 3 starting from the right
+	- Likewise, 16 is a power of 2 (hexadecimal -> binary)
+- The highest value that can be represented of any base r with n digits is $r^n -1$
+	- 999 = $10^3-1$
+### Fractional Representaion
+- $(2409.87)_{10} = 2\cdot 10^3 + 4\cdot 10^2 + 0\cdot 10^1 + 9 + 8\cdot10^{-1} + 7\cdot10^{-2}$
+### Signed Numbers
