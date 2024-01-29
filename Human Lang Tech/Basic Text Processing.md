@@ -1,18 +1,28 @@
 <u>Regular expression</u> is an algebraic notation for characterizing a set of strings
 - REs are particularly useful for searching in texts
 - \[\] is used for a possible range of values
-- ^ the carat is for not
+- ^ the carat is for not also for asserting the beginning of the string
+- \\w matches one or more word characters
+- 
 - | is used for or
 - ? is used for making the character before the symbol to be optional
 - . is used for specifying any character
 - \* used for 0 or more of the previous character
 - + one or more of the previous character
 - \\b is used for beginning/end of word
+- Examples:
+	- Searching for dates: "\\b\\d{2}/\\d{2}/\\d{4}"
+	- DD/MM/YYYY
+	- Searching for email addresses: "^\\w+(\[.-]?\\w+)\*@\\w+(\[.-]?\\w+)\*(.\\w\[2,3])+$"
 	![[Pasted image 20240122150804.png]]![[Pasted image 20240122150823.png]]![[Pasted image 20240122150837.png]]
 - Reducing false positives and false negatives involves increasing accuracy or precision and coverage or recall, respectively
 - A token is a set of characters separated by delimiters
 - <u>Morphology</u> is the study of the way words are built from smaller units called morphemes
 	- A <u>morpheme</u> is a minimal meaning-bearing unit in language and there are two classes of morphemes: stems and affixes
 	- <u>Stems</u> are the main morphemes in word
-	-  <u>Affixes</u> add additional meaning to the stem to modify their meanings/grammatical functions
+	- <u>Affixes</u> add additional meaning to the stem to modify their meanings/grammatical functions
 	- Prefixes, suffixes, infixes, and circumfixes are all examples of affixes
+	- <u>Inflectional morphology</u> - is the combination of a word stem with a grammatical morpheme usually resulting in a word of the same class (girl -> girls)
+	- <u>Derivational morphology</u> - is the combination of word stem with a grammatrcal morpheme usually resulting in a word of a different class (common -> uncommon)
+	- <u>Morphological Parsing</u> - taking an input and producing a structure for it. Morphological parsing takes as an input words and produces a structure that reveals its morphological features![[Pasted image 20240124151016.png]]
+	- 

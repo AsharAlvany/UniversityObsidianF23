@@ -56,3 +56,31 @@
 	- A secret private key and a public key
 	- Use of these keys allows protection of the authenticity of a message by creating a digital signature of a message using the private key, which can be verified using the public key.
 - This type of cryptography is widely used
+### 1-4
+- <u>Cryptography</u> - a way to maintain integrity and  (Mathematical manipulation of information that prevents the information being disclosed or altered)
+- <u>Hash Function</u> - a way to encrypt information such that the goal is to select a has so that there are no collisions (where a hash Function, H, applied to D1 and D2 must result in different hash values, if D1 and D2 are not equal)
+- <u>Merkle Hash</u>
+	- Tree based hashing scheme
+	- ===Steps:=== apply the hash to the values in the leaves of he tree, then go to the parent of node of the leaves and apply the same hash function and compute the hash of all the nodes at this level, continue until at this computing the hash of the root and this becomes the hash value of the tree.
+- <u>Secure Hash Algorithms (SHA)</u>
+	- Input message size $2^{64} - 1$ bits
+	- Message is divided into blocks, where ea ch block is divided into 512 bits
+	- There is an initialization value of 8 32 bit words
+	- Compression functions takes block 0 and the initialization valued to produce an output
+	- The output is combined with block 1 by the compression. This is continuously done until the final hash is created
+- <u>Symmetric Key Crytography</u>
+	- Each pair of entities share a key and it is the same key
+	- The problem with this type of cryptography is if the communication of the key is compromised, then the cryptography is compromised (If I email the key and someone sees my key, they now have access)
+- <u>Block Cipher</u>
+	- Used for encryption of lengthy information
+	- Break up the text/information into fixed sized blocks, encryption is applied to each block (block by block encryption), then the blocks of plaintext are input into block cipher encryption system and the output is cipher text
+	- In Fiestel Cipher the decyption is reversal of encryption (not good, too simple)
+	- DES (Data Encryption Standard) and AES (Advanced Encryption Standard) are block cipher. The latter has not been broken, yet.
+- <u>Digital Signatures</u>
+	- Combines hash function and key mechanisms
+	- Hash the message and attached the hash value with the message
+	- Then sign the hash value with the signer's private key
+	- At the other end, the receiver will use the public key of the sender to the signed hash value
+	- Copmute the hash of the message to see if the same hash value is obtained
+	- This proves the integrity of the message, and the signature is not forged and also ensures non-repudiation
+	- ===Note:=== the message itself is not encrypted; if the message has to be protected then add a different kind of encryption to the message
