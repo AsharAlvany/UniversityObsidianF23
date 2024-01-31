@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4bac4c0541413733",
+        "id": "aa0b354abed8e68c",
         "type": "tabs",
         "children": [
           {
-            "id": "11d9ec8b4d210f2d",
+            "id": "f9d21a78f6a51746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/Introduction.md",
+                "file": "Human Lang Tech/Language Modeling with N-Grams.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15841dd74ced1bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Lang Tech/Basic Text Processing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/Introduction.md",
+                "file": "Human Lang Tech/Language Modeling with N-Grams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/Introduction.md"
+                "file": "Human Lang Tech/Language Modeling with N-Grams.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/Introduction.md",
+                "file": "Human Lang Tech/Language Modeling with N-Grams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +163,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "0836f211a0ee2309",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,48 +183,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11d9ec8b4d210f2d",
+  "active": "f9d21a78f6a51746",
   "lastOpenFiles": [
-    "Screenshots/Pasted image 20240124184423.png",
-    "Screenshots/Pasted image 20240124184411.png",
-    "Screenshots/Pasted image 20240124184349.png",
-    "Screenshots/Pasted image 20240124184209.png",
-    "Screenshots/Pasted image 20240124184010.png",
-    "Screenshots/Pasted image 20240124183756.png",
-    "Screenshots/Pasted image 20240124183743.png",
-    "Screenshots/Pasted image 20240124183711.png",
+    "Screenshots/Pasted image 20240131154408.png",
+    "Screenshots/Pasted image 20240131154350.png",
+    "Screenshots/Pasted image 20240131154324.png",
+    "Screenshots/Pasted image 20240131154253.png",
+    "Screenshots/Pasted image 20240131154125.png",
+    "Screenshots/Pasted image 20240131152931.png",
+    "Screenshots/Pasted image 20240131151817.png",
+    "Screenshots/Pasted image 20240131151811.png",
+    "Screenshots/Pasted image 20240131151758.png",
     "Human Lang Tech/Basic Text Processing.md",
-    "Screenshots/Pasted image 20240124151016.png",
-    "Human Lang Tech/Introduction to HLT.md",
-    "Human Lang Tech/Special Topics in HLT.md",
-    "Screenshots/Pasted image 20240122150837.png",
-    "Untitled.md",
+    "Human Lang Tech/Language Modeling with N-Grams.md",
+    "Digital Logic/Introduction.md",
     "Blockchain/Blockchain Preliminaries.md",
+    "Digital Logic/Combinational Circuits.md",
+    "Screenshots/Pasted image 20240129153344.png",
+    "Screenshots/Pasted image 20240129145212.png",
+    "Human Lang Tech/Vectors.md",
+    "Human Lang Tech/Word Dense Embeddings.md",
+    "Human Lang Tech/Neural Language Models.md",
+    "Human Lang Tech/Part-of-Speech Tagging.md",
+    "Human Lang Tech/Formal Grammars.md",
+    "Human Lang Tech/Syntactic Parsing.md",
+    "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
+    "Human Lang Tech/Neural Summarization.md",
+    "Human Lang Tech/Semantic Role Labeling.md",
+    "Human Lang Tech/Word Sense Disambiguation.md",
+    "Human Lang Tech/Affect Language Processing.md",
+    "Human Lang Tech/Special Topics in HLT.md",
+    "Human Lang Tech/Introduction to HLT.md",
+    "Untitled.md",
     "Blockchain/Core Blockchain Technologies.md",
     "Blockchain/Trustworthy Blockchains and Algos.md",
     "Blockchain/Some Research in Blockchain.md",
-    "Digital Logic/Introduction.md",
-    "Screenshots/Pasted image 20240122150823.png",
     "Digital Logic",
-    "Human Lang Tech/Affect Language Processing.md",
-    "Human Lang Tech/Word Sense Disambiguation.md",
-    "Human Lang Tech/Semantic Role Labeling.md",
-    "Human Lang Tech/Neural Summarization.md",
-    "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
-    "Human Lang Tech/Syntactic Parsing.md",
-    "Human Lang Tech/Formal Grammars.md",
-    "Human Lang Tech/Part-of-Speech Tagging.md",
-    "Human Lang Tech/Neural Language Models.md",
-    "Human Lang Tech/Word Dense Embeddings.md",
-    "Human Lang Tech/Vectors.md",
-    "Human Lang Tech/Language Modeling with N-Grams.md",
     "Human Lang Tech",
     "Blockchain/Untitled.md",
     "Blockchain",
     "Previous Classes",
     "Previous Classes/Operating Systems/Virtualization.md",
     "Previous Classes/Operating Systems/Virtual Memory.md",
-    "Previous Classes/Operating Systems/User-Kernel Context Switch.md",
     "Previous Classes/Operating Systems",
     "Previous Classes/Machine Learning",
     "Previous Classes/Images",

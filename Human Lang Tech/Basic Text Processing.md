@@ -3,7 +3,6 @@
 - \[\] is used for a possible range of values
 - ^ the carat is for not also for asserting the beginning of the string
 - \\w matches one or more word characters
-- 
 - | is used for or
 - ? is used for making the character before the symbol to be optional
 - . is used for specifying any character

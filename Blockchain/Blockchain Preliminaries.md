@@ -81,6 +81,27 @@
 	- Hash the message and attached the hash value with the message
 	- Then sign the hash value with the signer's private key
 	- At the other end, the receiver will use the public key of the sender to the signed hash value
-	- Copmute the hash of the message to see if the same hash value is obtained
+	- Compute the hash of the message to see if the same hash value is obtained
 	- This proves the integrity of the message, and the signature is not forged and also ensures non-repudiation
 	- ===Note:=== the message itself is not encrypted; if the message has to be protected then add a different kind of encryption to the message
+---
+### 1-5 Consensus Algorithms
+- <u>Consensus</u> - The nodes in a distributed system have to agree for any operation. Consensus percentage/amount depends on the system
+	- <u>Traditional consensus</u> - Practical Byzantine Fault Tolerance
+	- <u>Lottery-based Consensus</u> - Nakamoto consensus used in Bitcoin
+- <u>Fault Tolerance</u> - how the system handles nodes or links failing
+	- <u>Crash Fault Tolerance</u> - deals with crash faults (benign faults)
+		- CFT at least 2f + 1 required nodes for consensus
+		- BFT at least 3f + 1 required nodes for consensus
+		- Achieve consensus by sending out a value, and if the value is accepted by 2f+1 nodes, then consensus is achieved
+	- <u>Practical Byzantine Fault Tolerance</u>
+		- First phase (pre-prepare): client sends request to primary node, the node assigns a unique number to the request, request is sent to all backup replicas
+		- Second phase (validation): Is the digital signature valid, make sure the current view number of the request message is valid, digest/hash of the operations request message is valid, if all elements are valid then the backup replicas accept the message
+		- Third phase (prepare): exchange messages between each other (the prepare message), each backup waits for 3f+1 prepare messages from other replicas, they also have to ensure that the view of all replicas have same view number
+		- Final phase (commit): each replica sends message to other replicas to commit and waits for 3f+1 commit messages from other replicas. The replicas execute the request and then send message to client
+	- <u>Byzantine Fault Tolerance</u> - deals with malicious faults
+	- Communication between nodes can be asynchronous, synchronous, or a mix and eventually a system becomes synchronous
+	- <u>Nakamoto Consensus and PoW</u> - makes use of Hash Puzzles
+		- Proof of Storage
+		- Proof of Stake
+		- Proof of Activity (mix of all PoW and PoS)

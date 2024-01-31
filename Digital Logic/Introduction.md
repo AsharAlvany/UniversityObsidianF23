@@ -80,4 +80,3 @@
 	![[Pasted image 20240124184209.png]]
 - XOR - EXCLUSIVELY OR (Either one or the other must be true, but NOT both)
 	![[Pasted image 20240124184423.png]]
-- 
