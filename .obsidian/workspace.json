@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa0b354abed8e68c",
+        "id": "f177e057aa397309",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d21a78f6a51746",
+            "id": "b4d6d8884e233641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Lang Tech/Language Modeling with N-Grams.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15841dd74ced1bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Lang Tech/Basic Text Processing.md",
+                "file": "Digital Logic/Combinational Circuits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -111,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human Lang Tech/Language Modeling with N-Grams.md",
+                "file": "Digital Logic/Combinational Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human Lang Tech/Language Modeling with N-Grams.md"
+                "file": "Digital Logic/Combinational Circuits.md"
               }
             }
           },
@@ -153,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Lang Tech/Language Modeling with N-Grams.md",
+                "file": "Digital Logic/Combinational Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,14 +149,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "27e79d831dccea9a",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +176,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9d21a78f6a51746",
+  "active": "b4d6d8884e233641",
   "lastOpenFiles": [
+    "Digital Logic/Introduction.md",
+    "Digital Logic/Combinational Circuits.md",
+    "Human Lang Tech/Vectors.md",
+    "Blockchain/Programming Project.md",
+    "Blockchain/Bitcoin.md",
+    "Screenshots/Pasted image 20240207133212.png",
+    "Blockchain/Blockchain Preliminaries.md",
+    "Blockchain/Trustworthy Blockchains and Algos.md",
+    "Blockchain/Some Research in Blockchain.md",
+    "Blockchain/Core Blockchain Technologies.md",
+    "Human Lang Tech/Language Modeling with N-Grams.md",
+    "2024-02-12.md",
+    "Human Lang Tech/Basic Text Processing.md",
     "Screenshots/Pasted image 20240131154408.png",
     "Screenshots/Pasted image 20240131154350.png",
     "Screenshots/Pasted image 20240131154324.png",
@@ -194,14 +200,6 @@
     "Screenshots/Pasted image 20240131151817.png",
     "Screenshots/Pasted image 20240131151811.png",
     "Screenshots/Pasted image 20240131151758.png",
-    "Human Lang Tech/Basic Text Processing.md",
-    "Human Lang Tech/Language Modeling with N-Grams.md",
-    "Digital Logic/Introduction.md",
-    "Blockchain/Blockchain Preliminaries.md",
-    "Digital Logic/Combinational Circuits.md",
-    "Screenshots/Pasted image 20240129153344.png",
-    "Screenshots/Pasted image 20240129145212.png",
-    "Human Lang Tech/Vectors.md",
     "Human Lang Tech/Word Dense Embeddings.md",
     "Human Lang Tech/Neural Language Models.md",
     "Human Lang Tech/Part-of-Speech Tagging.md",
@@ -215,16 +213,10 @@
     "Human Lang Tech/Special Topics in HLT.md",
     "Human Lang Tech/Introduction to HLT.md",
     "Untitled.md",
-    "Blockchain/Core Blockchain Technologies.md",
-    "Blockchain/Trustworthy Blockchains and Algos.md",
-    "Blockchain/Some Research in Blockchain.md",
     "Digital Logic",
     "Human Lang Tech",
-    "Blockchain/Untitled.md",
     "Blockchain",
     "Previous Classes",
-    "Previous Classes/Operating Systems/Virtualization.md",
-    "Previous Classes/Operating Systems/Virtual Memory.md",
     "Previous Classes/Operating Systems",
     "Previous Classes/Machine Learning",
     "Previous Classes/Images",
