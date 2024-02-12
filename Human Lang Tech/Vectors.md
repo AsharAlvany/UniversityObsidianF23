@@ -6,4 +6,5 @@
 Go to a dictionary, look up a lemma, see all the semantic senses (definitions)
 <u>Superordinate/subordinate</u> - one sense is a subordinate of another if the first sense is more specific, denoting a subclass of the other (superordinate -> subordinate, vehicle -> car)
 The meaning of a word is bounded by necessary and sufficient concepts
-<u>tf-iidf</u> - term frequency (frequency count which is usually log transformed) multiplied by the inverse document frequency (how many documents the term was seen )
+<u>tf-iidf</u> - term frequency (frequency count which is usually log transformed) multiplied by the inverse document frequency (how many documents the term was seen)
+<u>Skip-Gram Training</u> - context-based learning where if a word is seen within 2 words of a context word, it is assigned a positive value, or a negative value if not

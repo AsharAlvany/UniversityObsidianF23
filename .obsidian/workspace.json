@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md",
+                "file": "Human Lang Tech/Vectors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md",
+                "file": "Human Lang Tech/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md"
+                "file": "Human Lang Tech/Vectors.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md",
+                "file": "Human Lang Tech/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +179,11 @@
   },
   "active": "b4d6d8884e233641",
   "lastOpenFiles": [
-    "Digital Logic/Introduction.md",
+    "Blockchain/Bitcoin.md",
     "Digital Logic/Combinational Circuits.md",
+    "Digital Logic/Introduction.md",
     "Human Lang Tech/Vectors.md",
     "Blockchain/Programming Project.md",
-    "Blockchain/Bitcoin.md",
     "Screenshots/Pasted image 20240207133212.png",
     "Blockchain/Blockchain Preliminaries.md",
     "Blockchain/Trustworthy Blockchains and Algos.md",
