@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f177e057aa397309",
+        "id": "6acff9ea7fea5580",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d6d8884e233641",
+            "id": "7e66257ec613bd08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Lang Tech/Vectors.md",
+                "file": "Human Lang Tech/Neural Language Models.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human Lang Tech/Vectors.md",
+                "file": "Human Lang Tech/Neural Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human Lang Tech/Vectors.md"
+                "file": "Human Lang Tech/Neural Language Models.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Lang Tech/Vectors.md",
+                "file": "Human Lang Tech/Neural Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +178,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4d6d8884e233641",
+  "active": "7e66257ec613bd08",
   "lastOpenFiles": [
-    "Blockchain/Bitcoin.md",
-    "Digital Logic/Combinational Circuits.md",
+    "Human Lang Tech/Word Dense Embeddings.md",
+    "Human Lang Tech/Neural Language Models.md",
+    "Blockchain/Smart Contracts.md",
+    "Blockchain/Blockchain Preliminaries.md",
     "Digital Logic/Introduction.md",
+    "Digital Logic/Combinational Circuits.md",
+    "Screenshots/Pasted image 20240212174254.png",
     "Human Lang Tech/Vectors.md",
+    "Blockchain/Bitcoin.md",
     "Blockchain/Programming Project.md",
     "Screenshots/Pasted image 20240207133212.png",
-    "Blockchain/Blockchain Preliminaries.md",
     "Blockchain/Trustworthy Blockchains and Algos.md",
     "Blockchain/Some Research in Blockchain.md",
     "Blockchain/Core Blockchain Technologies.md",
@@ -200,9 +205,6 @@
     "Screenshots/Pasted image 20240131152931.png",
     "Screenshots/Pasted image 20240131151817.png",
     "Screenshots/Pasted image 20240131151811.png",
-    "Screenshots/Pasted image 20240131151758.png",
-    "Human Lang Tech/Word Dense Embeddings.md",
-    "Human Lang Tech/Neural Language Models.md",
     "Human Lang Tech/Part-of-Speech Tagging.md",
     "Human Lang Tech/Formal Grammars.md",
     "Human Lang Tech/Syntactic Parsing.md",

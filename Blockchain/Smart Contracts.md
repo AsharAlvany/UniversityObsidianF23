@@ -1,0 +1,14 @@
+A <u>Smart Contract</u> is an electronic transaction protocol that executes the terms of the contract
+- Satisfy conditions like contract terms, liens, confidentiality
+- No trusted mediaries
+- Eliminate errors
+- No fraud
+- Defined by Nick Szabo in the 1990s
+- Blockchain is a technology that is used in the foundations of this technology
+- Automatically executable
+- Enforceable
+- Secure
+- Deterministic
+- Unstoppable
+- Cannot back-out
+- Not legally binding

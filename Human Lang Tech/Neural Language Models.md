@@ -1,0 +1,3 @@
+Neural networks are an essential computational tool for language processing and a very old one. A modern neural network is a network of small computing units, each of which takes a vector of input values and produces a single output value. The neural architecture we focus on is called a <u>feed-forward network</u> because the computation proceeds iteratively from one layer of units to the next.
+A neural network is like a network of logistic regression classifiers.
+Each layer propagates the weight of the previous layer to the next layer

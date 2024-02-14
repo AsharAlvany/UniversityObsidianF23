@@ -59,5 +59,7 @@
 <u>XOR</u> - function behavior odd number of ones results in a true+++
 <u>Circuit Optimization</u> - K-Map is a simple algorithm procedure to simplify Boolean functions
 <u>K-Maps</u> - (Karnaugh Map) is a diagram made of a collection of adjacent squares
+- Only works with canonical form
 - Each square represents a minterm
 - The collection of squares is a graphical representation of a Boolean function
+	![[Pasted image 20240212174254.png]]
