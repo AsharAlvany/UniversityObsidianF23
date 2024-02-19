@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "6acff9ea7fea5580",
+        "id": "8536346e4154be6a",
         "type": "tabs",
         "children": [
           {
-            "id": "7e66257ec613bd08",
+            "id": "b52a52938ad1c371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Lang Tech/Neural Language Models.md",
+                "file": "Human Lang Tech/Basic Text Processing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df14fb3627d04f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Lang Tech/N-Gram Preparation Pill.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84ba8bb976774c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Lang Tech/FFNN Preparation Pill.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -98,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human Lang Tech/Neural Language Models.md",
+                "file": "Human Lang Tech/FFNN Preparation Pill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human Lang Tech/Neural Language Models.md"
+                "file": "Human Lang Tech/FFNN Preparation Pill.md"
               }
             }
           },
@@ -140,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Lang Tech/Neural Language Models.md",
+                "file": "Human Lang Tech/FFNN Preparation Pill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,14 +204,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e66257ec613bd08",
+  "active": "84ba8bb976774c39",
   "lastOpenFiles": [
-    "Human Lang Tech/Word Dense Embeddings.md",
+    "Human Lang Tech/N-Gram Preparation Pill.md",
+    "Human Lang Tech/FFNN Preparation Pill.md",
+    "Screenshots/Pasted image 20240219145619.png",
+    "Screenshots/Pasted image 20240219144430.png",
+    "Human Lang Tech/Basic Text Processing.md",
+    "Human Lang Tech/Language Modeling with N-Grams.md",
+    "Digital Logic/Combinational Circuits.md",
     "Human Lang Tech/Neural Language Models.md",
+    "Screenshots/Pasted image 20240214151142.png",
+    "Screenshots/Pasted image 20240214145934.png",
+    "Screenshots/Pasted image 20240214145733.png",
+    "Screenshots/Pasted image 20240214145414.png",
+    "Human Lang Tech/Word Dense Embeddings.md",
     "Blockchain/Smart Contracts.md",
     "Blockchain/Blockchain Preliminaries.md",
     "Digital Logic/Introduction.md",
-    "Digital Logic/Combinational Circuits.md",
     "Screenshots/Pasted image 20240212174254.png",
     "Human Lang Tech/Vectors.md",
     "Blockchain/Bitcoin.md",
@@ -194,17 +230,9 @@
     "Blockchain/Trustworthy Blockchains and Algos.md",
     "Blockchain/Some Research in Blockchain.md",
     "Blockchain/Core Blockchain Technologies.md",
-    "Human Lang Tech/Language Modeling with N-Grams.md",
     "2024-02-12.md",
-    "Human Lang Tech/Basic Text Processing.md",
     "Screenshots/Pasted image 20240131154408.png",
     "Screenshots/Pasted image 20240131154350.png",
-    "Screenshots/Pasted image 20240131154324.png",
-    "Screenshots/Pasted image 20240131154253.png",
-    "Screenshots/Pasted image 20240131154125.png",
-    "Screenshots/Pasted image 20240131152931.png",
-    "Screenshots/Pasted image 20240131151817.png",
-    "Screenshots/Pasted image 20240131151811.png",
     "Human Lang Tech/Part-of-Speech Tagging.md",
     "Human Lang Tech/Formal Grammars.md",
     "Human Lang Tech/Syntactic Parsing.md",
@@ -214,8 +242,6 @@
     "Human Lang Tech/Word Sense Disambiguation.md",
     "Human Lang Tech/Affect Language Processing.md",
     "Human Lang Tech/Special Topics in HLT.md",
-    "Human Lang Tech/Introduction to HLT.md",
-    "Untitled.md",
     "Digital Logic",
     "Human Lang Tech",
     "Blockchain",

@@ -63,3 +63,6 @@
 - Each square represents a minterm
 - The collection of squares is a graphical representation of a Boolean function
 	![[Pasted image 20240212174254.png]]
+<u>7-Segment Display Decoder</u> - takes a 4-bit data input, D3:0, and produces seven outputs to control light-emitting diodes to display a digit from 0 to 9
+- The seven outputs are often called segments a through g or $S_a - S_g$
+- These seven outputs will signify a number

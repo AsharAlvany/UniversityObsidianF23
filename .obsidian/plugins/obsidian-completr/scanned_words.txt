@@ -2419,6 +2419,7 @@ emerges
 electronic
 errors
 executable
+emitting
 Regular
 Register
 Relational
@@ -2946,6 +2947,8 @@ senses
 subordinate
 superordinate
 sufficient
+seven
+signify
 closed
 can
 contiguous
@@ -3909,6 +3912,9 @@ delegations
 denoting
 desired
 division
+diodes
+display
+discovered
 know
 kern
 key
@@ -5233,6 +5239,7 @@ Derivational
 Discounting
 Defined
 Deterministic
+Decoder
 We
 Without
 Why
