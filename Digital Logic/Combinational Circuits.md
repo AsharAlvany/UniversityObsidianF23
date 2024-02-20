@@ -66,3 +66,9 @@
 <u>7-Segment Display Decoder</u> - takes a 4-bit data input, D3:0, and produces seven outputs to control light-emitting diodes to display a digit from 0 to 9
 - The seven outputs are often called segments a through g or $S_a - S_g$
 - These seven outputs will signify a number
+<u>Don't Care in Outputs</u> - the "don't care" symbol can appear in the truth table outputs where the output values is unimportant, or the corresponding input combination can never happen
+- These symbols can be treated as either a 0 or a 1 and can be changed depending on the kmap groupings (prime implicates)
+<u>Multiplexers</u> - combinational logic is often grouped into larger building blocks o build more complex systems such as the priority circuit and the 7-segment display decoder
+- MUX - chooses an output from among several possible inputs (typically $2^n$)based on the value of a select signal. The bit combination of the selection lines determines an n-bit binary number whose decimal equivalent corresponds to the subscript of the selected input terminal
+- 3 multiplexers can create a bigger multiplexer![[Pasted image 20240219182418.png]]
+- Applications of Multiplexers - Use the multiplexer as a lookup table to prerecord the values needed on the prototype so there is no need to redesign or rebuild

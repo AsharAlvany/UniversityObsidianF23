@@ -19,3 +19,6 @@ Pros of NN for Language Models
 - Much higher predictive accuracy than an n-gram language model
 Cons
 - Strikingly slower to train than traditional language models, and so for many tasks an n-gram language model is still the right tool
+Projection Layer:
+- In the projection layer, we concatenate the embeddings of the previous context
+	![[Pasted image 20240219152218.png]]

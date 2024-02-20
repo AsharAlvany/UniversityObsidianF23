@@ -156,6 +156,7 @@ POM
 PUSH
 Projects
 Proposal
+Pros
 Lema
 Last
 Lookaside
@@ -250,6 +251,8 @@ Lottery
 Likelihood
 Laplace
 LOOK
+LAST
+LAYER
 is
 intersection
 internal
@@ -439,6 +442,7 @@ interchaging
 ipnut
 implemented
 iidf
+induce
 used
 under
 user
@@ -697,6 +701,9 @@ trustworthy
 tf
 transformed
 trusted
+tool
+templates
+tanh
 find
 fragmentation
 from
@@ -864,6 +871,7 @@ forged
 failing
 fraud
 foundations
+forming
 whether
 waste
 within
@@ -984,6 +992,7 @@ wK
 wne
 wb
 wt
+weighted
 language
 loaded
 linear
@@ -1348,6 +1357,7 @@ replacing
 reveals
 recorded
 rejected
+ranges
 or
 of
 other
@@ -1465,6 +1475,7 @@ obtain
 occur
 opposites
 odd
+outliers
 not
 negation
 need
@@ -1548,6 +1559,9 @@ normalize
 negating
 negate
 names
+networks
+neural
+neurons
 and
 are
 applications
@@ -1802,6 +1816,8 @@ associative
 admission
 astructured
 acepted
+architecture
+activation
 process
 program
 physical
@@ -2086,6 +2102,12 @@ probability
 probabilities
 primed
 procedure
+proceeds
+prior
+propagates
+performs
+perhaps
+predictive
 The
 There
 Three
@@ -2205,6 +2227,7 @@ Tn
 Tolerance
 Turn
 Temporary
+Tends
 expression
 entry
 enable
@@ -2420,6 +2443,8 @@ electronic
 errors
 executable
 emitting
+extremely
+encodes
 Regular
 Register
 Relational
@@ -2562,6 +2587,7 @@ REs
 Representations
 Re
 REMEMBER
+ReLU
 sets
 set
 system
@@ -2949,6 +2975,8 @@ superordinate
 sufficient
 seven
 signify
+squash
+softmax
 closed
 can
 contiguous
@@ -3336,6 +3364,8 @@ concepts
 carrt
 cryptocurrency
 crypotgraphy
+classifiers
+complicated
 given
 global
 give
@@ -3412,6 +3442,7 @@ grammatrcal
 grams
 guidelines
 graphical
+gram
 methods
 memory
 main
@@ -3681,6 +3712,7 @@ Gve
 Grams
 Generate
 Gate
+Generalize
 do
 digits
 directory
@@ -4087,6 +4119,7 @@ bicycle
 bear
 bounded
 binding
+bias
 Efficiency
 Entry
 ENTRY
@@ -4322,6 +4355,7 @@ Manipulations
 Management
 Members
 Map
+Much
 virtual
 values
 variable
@@ -4395,6 +4429,7 @@ voting
 vehicle
 verification
 versions
+variant
 Have
 How
 Handler
@@ -4461,6 +4496,8 @@ HC
 Herman
 Handle
 Hard
+His
+However
 Split
 Summary
 SHARED
@@ -4672,6 +4709,7 @@ Superordinate
 Soft
 Satisfy
 Szabo
+Strikingly
 KB
 Key
 Knowledge
@@ -4829,6 +4867,7 @@ hashing
 heuristics
 hermann
 hen
+histories
 Use
 Unsupervised
 User
@@ -5117,6 +5156,7 @@ Challenges
 Circuit
 Components
 Contract
+Cons
 Directory
 DIRECTORY
 Dependency
@@ -5420,6 +5460,7 @@ Fiestel
 Features
 Forks
 Fork
+Formula
 you
 your
 yields
@@ -5539,6 +5580,7 @@ Byzantine
 BFT
 Brute
 BUBBLE
+But
 One
 Overfitting
 Out
@@ -5911,6 +5953,7 @@ NAND
 NOR
 NOTES
 Nick
+NN
 quadratic
 question
 quantum
