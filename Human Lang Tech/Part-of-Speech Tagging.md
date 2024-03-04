@@ -18,3 +18,9 @@ Adverbs - modifying something
 Prepositions - occur before noun phrases
 Particles - a particle resembles a preposition or an adverb and is used in combination with a verb
 Phrasal verb - a verb and a particle that act as a a single syntactic and/or semantic unit are called a phrasal verb
+<u>Hidden Markov Model</u> - a probablistic sequence model. Given a sequence of units it computes a **probability distribution** over possible sequences of labels and chooses the best label sequence
+- An extension of finite automata![[Pasted image 20240221152358.png]]
+<u>The Viterbi Algorithm</u> - the most common decoding algorithm for HMMs
+- Input: a single HMM and a set of observed words
+- Output: the most probable state/tag sequence with its probability
+- The algo sets up a probability matrix or lattice

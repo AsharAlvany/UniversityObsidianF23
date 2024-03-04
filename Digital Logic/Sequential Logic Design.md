@@ -1,0 +1,17 @@
+- Glitch free circuits are circuits that have no independent prime implicants
+- Sequential Circuits are digital circuits that the output depends on current input (combinational circuit) and the system state (a memory device to preserve the output value)
+- Sequential Circuits are differentiated by times at which:
+	- Storage elements observe inputs
+	- Storage elements change their state
+- Synchronous SC
+	- Behavior is defined from knowledge of inputs at discrete instances of time
+	- Storage elements observe inputs and can change state only in relation to a timing signal
+- Asynchronous SC
+	- Behavior is defined from knowledge of inputs at any instance of time
+	- Storage elements observe inputs and change state at any point in time
+- S-R Latches - basic async memory using set and release![[Pasted image 20240228181817.png]]
+	- When S and R are 0, Q is kept in memory, When S is 0 and R is 1, Q is reset to 0, when S is 1 and R is 0, Q is set to 1
+	- They have multiple design concerns
+		- 1 and 1 input causes a distortion
+		- The inputs are also responsible for the timing when the change should happen and to preserve the status. Ideally, they should only be responsible for the status change
+- D Latch - builds on an S-R latch but only one input (01 and 10) as well as an enabler input

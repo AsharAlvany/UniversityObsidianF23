@@ -72,3 +72,22 @@
 - MUX - chooses an output from among several possible inputs (typically $2^n$)based on the value of a select signal. The bit combination of the selection lines determines an n-bit binary number whose decimal equivalent corresponds to the subscript of the selected input terminal
 - 3 multiplexers can create a bigger multiplexer![[Pasted image 20240219182418.png]]
 - Applications of Multiplexers - Use the multiplexer as a lookup table to prerecord the values needed on the prototype so there is no need to redesign or rebuild
+	- When a MUX is used as a look-up table then the select lines for the MUX become the elements of the function that is being simulated and the inputs are hard-wired to either be on or off based on the functionality of the function that is being simulated![[Pasted image 20240221173554.png]]
+<u>Combining rows from truth tables</u>
+- If we want to combine two rows together the right most variable can be eliminated and we can still express the function output value of the combined rows as either 0, 1, or the right most variable was elminated (where b is an arbitrary leftmost column)
+	- Scenario 1: if the result remains the same, the remove b and keep the output the same
+	- Scenario 2: if the result is dependent on column b and the result reflects that column, then the output can be shown in terms of b
+	- Scenario 3: if the result is dependent on column b and the result reflects the opposite of column b, then the output can be shown in terms of b\`
+<u>Decoder</u> - is a $n \cdot m$ combinational circuit that converts binary information from n input lines m output lines where $m <= 2^n$
+- output values of decoders are mutually exclusiv exactly one output is 1 for any given input combination (address)
+<u>Hierarchial Decoder Design</u>
+- 2 smaller decoders can be equivalent to one larger decoder if there is an enabler circuit utilized (without the or gate needed in the MUX version)
+<u>Timing</u>
+- We assumed that there is a 0-time for input values to propagate through the combinational circuit to produce the output
+- Rising edge- the transition of a signal from low to high
+- Falling edge - the transition of a signal from high to low
+- 50% Point - is the point when a signal is between high and low
+- Propagation Delay - the maximum time from when an input changes until the output or outputs reach their final value
+	- Categorized by the critical path
+- Contamination Delay - the minimum time from when an input changes until any output starts to change its value
+- <u>Time Glitches</u> - can be caused because the circuit design will cause the output to do multiple transitions before it becomes steady. Usually not a problem as long as we wait until the propagation delay elapse. Sometimes the glitch can be critical

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b72d686f5eda872",
+        "id": "49e8bdef6339f5b2",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f22009641eb47c",
+            "id": "19e7aad162365937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md",
+                "file": "Human Lang Tech/Formal Grammars.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md",
+                "file": "Human Lang Tech/Formal Grammars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md"
+                "file": "Human Lang Tech/Formal Grammars.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/Combinational Circuits.md",
+                "file": "Human Lang Tech/Formal Grammars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +178,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3f22009641eb47c",
+  "active": "19e7aad162365937",
   "lastOpenFiles": [
+    "PyTorch/Pipelining.md",
+    "Blockchain/Hyperledger.md",
+    "Digital Logic/Combinational Circuits.md",
+    "Digital Logic/Sequential Logic Design.md",
+    "PyTorch",
+    "Screenshots/Pasted image 20240228181817.png",
+    "Screenshots/Pasted image 20240228180856.png",
+    "Human Lang Tech/Formal Grammars.md",
+    "Human Lang Tech/Word Dense Embeddings.md",
+    "Previous Classes/Advanced Algorithms/Master Method.md",
+    "Previous Classes/Advanced Algorithms/Asymptotic.md",
+    "Human Lang Tech/Part-of-Speech Tagging.md",
+    "Digital Logic/Introduction.md",
+    "Blockchain/Ethereum.md",
+    "Blockchain/Smart Contracts.md",
+    "Screenshots/Pasted image 20240221173554.png",
+    "Screenshots/Pasted image 20240221152358.png",
     "Screenshots/Pasted image 20240219182418.png",
     "Screenshots/Pasted image 20240219182415.png",
-    "Human Lang Tech/Part-of-Speech Tagging.md",
     "Human Lang Tech/Neural Language Models.md",
     "Screenshots/Pasted image 20240219152218.png",
     "Human Lang Tech/Basic Text Processing.md",
@@ -191,31 +207,16 @@
     "Screenshots/Pasted image 20240219145619.png",
     "Screenshots/Pasted image 20240219144430.png",
     "Human Lang Tech/Language Modeling with N-Grams.md",
-    "Digital Logic/Combinational Circuits.md",
     "Screenshots/Pasted image 20240214151142.png",
-    "Screenshots/Pasted image 20240214145934.png",
-    "Screenshots/Pasted image 20240214145733.png",
-    "Screenshots/Pasted image 20240214145414.png",
-    "Human Lang Tech/Word Dense Embeddings.md",
-    "Blockchain/Smart Contracts.md",
     "Blockchain/Blockchain Preliminaries.md",
-    "Digital Logic/Introduction.md",
-    "Screenshots/Pasted image 20240212174254.png",
     "Human Lang Tech/Vectors.md",
     "Blockchain/Bitcoin.md",
     "Blockchain/Programming Project.md",
-    "Screenshots/Pasted image 20240207133212.png",
     "Blockchain/Trustworthy Blockchains and Algos.md",
     "Blockchain/Some Research in Blockchain.md",
     "Blockchain/Core Blockchain Technologies.md",
     "2024-02-12.md",
-    "Human Lang Tech/Formal Grammars.md",
     "Human Lang Tech/Syntactic Parsing.md",
-    "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
-    "Human Lang Tech/Neural Summarization.md",
-    "Human Lang Tech/Semantic Role Labeling.md",
-    "Human Lang Tech/Word Sense Disambiguation.md",
-    "Human Lang Tech/Affect Language Processing.md",
     "Digital Logic",
     "Human Lang Tech",
     "Blockchain",
@@ -224,7 +225,6 @@
     "Previous Classes/Machine Learning",
     "Previous Classes/Images",
     "Previous Classes/History",
-    "Previous Classes/Discrete Mathematics",
-    "Previous Classes/Databases"
+    "Previous Classes/Discrete Mathematics"
   ]
 }
