@@ -12,3 +12,12 @@
 Cardinal numbers - two friends | one stop
 Ordinal numbers - the first friend | the next stop | the other flight
 Quantifiers - many friends | several stops | few flights | much noise
+Treebank - a syntactically annotated corpus
+Grammar of the language - the sentences in a treebank implicitly constitute
+Lexical heads - N is the head of NP, V is the head of a VP
+![[Pasted image 20240306143401.png]]
+![[Pasted image 20240306143511.png]]
+<u>Grammar Equivalence</u> 
+- Strongly equivalent - generate the same set of strings and assign the same phrase structure to each sentence
+- Weakly equivalent - generate the same set of strings but they do not assign the same phrase structure to each sentence
+Normal form - where each of the productions take a particular form

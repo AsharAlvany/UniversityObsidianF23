@@ -164,6 +164,8 @@ Particles
 Phrasal
 Point
 Propagation
+Packages
+PyTorch
 Lema
 Last
 Lookaside
@@ -454,6 +456,7 @@ iidf
 induce
 implicates
 implicants
+import
 used
 under
 user
@@ -528,6 +531,8 @@ unprimed
 upgraded
 unimportant
 utilized
+undesired
+understanding
 to
 this
 the
@@ -721,6 +726,9 @@ transitions
 tomorrow
 twenty
 timing
+terminals
+timm
+tells
 find
 fragmentation
 from
@@ -893,6 +901,8 @@ further
 flight
 fare
 flights
+flop
+flops
 whether
 waste
 within
@@ -1388,6 +1398,12 @@ refer
 resembles
 release
 reset
+rising
+remembers
+resettable
+resets
+recognizing
+readily
 or
 of
 other
@@ -1509,6 +1525,7 @@ outliers
 overlap
 observe
 optimizer
+opaque
 not
 negation
 need
@@ -1598,6 +1615,7 @@ neurons
 nouns
 noun
 noon
+normally
 and
 are
 applications
@@ -1861,6 +1879,9 @@ automata
 assumed
 auxillary
 async
+asynchronously
+attachment
+art
 process
 program
 physical
@@ -2161,6 +2182,13 @@ phrasal
 probablistic
 phrase
 preserve
+propagated
+perspective
+pajamas
+paradigm
+parallelizing
+packages
+pytorch
 The
 There
 Three
@@ -2283,6 +2311,8 @@ Temporary
 Tends
 Temporal
 Timing
+Therefore
+Transition
 expression
 entry
 enable
@@ -2507,6 +2537,8 @@ enabler
 elapse
 eleven
 eighteen
+elephant
+encoding
 Regular
 Register
 Relational
@@ -2651,6 +2683,9 @@ Re
 REMEMBER
 ReLU
 Rising
+Registers
+Resettable
+RESET
 sets
 set
 system
@@ -3049,6 +3084,10 @@ sequences
 steady
 spot
 serves
+stops
+synchronously
+summarized
+scratch
 closed
 can
 contiguous
@@ -3447,6 +3486,16 @@ conceptualized
 converts
 concerns
 constituent
+complementary
+clocks
+clock
+copied
+coordination
+conjoined
+conjunction
+conforming
+curcial
+cells
 given
 global
 give
@@ -3727,6 +3776,7 @@ membership
 modifying
 manner
 me
+master
 Goals
 Given
 Gradient
@@ -3805,6 +3855,7 @@ Gate
 Generalize
 Glitches
 Glitch
+Gram
 do
 digits
 directory
@@ -4047,6 +4098,8 @@ dinner
 differentiated
 distortion
 depart
+dummy
+dataloader
 know
 kern
 key
@@ -4081,6 +4134,7 @@ kQRY
 kY
 kU
 kmap
+katches
 be
 between
 by
@@ -4226,6 +4280,9 @@ broad
 borrowed
 behaving
 builds
+busses
+behaves
+batching
 Efficiency
 Entry
 ENTRY
@@ -4333,6 +4390,7 @@ Explanation
 ECDSA
 Eliminate
 Enforceable
+Encoding
 Manage
 Mapping
 MB
@@ -4466,6 +4524,8 @@ Multiplexers
 MUX
 Manner
 Mindy
+Moore
+Mealy
 virtual
 values
 variable
@@ -4541,6 +4601,7 @@ verification
 versions
 variant
 verb
+variability
 Have
 How
 Handler
@@ -4612,6 +4673,9 @@ However
 Hierarchial
 Harry
 Horse
+Hence
+Here
+Hot
 Split
 Summary
 SHARED
@@ -4827,6 +4891,7 @@ Strikingly
 Sentence
 Show
 Synchronous
+Skip
 KB
 Key
 Knowledge
@@ -5284,6 +5349,14 @@ Categorized
 Contamination
 Constituency
 Constuctions
+Cardinal
+CLK
+CKY
+Classic
+Chomsky
+Convert
+Composed
+Conditions
 Directory
 DIRECTORY
 Dependency
@@ -5413,6 +5486,7 @@ Delay
 Declarative
 Does
 Denver
+Dataloader
 We
 Without
 Why
@@ -5484,6 +5558,7 @@ Wv
 Wordform
 Words
 Wh
+Whe
 First
 Fragmentation
 Functional
@@ -5596,6 +5671,9 @@ Forks
 Fork
 Formula
 Falling
+Flop
+Finite
+FSM
 you
 your
 yields
@@ -5718,6 +5796,8 @@ BUBBLE
 But
 Behavior
 Burbank
+Bottom
+Binarize
 One
 Overfitting
 Out
@@ -5777,6 +5857,7 @@ Operator
 OG
 Optimization
 Outputs
+Ordinal
 Another
 Attributes
 AI
@@ -5939,6 +6020,9 @@ Automatically
 Adjectives
 Adverbs
 Asynchronous
+Ambiguity
+Augment
+Accepting
 Internal
 In
 It
@@ -6032,6 +6116,7 @@ INVERT
 Inputs
 Imperative
 Ideally
+Import
 Normal
 NF
 Note
@@ -6209,6 +6294,7 @@ Quaker
 Quota
 Question
 Qiq
+Quantifiers
 Xh
 XX
 XI
