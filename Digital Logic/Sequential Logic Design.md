@@ -63,4 +63,22 @@ Resettable Flip-Flop - useful when trying to force all flip-flops into a state
 <u>System Timing</u>
 - $T_c$ is the time between rising edges of a repetitive clock signal
 - $f_c = \frac{1}{T_c}$ is the clock frequency, increasing the clock frequency increases the work that a digital system can accomplish per unit time
-- 
+- The relationship between system timing and the time clock $T_c \ge t_{pcq} + t_{pd} +t_{setup}$ 
+- The only timing that can be optimized is the $t_{pd}$ 
+- Hold time for D2 is bound by the minimum delay in the path. To satisfy the hold time of R2, D2 must stay stable at least the hold time after the next clock edge
+- $t_{ccq} + t_{cd} \le t_{hold}$ where $t_{cd}$ is the key variable that can be manipulated
+<u>Clock Skew</u>
+- Clock skew needs to be accounted for in $T_C, t_{pd}, t_{cd}$ calculations![[Pasted image 20240327174504.png]]
+<u>Parallelism</u>
+- Token - a group of inputs that are processed to produce a group of outputs
+- Latency - the latency of a system is the time required for one token to pass trhough the system from the start to the end
+- Throughput - The throughput is the number of tokens that can be produced per unit
+	- This can be increased by decreasing latency
+	- Or by processing multiple tokens at the same time (parallelism)
+- Parallelism
+	- Spatial parallelism - Multiple copies of the hardware are provided so that multiple tasks can be done at the same time (two assembly lines)
+	- Temporal parallelism (pipelining): a task is broken into stages like an assembly line and hence multiple tasks can be spread across the stages and the stages can be done simultaneously
+	- If a task has latency L, in a single process system, the throughput is 1/L
+	- In a spatially parallel system with N copies of the hardware, the throughput is N/L
+	- In a pipelined system, ideally the task is broken into N equal stages, the throughput is N/L. However, having N equal stages is not realistic, so the throughput would be 1/$L_1$ 
+	- 
