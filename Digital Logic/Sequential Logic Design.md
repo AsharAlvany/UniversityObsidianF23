@@ -47,7 +47,7 @@ Resettable Flip-Flop - useful when trying to force all flip-flops into a state
 - State transition diagram: description of all the states the system can be at with the possible transitions and transition conditions
 - Create a State Transition Table and State Output Table
 - Create a Binary encoding
-- Assign numbers to all the states. This is crucial because it will tell how many memory cells are needed for the system
+- Assign numbers to all the states. This is crucial because it will tell how many memory cells are needed for the systemhttp://10.178.44.104/
 - Truth table - k-maps
 <u>Moore Machine</u> - output depends only on the current state
 <u>Mealy Machine</u> - depends on present state and current input
@@ -57,7 +57,7 @@ Resettable Flip-Flop - useful when trying to force all flip-flops into a state
 - $t_{ccq}$ - the shortest time when the output starts changing in response to the rising edge of the clock
 - $t_{pcq}$ - the longest time allowes before the Q settles to the final value
 - To sample the ipnut value D properly, the input must be stabilized at least
-	- $t_{setup}$ minimum time the ipnut(s) is stable before the clock rising edge
+	- $t_{setup}$ minimum time the inputs(s) is stable before the clock rising edge
 	- $t_{hold}$ minimum time the input(s) is stable after the clock rising edge
 	- The sum of the setup and hold times are the aperture times![[Pasted image 20240325175147.png]]
 <u>System Timing</u>

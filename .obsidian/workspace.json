@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d83dabe4138f6e69",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,14 +189,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25b6a33fa1880b46",
+  "active": "d83dabe4138f6e69",
   "lastOpenFiles": [
-    "Screenshots/Pasted image 20240327174504.png",
     "Digital Logic/Sequential Logic Design.md",
-    "Screenshots/Pasted image 20240325175147.png",
+    "Digital Logic/VHDL.md",
+    "Human Lang Tech/Word Sense Disambiguation.md",
+    "Screenshots/Pasted image 20240401144107.png",
+    "Human Lang Tech/Word Dense Embeddings.md",
     "Human Lang Tech/Syntactic Parsing.md",
+    "Screenshots/Pasted image 20240327174504.png",
+    "Screenshots/Pasted image 20240325175147.png",
     "Screenshots/Pasted image 20240325153040.png",
-    "Digital Logic/Untitled.md",
     "PyTorch/Pipelining.md",
     "Previous Classes/Databases/Basic SQL.md",
     "Blockchain/Blockchain Preliminaries.md",
@@ -208,15 +222,12 @@
     "Digital Logic/Combinational Circuits.md",
     "PyTorch",
     "Screenshots/Pasted image 20240228181817.png",
-    "Screenshots/Pasted image 20240228180856.png",
-    "Human Lang Tech/Word Dense Embeddings.md",
     "Previous Classes/Advanced Algorithms/Master Method.md",
     "Previous Classes/Advanced Algorithms/Asymptotic.md",
     "Human Lang Tech/Part-of-Speech Tagging.md",
     "Digital Logic/Introduction.md",
     "Blockchain/Ethereum.md",
     "Blockchain/Smart Contracts.md",
-    "Screenshots/Pasted image 20240221173554.png",
     "Digital Logic",
     "Human Lang Tech",
     "Blockchain",

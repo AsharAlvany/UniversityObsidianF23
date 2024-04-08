@@ -166,6 +166,7 @@ Point
 Propagation
 Packages
 PyTorch
+Parallelism
 Lema
 Last
 Lookaside
@@ -264,6 +265,8 @@ LAST
 LAYER
 Latches
 Latch
+Latency
+Labeling
 is
 intersection
 internal
@@ -458,6 +461,7 @@ implicates
 implicants
 import
 increases
+ideally
 used
 under
 user
@@ -730,6 +734,9 @@ timing
 terminals
 timm
 tells
+trhough
+throughput
+thematic
 find
 fragmentation
 from
@@ -904,6 +911,7 @@ fare
 flights
 flop
 flops
+frames
 whether
 waste
 within
@@ -1887,6 +1895,9 @@ attachment
 art
 allowes
 aperture
+accounted
+annotations
+abstract
 process
 program
 physical
@@ -2194,6 +2205,10 @@ paradigm
 parallelizing
 packages
 pytorch
+pipelining
+pipelined
+predicates
+predicate
 The
 There
 Three
@@ -2318,6 +2333,8 @@ Temporal
 Timing
 Therefore
 Transition
+Token
+Throughput
 expression
 entry
 enable
@@ -3099,6 +3116,9 @@ stabilized
 stable
 setup
 satisfy
+skew
+stages
+spatially
 closed
 can
 contiguous
@@ -3507,6 +3527,7 @@ conjunction
 conforming
 curcial
 cells
+calculations
 given
 global
 give
@@ -4907,6 +4928,8 @@ Show
 Synchronous
 Skip
 Skew
+Spatial
+Super
 KB
 Key
 Knowledge
@@ -5066,6 +5089,7 @@ hermann
 hen
 histories
 homogeneous
+hence
 Use
 Unsupervised
 User
@@ -5690,6 +5714,8 @@ Falling
 Flop
 Finite
 FSM
+Frames
+Frame
 you
 your
 yields
@@ -5874,6 +5900,7 @@ OG
 Optimization
 Outputs
 Ordinal
+Or
 Another
 Attributes
 AI
@@ -6039,6 +6066,7 @@ Asynchronous
 Ambiguity
 Augment
 Accepting
+Automatic
 Internal
 In
 It
