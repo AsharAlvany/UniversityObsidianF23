@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/Sequential Logic Design.md",
+                "file": "Digital Logic/VHDL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d83dabe4138f6e69",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 334.5086555480957,
     "collapsed": true
   },
   "right": {
@@ -109,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/Sequential Logic Design.md",
+                "file": "Digital Logic/VHDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/Sequential Logic Design.md"
+                "file": "Digital Logic/VHDL.md"
               }
             }
           },
@@ -151,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/Sequential Logic Design.md",
+                "file": "Digital Logic/VHDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -189,13 +178,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d83dabe4138f6e69",
+  "active": "25b6a33fa1880b46",
   "lastOpenFiles": [
-    "Digital Logic/Sequential Logic Design.md",
-    "Digital Logic/VHDL.md",
-    "Human Lang Tech/Word Sense Disambiguation.md",
-    "Screenshots/Pasted image 20240401144107.png",
+    "Digital Logic/Digital Building Blocks.md",
+    "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
+    "Human Lang Tech/Untitled.md",
+    "Human Lang Tech/Untitled 1.md",
+    "Screenshots/Pasted image 20240417150922.png",
+    "Human Lang Tech/Neural Language Models.md",
+    "Screenshots/Pasted image 20240417151350.png",
+    "Screenshots/Pasted image 20240417151229.png",
+    "Screenshots/Pasted image 20240417150548.png",
+    "Screenshots/Pasted image 20240417150542.png",
     "Human Lang Tech/Word Dense Embeddings.md",
+    "Digital Logic/VHDL.md",
+    "Human Lang Tech/FFNN Preparation Pill.md",
+    "Human Lang Tech/Neural Summarization.md",
+    "Human Lang Tech/Affect Language Processing.md",
+    "Screenshots/Pasted image 20240410145555.png",
+    "Human Lang Tech/Word Sense Disambiguation.md",
+    "Digital Logic/Sequential Logic Design.md",
+    "Screenshots/Pasted image 20240401144107.png",
     "Human Lang Tech/Syntactic Parsing.md",
     "Screenshots/Pasted image 20240327174504.png",
     "Screenshots/Pasted image 20240325175147.png",
@@ -205,29 +208,14 @@
     "Blockchain/Blockchain Preliminaries.md",
     "PyTorch/Usage - Classifying Playing Cards.md",
     "Previous Classes/Operating Systems/Multi-Threading.md",
-    "Screenshots/Pasted image 20240306144533.png",
     "Human Lang Tech/Semantic Role Labeling.md",
-    "Human Lang Tech/Affect Language Processing.md",
     "Human Lang Tech/Special Topics in HLT.md",
     "Human Lang Tech/Introduction to HLT.md",
     "Human Lang Tech/Basic Text Processing.md",
     "Human Lang Tech/Language Modeling with N-Grams.md",
     "Human Lang Tech/Vectors.md",
     "Human Lang Tech/Formal Grammars.md",
-    "Screenshots/Pasted image 20240306143511.png",
-    "Screenshots/Pasted image 20240306143401.png",
-    "Screenshots/Pasted image 20240304174016.png",
-    "Screenshots/Pasted image 20240304173758.png",
-    "Blockchain/Hyperledger.md",
-    "Digital Logic/Combinational Circuits.md",
     "PyTorch",
-    "Screenshots/Pasted image 20240228181817.png",
-    "Previous Classes/Advanced Algorithms/Master Method.md",
-    "Previous Classes/Advanced Algorithms/Asymptotic.md",
-    "Human Lang Tech/Part-of-Speech Tagging.md",
-    "Digital Logic/Introduction.md",
-    "Blockchain/Ethereum.md",
-    "Blockchain/Smart Contracts.md",
     "Digital Logic",
     "Human Lang Tech",
     "Blockchain",

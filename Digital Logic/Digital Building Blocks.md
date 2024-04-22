@@ -1,0 +1,23 @@
+<u>Carry Propagate Adder</u> - an adder that is capable of adding more than one bit, similar to a full adder but the two inputs are busses instead of a single-bit each
+- Ripple-carry adder
+	- Simplest implementation
+	- Wiring/chaining full-adders together
+	- The model is slow O(N) which is very low
+	- $t_{ripple} = Nt_{FA}$
+- Carry-look-ahead
+	- Uses a mathematical model to produce a $C_{in}$ simultaneously
+		- Generate when carry in is 0 and the two inputs are both 1
+		- Propagate when carry in is 1 regardless of the inputs
+	- Therefore $C_{out} = AB + (A \oplus B)C_{in} = G+PC_{in}$
+	- $C_{in(i+1)} = g_{i} + p_iC_{i}$
+	- $C_{i}$ is what the previous adder can GENERATE or what the previous adder can PROPAGATE (and what the previous adder can PROPAGATE is what the doubly previous adder can what that adder can GENERATE or what that adder can PROPAGATE and what the double previous adder can PROPAGATE is ...)
+	- $C_4 = g_3 + p_3(g_2 + p_2)(...)))$
+- Prefix adder
+- A CPA can become a CPS by inverting the second input (B) and connecting the $C_{in}$ to a power source (because two's complement is the inversion plus one)
+- <u>Comparator</u>
+	- Equality - do a negation xor connected to an and gate
+	- Magnitude
+- <u>Shifters and Rotators</u> - move bits and multiply or divide by powers of 2
+	- Shifters shift a binary number left or right by a specific number of positions
+		- Logical shifters shifts the number to the left or right (LSR/LSF) and fills empty spots with 0's
+		- Arithmetic shift - used for signed numbers fills the empty spots by the most significant bit
