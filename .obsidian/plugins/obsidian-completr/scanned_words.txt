@@ -174,6 +174,8 @@ Prefix
 PP
 Pw
 PROPAGATE
+Programmable
+Products
 Lema
 Last
 Lookaside
@@ -482,6 +484,8 @@ ir
 informs
 inverting
 inversion
+inverters
+indefinitely
 used
 under
 user
@@ -1218,6 +1222,7 @@ liking
 loving
 laden
 listener
+leaks
 regular
 right
 resulting
@@ -1470,6 +1475,9 @@ ryZZjjj
 recurrent
 requred
 representing
+rewritten
+refreshed
+retains
 or
 of
 other
@@ -1687,6 +1695,7 @@ noon
 normally
 nervous
 nqw
+nonvolatile
 and
 are
 applications
@@ -1969,6 +1978,7 @@ adders
 ahead
 ag
 algo
+allotted
 process
 program
 physical
@@ -3227,6 +3237,7 @@ saving
 shifters
 shifts
 spots
+static
 closed
 can
 contiguous
@@ -3646,6 +3657,7 @@ connections
 constitute
 compressed
 connecting
+coupled
 given
 global
 give
@@ -4580,6 +4592,8 @@ EQ
 EFn
 Elman
 Equality
+Electrically
+Erasable
 Manage
 Mapping
 MB
@@ -4798,6 +4812,7 @@ variability
 valuing
 vUVV
 vtF
+volatile
 Have
 How
 Handler
@@ -5098,6 +5113,8 @@ Semi
 Simplest
 SRN
 Shifters
+Shift
+SRAM
 KB
 Key
 Knowledge
@@ -5906,6 +5923,7 @@ Frame
 FG
 Fb
 Forward
+Flash
 you
 your
 yields
@@ -6272,6 +6290,9 @@ Adder
 AxpJQ
 AYeAucQmcz
 Arithmetic
+As
+Addressability
+Arrays
 Internal
 In
 It

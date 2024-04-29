@@ -77,3 +77,10 @@ begin
 	end process;
 end;
 ```
+```c++
+void arb_function(int n) {
+	for (int i = n; i > 0; i--){
+		arb_function(i-1);
+	}
+}
+```

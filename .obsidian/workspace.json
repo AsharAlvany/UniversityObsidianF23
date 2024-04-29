@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/VHDL.md",
+                "file": "Digital Logic/Digital Building Blocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/VHDL.md",
+                "file": "Digital Logic/Digital Building Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/VHDL.md"
+                "file": "Digital Logic/Digital Building Blocks.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/VHDL.md",
+                "file": "Digital Logic/Digital Building Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,8 @@
   "active": "25b6a33fa1880b46",
   "lastOpenFiles": [
     "Digital Logic/Digital Building Blocks.md",
+    "Screenshots/Pasted image 20240424175928.png",
+    "Digital Logic/VHDL.md",
     "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
     "Human Lang Tech/Untitled.md",
     "Human Lang Tech/Untitled 1.md",
@@ -191,7 +193,6 @@
     "Screenshots/Pasted image 20240417150548.png",
     "Screenshots/Pasted image 20240417150542.png",
     "Human Lang Tech/Word Dense Embeddings.md",
-    "Digital Logic/VHDL.md",
     "Human Lang Tech/FFNN Preparation Pill.md",
     "Human Lang Tech/Neural Summarization.md",
     "Human Lang Tech/Affect Language Processing.md",
@@ -202,7 +203,6 @@
     "Human Lang Tech/Syntactic Parsing.md",
     "Screenshots/Pasted image 20240327174504.png",
     "Screenshots/Pasted image 20240325175147.png",
-    "Screenshots/Pasted image 20240325153040.png",
     "PyTorch/Pipelining.md",
     "Previous Classes/Databases/Basic SQL.md",
     "Blockchain/Blockchain Preliminaries.md",

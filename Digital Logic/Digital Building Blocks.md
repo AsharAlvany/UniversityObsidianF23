@@ -21,3 +21,14 @@
 	- Shifters shift a binary number left or right by a specific number of positions
 		- Logical shifters shifts the number to the left or right (LSR/LSF) and fills empty spots with 0's
 		- Arithmetic shift - used for signed numbers fills the empty spots by the most significant bit
+- <u>Shift Registers</u> - a group of registers connected in series. As new data comes in, the old data shifts down a bit for the new data to be allotted
+- <u>Multiplication Using Shift Registers</u> - 
+- ==<u>Addressability</u>== - the number of bits stored at each location
+- <u>Memory Types</u> - 
+	- RAM - volatile, loses its data when power is turned off
+		- DRAM - stores data as a charge on a capacitor, must be rewritten after each read, must be refreshed because charge leaks over time
+		- SRAM - stores data using a pair of cross-coupled inverters, static because stored bits do not need to be refreshed![[Pasted image 20240424175928.png]]
+	- ROM - nonvolatile, retains its data indefinitely
+		- Flash memory - read only memory (Electrically Erasable Programmable Read Only Memory) works at a block level
+- <u>Programmable Logic Arrays</u> - SOP (Sum of Products)
+	- M is the number of inputs, N is the number of implicants, P is the number of Outputs
