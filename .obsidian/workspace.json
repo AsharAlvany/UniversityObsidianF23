@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f405c42894de9354",
+        "id": "6a2c1c6a3a1822b7",
         "type": "tabs",
         "children": [
           {
-            "id": "25b6a33fa1880b46",
+            "id": "a53e8eb5a5053635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/Digital Building Blocks.md",
+                "file": "AWS CCP/Global Infrastructure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2240d65a78e7fd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS CCP/Cloud Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/Digital Building Blocks.md",
+                "file": "AWS CCP/Cloud Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/Digital Building Blocks.md"
+                "file": "AWS CCP/Cloud Architecture.md"
               }
             }
           },
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/Digital Building Blocks.md",
+                "file": "AWS CCP/Cloud Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,9 +192,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25b6a33fa1880b46",
+  "active": "2240d65a78e7fd00",
   "lastOpenFiles": [
+    "AWS CCP/Global Infrastructure.md",
+    "AWS CCP/Cloud Architecture.md",
+    "AWS CCP/Cloud Concepts.md",
+    "Screenshots/Pasted image 20240518183438.png",
+    "Screenshots/Pasted image 20240518180815.png",
     "Digital Logic/Digital Building Blocks.md",
+    "AWS CCP",
     "Screenshots/Pasted image 20240424175928.png",
     "Digital Logic/VHDL.md",
     "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
@@ -201,8 +221,6 @@
     "Digital Logic/Sequential Logic Design.md",
     "Screenshots/Pasted image 20240401144107.png",
     "Human Lang Tech/Syntactic Parsing.md",
-    "Screenshots/Pasted image 20240327174504.png",
-    "Screenshots/Pasted image 20240325175147.png",
     "PyTorch/Pipelining.md",
     "Previous Classes/Databases/Basic SQL.md",
     "Blockchain/Blockchain Preliminaries.md",
@@ -213,8 +231,6 @@
     "Human Lang Tech/Introduction to HLT.md",
     "Human Lang Tech/Basic Text Processing.md",
     "Human Lang Tech/Language Modeling with N-Grams.md",
-    "Human Lang Tech/Vectors.md",
-    "Human Lang Tech/Formal Grammars.md",
     "PyTorch",
     "Digital Logic",
     "Human Lang Tech",
@@ -223,7 +239,6 @@
     "Previous Classes/Operating Systems",
     "Previous Classes/Machine Learning",
     "Previous Classes/Images",
-    "Previous Classes/History",
-    "Previous Classes/Discrete Mathematics"
+    "Previous Classes/History"
   ]
 }

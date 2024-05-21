@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbCloud",
       "IbChip",
       "FarHandPeace",
       "IbRectangleWithBlocks",
-      "SiCounterstrike",
-      "FarImage"
+      "SiCounterstrike"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,6 @@
   "Previous Classes/University Physics II": "SiGrav",
   "Blockchain": "IbRectangleWithBlocks",
   "Human Lang Tech": "FarHandPeace",
-  "Digital Logic": "IbChip"
+  "Digital Logic": "IbChip",
+  "AWS CCP": "IbCloud"
 }
