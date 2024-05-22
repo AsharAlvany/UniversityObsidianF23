@@ -180,6 +180,7 @@ PaaS
 Provides
 Presence
 POP
+Pilot
 Lema
 Last
 Lookaside
@@ -497,6 +498,7 @@ isolation
 innovate
 implementaion
 interact
+incurring
 used
 under
 user
@@ -582,6 +584,8 @@ utilization
 utilizing
 usafe
 uploads
+unimpeded
+unplanned
 to
 this
 the
@@ -793,6 +797,8 @@ timestep
 tem
 tenants
 traffic
+technical
+tolerate
 find
 fragmentation
 from
@@ -978,6 +984,8 @@ fills
 flexible
 fiels
 fees
+failover
+failures
 whether
 waste
 within
@@ -1246,6 +1254,7 @@ listener
 leaks
 launch
 locations
+lose
 regular
 right
 resulting
@@ -1503,6 +1512,11 @@ refreshed
 retains
 routing
 regions
+researching
+remains
+restore
+replicates
+reliable
 or
 of
 other
@@ -1631,6 +1645,7 @@ oJkk
 online
 offering
 origin
+outline
 not
 negation
 need
@@ -2013,6 +2028,8 @@ abstracted
 accessible
 admins
 agility
+architects
+architecting
 process
 program
 physical
@@ -2332,6 +2349,7 @@ pNw
 provides
 positions
 privately
+preferred
 The
 There
 Three
@@ -2705,6 +2723,8 @@ earlier
 eCommerce
 extend
 economies
+experimentation
+enabling
 Regular
 Register
 Relational
@@ -2859,6 +2879,10 @@ Relies
 RDS
 Regions
 Regional
+Region
+RPO
+RTO
+Restore
 sets
 set
 system
@@ -3293,6 +3317,10 @@ salable
 synergy
 strategy
 scale
+servers
+scaling
+staging
+scaled
 closed
 can
 contiguous
@@ -3722,6 +3750,7 @@ clicks
 cached
 caches
 content
+corruptoin
 given
 global
 give
@@ -4362,6 +4391,9 @@ developers
 deploy
 datacenters
 delivery
+documentation
+disruption
+downtime
 know
 kern
 key
@@ -4558,6 +4590,7 @@ backpropagation
 bookstore
 billing
 bucket
+backed
 Efficiency
 Entry
 ENTRY
@@ -4681,6 +4714,7 @@ Early
 EFS
 EBS
 Edge
+Elasticity
 Manage
 Mapping
 MB
@@ -4821,6 +4855,7 @@ Mood
 MQc
 Mf
 Main
+Minutes
 virtual
 values
 variable
@@ -4983,6 +5018,7 @@ HDL
 Hb
 Hosting
 Huawei
+Hours
 Split
 Summary
 SHARED
@@ -5216,6 +5252,10 @@ Selipsky
 SaaS
 Stop
 Services
+Scalability
+Scaling
+Standby
+Scaled
 KB
 Key
 Knowledge
@@ -5386,6 +5426,7 @@ hr
 hot
 hundreds
 headquarterd
+horizontal
 Use
 Unsupervised
 User
@@ -5713,6 +5754,8 @@ CSPs
 CloudStack
 CloudFront
 Content
+CloudEndure
+Continuity
 Directory
 DIRECTORY
 Dependency
@@ -5848,6 +5891,7 @@ DQQ
 Dedicated
 Deployment
 Delivery
+Disaster
 We
 Without
 Why
@@ -5925,6 +5969,7 @@ WSD
 Wiring
 WUW
 Werner
+Warm
 First
 Fragmentation
 Functional
@@ -6179,6 +6224,10 @@ Backpropagation
 Better
 Bezos
 Backed
+Balancer
+Backups
+Business
+Backup
 One
 Overfitting
 Out
@@ -6432,6 +6481,9 @@ Advantages
 Acceleration
 Accerlerator
 Accelerators
+Architect
+Auto
+Active
 Internal
 In
 It
