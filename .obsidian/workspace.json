@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a53e8eb5a5053635",
+            "id": "3fbe69517d96c22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CCP/Global Infrastructure.md",
+                "file": "AWS CCP/Reintroduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2240d65a78e7fd00",
+            "id": "ad7ce085da6a39ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CCP/Cloud Architecture.md",
+                "file": "AWS CCP/AWS Services.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "b85cb688cc612340",
+            "id": "89150edae301b396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CCP/Introduction.md",
+                "file": "AWS CCP/AWS Networking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c4d799ee65856d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS CCP/AWS User Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CCP/Introduction.md",
+                "file": "AWS CCP/AWS User Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS CCP/Introduction.md"
+                "file": "AWS CCP/AWS User Management.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CCP/Introduction.md",
+                "file": "AWS CCP/AWS User Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,14 +218,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b85cb688cc612340",
+  "active": "8c4d799ee65856d4",
   "lastOpenFiles": [
-    "Screenshots/Pasted image 20240521203548.png",
+    "AWS CCP/AWS Networking.md",
+    "AWS CCP/AWS User Management.md",
+    "Screenshots/Pasted image 20240523151601.png",
+    "AWS CCP/Reintroduction.md",
+    "AWS CCP/AWS Services.md",
+    "Screenshots/Pasted image 20240522181126.png",
+    "AWS CCP/Global Infrastructure.md",
     "AWS CCP/Cloud Architecture.md",
-    "AWS CCP/Introduction.md",
+    "Screenshots/Pasted image 20240521203548.png",
     "AWS CCP/Management and Developer Tools.md",
     "Screenshots/Pasted image 20240521190008.png",
-    "AWS CCP/Global Infrastructure.md",
     "AWS CCP/Cloud Concepts.md",
     "Screenshots/Pasted image 20240518183438.png",
     "Screenshots/Pasted image 20240518180815.png",
@@ -227,13 +245,10 @@
     "Human Lang Tech/Neural Language Models.md",
     "Screenshots/Pasted image 20240417151350.png",
     "Screenshots/Pasted image 20240417151229.png",
-    "Screenshots/Pasted image 20240417150548.png",
-    "Screenshots/Pasted image 20240417150542.png",
     "Human Lang Tech/Word Dense Embeddings.md",
     "Human Lang Tech/FFNN Preparation Pill.md",
     "Human Lang Tech/Neural Summarization.md",
     "Human Lang Tech/Affect Language Processing.md",
-    "Screenshots/Pasted image 20240410145555.png",
     "Human Lang Tech/Word Sense Disambiguation.md",
     "Digital Logic/Sequential Logic Design.md",
     "Human Lang Tech/Syntactic Parsing.md",
@@ -242,8 +257,6 @@
     "Blockchain/Blockchain Preliminaries.md",
     "PyTorch/Usage - Classifying Playing Cards.md",
     "Previous Classes/Operating Systems/Multi-Threading.md",
-    "Human Lang Tech/Semantic Role Labeling.md",
-    "Human Lang Tech/Special Topics in HLT.md",
     "PyTorch",
     "Digital Logic",
     "Human Lang Tech",
