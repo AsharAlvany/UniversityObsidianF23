@@ -190,6 +190,9 @@ Perimeter
 Protects
 Principle
 Principal
+Pub
+Policies
+Plans
 Lema
 Last
 Lookaside
@@ -300,6 +303,8 @@ Locations
 Local
 Line
 Lambda
+License
+Logs
 is
 intersection
 internal
@@ -514,6 +519,9 @@ incurring
 implicitly
 inherently
 intermediate
+incoming
+inistances
+identifying
 used
 under
 user
@@ -826,6 +834,7 @@ tiering
 truck
 tunnel
 touches
+thought
 find
 fragmentation
 from
@@ -1023,6 +1032,7 @@ firewall
 filter
 federated
 facilitated
+format
 whether
 waste
 within
@@ -1300,6 +1310,7 @@ login
 lightsail
 logically
 letting
+licenses
 regular
 right
 resulting
@@ -1573,6 +1584,9 @@ removiing
 requests
 refers
 retrieval
+receivers
+react
+rsources
 or
 of
 other
@@ -1801,6 +1815,8 @@ networking
 notify
 nut
 noSQL
+notifications
+nuances
 and
 are
 applications
@@ -2109,6 +2125,13 @@ attacks
 authorized
 analyze
 actionspav
+analyzing
+applciation
+actoins
+analyzed
+adopting
+approaching
+allocation
 process
 program
 physical
@@ -2437,6 +2460,9 @@ play
 provisioning
 personnel
 programmatic
+publishers
+pub
+pinpoint
 The
 There
 Three
@@ -2577,6 +2603,9 @@ Tenets
 Tenancy
 TB
 Threat
+Tagging
+Total
+TCO
 expression
 entry
 enable
@@ -2827,6 +2856,7 @@ establishes
 envelope
 enforce
 enacted
+exceeding
 Regular
 Register
 Relational
@@ -3443,6 +3473,13 @@ subnet
 stateless
 secured
 settings
+senders
+subscribers
+streaming
+sits
+shop
+subsequent
+spreadsheets
 closed
 can
 contiguous
@@ -3887,6 +3924,14 @@ containers
 container
 cheaper
 connect
+consumed
+containerized
+centrally
+consolidated
+compliant
+configured
+classify
+compare
 given
 global
 give
@@ -3971,6 +4016,8 @@ gloomy
 guessing
 geographic
 grant
+guardrails
+granularity
 methods
 memory
 main
@@ -4193,6 +4240,9 @@ migrate
 memcached
 monitors
 managing
+messaging
+middleman
+monthly
 Goals
 Given
 Gradient
@@ -4280,6 +4330,9 @@ Globale
 GovCloud
 Glacier
 GuardDuty
+Gateways
+Gateway
+Governance
 do
 digits
 directory
@@ -4553,6 +4606,9 @@ docker
 denies
 deny
 dangerous
+decouple
+detailing
+detailed
 know
 kern
 key
@@ -4757,6 +4813,9 @@ balanced
 bought
 balancers
 benchmark
+backend
+bills
+budgets
 Efficiency
 Entry
 ENTRY
@@ -4885,6 +4944,9 @@ Economies
 Excellence
 ECS
 Elasticache
+EventBridge
+EKS
+Explorer
 Manage
 Mapping
 MB
@@ -5032,6 +5094,7 @@ MariaDB
 Microsoft
 MongoDB
 MFA
+Manager
 virtual
 values
 variable
@@ -5117,6 +5180,7 @@ vie
 vSphere
 vulnerable
 vulnerabilities
+versus
 Have
 How
 Handler
@@ -5451,6 +5515,11 @@ SSE
 Shield
 Specify
 Should
+Sub
+Streaming
+SNS
+Stored
+Setup
 KB
 Key
 Knowledge
@@ -5500,6 +5569,7 @@ Karnaugh
 KE
 Kits
 Kubernetes
+Kinesis
 zero
 zS
 zs
@@ -5631,6 +5701,10 @@ hiighly
 host
 hourly
 hands
+handlers
+happening
+historical
+hiring
 Use
 Unsupervised
 User
@@ -5677,6 +5751,7 @@ URL
 Utilize
 Utilizes
 Users
+Usage
 Virtual
 Vector
 Validation
@@ -5981,6 +6056,11 @@ Client
 Circumstances
 Cognito
 Changng
+CloudWatch
+Container
+CloudFormation
+Calculator
+Consolidated
 Directory
 DIRECTORY
 Dependency
@@ -6129,6 +6209,9 @@ DB
 DDOS
 DNS
 Deny
+Docker
+Dashboards
+DATA
 We
 Without
 Why
@@ -6208,6 +6291,7 @@ WUW
 Werner
 Warm
 Well
+Who
 First
 Fragmentation
 Functional
@@ -6475,6 +6559,8 @@ Benefits
 Boundaries
 Balancers
 Beanstalk
+Budgets
+Billing
 One
 Overfitting
 Out
@@ -6546,6 +6632,9 @@ Optimizations
 Outposts
 Online
 Optional
+Organizational
+OK
+Ownership
 Another
 Attributes
 AI
@@ -6752,6 +6841,12 @@ ALWAYS
 Allow
 Action
 Account
+APIs
+Artifact
+Assist
+Alarms
+ALARM
+Athena
 Internal
 In
 It
@@ -6866,6 +6961,7 @@ Inspector
 IAM
 Identities
 Integration
+INSUFFICIENT
 Normal
 NF
 Note
@@ -6935,6 +7031,7 @@ Nouns
 Noun
 Networks
 NoSQL
+Notification
 quadratic
 question
 quantum
@@ -6963,6 +7060,7 @@ qqg
 qualities
 questions
 qIRypL
+queues
 xk
 xffff
 xchg
@@ -7065,6 +7163,7 @@ Qk
 QQ
 QVa
 Queue
+Queuing
 Xh
 XX
 XI
