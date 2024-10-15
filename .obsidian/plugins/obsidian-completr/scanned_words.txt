@@ -193,6 +193,7 @@ Principal
 Pub
 Policies
 Plans
+Provineer
 Lema
 Last
 Lookaside
@@ -305,6 +306,7 @@ Line
 Lambda
 License
 Logs
+Lease
 is
 intersection
 internal
@@ -1311,6 +1313,8 @@ lightsail
 logically
 letting
 licenses
+loan
+lease
 regular
 right
 resulting
@@ -1587,6 +1591,7 @@ retrieval
 receivers
 react
 rsources
+retail
 or
 of
 other
@@ -2132,6 +2137,9 @@ analyzed
 adopting
 approaching
 allocation
+adapter
+apples
+approval
 process
 program
 physical
@@ -3022,6 +3030,8 @@ RDBS
 Redshift
 Route
 Resource
+Replacing
+Retail
 sets
 set
 system
@@ -4333,6 +4343,7 @@ GuardDuty
 Gateways
 Gateway
 Governance
+GMF
 do
 digits
 directory
@@ -5262,6 +5273,7 @@ Huawei
 Hours
 Horizontal
 HDD
+Highly
 Split
 Summary
 SHARED
@@ -5520,6 +5532,7 @@ Streaming
 SNS
 Stored
 Setup
+Scenario
 KB
 Key
 Knowledge
@@ -6061,6 +6074,7 @@ Container
 CloudFormation
 Calculator
 Consolidated
+Canada
 Directory
 DIRECTORY
 Dependency
@@ -6212,6 +6226,8 @@ Deny
 Docker
 Dashboards
 DATA
+Dealers
+Dealer
 We
 Without
 Why
@@ -6847,6 +6863,7 @@ Assist
 Alarms
 ALARM
 Athena
+APR
 Internal
 In
 It
@@ -7164,6 +7181,7 @@ QQ
 QVa
 Queue
 Queuing
+Qualification
 Xh
 XX
 XI

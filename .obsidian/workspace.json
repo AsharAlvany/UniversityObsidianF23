@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58009427dfb16788",
+        "id": "18e343b08a0264ab",
         "type": "tabs",
         "children": [
           {
-            "id": "7e438481ef6983c0",
+            "id": "8bd12918804b9eb8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5086555480957,
-    "collapsed": true
+    "width": 334.5086555480957
   },
   "right": {
     "id": "e25bdb2c9ee490a8",
@@ -169,8 +168,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e438481ef6983c0",
+  "active": "8bd12918804b9eb8",
   "lastOpenFiles": [
+    "Azure Cloud/Different Type.md",
+    "GMF Helix Future State Funding/Architecture.md",
+    "Azure Cloud/Cloud Service Categories.md",
+    "Azure Cloud/Untitled",
+    "Azure Cloud",
+    "Digital Logic/Sequential Logic Design.md",
+    "GMF Helix Future State Funding",
+    "Digital Logic/Combinational Circuits.md",
+    "Digital Logic/VHDL.md",
+    "Digital Logic/Digital Building Blocks.md",
     "AWS CCP/AWS User Management.md",
     "AWS CCP/AWS Networking.md",
     "AWS CCP/Reintroduction.md",
@@ -187,10 +196,8 @@
     "AWS CCP/Cloud Concepts.md",
     "Screenshots/Pasted image 20240518183438.png",
     "Screenshots/Pasted image 20240518180815.png",
-    "Digital Logic/Digital Building Blocks.md",
     "AWS CCP",
     "Screenshots/Pasted image 20240424175928.png",
-    "Digital Logic/VHDL.md",
     "Human Lang Tech/Sequence Processing with Recurrent Nets.md",
     "Human Lang Tech/Untitled.md",
     "Human Lang Tech/Untitled 1.md",
@@ -201,20 +208,13 @@
     "Human Lang Tech/Neural Summarization.md",
     "Human Lang Tech/Affect Language Processing.md",
     "Human Lang Tech/Word Sense Disambiguation.md",
-    "Digital Logic/Sequential Logic Design.md",
     "Human Lang Tech/Syntactic Parsing.md",
     "PyTorch/Pipelining.md",
-    "Previous Classes/Databases/Basic SQL.md",
-    "Blockchain/Blockchain Preliminaries.md",
-    "PyTorch/Usage - Classifying Playing Cards.md",
     "PyTorch",
     "Digital Logic",
     "Human Lang Tech",
     "Blockchain",
     "Previous Classes",
-    "Previous Classes/Operating Systems",
-    "Previous Classes/Machine Learning",
-    "Previous Classes/Images",
-    "Previous Classes/History"
+    "Previous Classes/Operating Systems"
   ]
 }
